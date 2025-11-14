@@ -639,13 +639,13 @@
       },
       {
         "letter": "B",
-        "text_german": "",
+        "text_german": "Japan",
         "text_english": "Japan",
         "is_correct": true
       },
       {
         "letter": "C",
-        "text_german": "",
+        "text_german": "USA",
         "text_english": "USA",
         "is_correct": false
       },
@@ -1095,7 +1095,7 @@
     "answers": [
       {
         "letter": "A",
-        "text_german": "",
+        "text_german": "9. November",
         "text_english": "9. November",
         "is_correct": false
       },
@@ -1128,7 +1128,7 @@
     "answers": [
       {
         "letter": "A",
-        "text_german": "",
+        "text_german": "DDR",
         "text_english": "DDR",
         "is_correct": true
       },
