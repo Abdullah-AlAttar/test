@@ -1,0 +1,1091 @@
+[
+  {
+    "question_number": 214,
+    "question_german": "In Deutschland sind die meisten Erwerbstätigen …",
+    "question_english": "In Germany, most working population …",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "bei einer Firma oder Behörde beschäftigt.",
+        "text_english": "employed by a company or organization.",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text_german": "selbständig mit einer eigenen Firma tätig.",
+        "text_english": "self-employed with his own company.",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text_german": "in kleinen Familienunternehmen beschäftigt.",
+        "text_english": "employed in small family businesses.",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text_german": "ehrenamtlich für ein Bundesland tätig.",
+        "text_english": "Volunteer for a state.",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "A",
+    "image_path": null
+  },
+  {
+    "question_number": 215,
+    "question_german": "Die Wirtschaftsform in Deutschland nennt man …",
+    "question_english": "The economic system in Germany is called …",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "Planwirtschaft.",
+        "text_english": "Planned economy.",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text_german": "gelenkte Zentralwirtschaft.",
+        "text_english": "Controlled central economy.",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text_german": "freie Zentralwirtschaft.",
+        "text_english": "Free central economy.",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text_german": "soziale Marktwirtschaft.",
+        "text_english": "social market economy.",
+        "is_correct": true
+      }
+    ],
+    "correct_answer": "D",
+    "image_path": null
+  },
+  {
+    "question_number": 216,
+    "question_german": "Was bezahlt man in Deutschland automatisch, wenn man fest angestellt ist?",
+    "question_english": "What do you automatically pay in Germany if you are permanently employed?",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "Kindergeld",
+        "text_english": "Child allowance",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text_german": "Wohngeld",
+        "text_english": "Housing allowance",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text_german": "Sozialhilfe",
+        "text_english": "Social care",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text_german": "Sozialversicherung",
+        "text_english": "Social insurance",
+        "is_correct": true
+      }
+    ],
+    "correct_answer": "D",
+    "image_path": null
+  },
+  {
+    "question_number": 217,
+    "question_german": "Wer bezahlt in Deutschland die Sozialversicherungen?",
+    "question_english": "Who pays for social security in Germany?",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "nur Arbeitgeberinnen/Arbeitgeber",
+        "text_english": "Employers only",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text_german": "alle Staatsangehörigen",
+        "text_english": "All nationals",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text_german": "Arbeitgeberinnen/Arbeitgeber und Arbeitnehmerinnen/Arbeitnehmer",
+        "text_english": "Employers and employees",
+        "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text_german": "nur Arbeitnehmerinnen/Arbeitnehmer",
+        "text_english": "Employees only",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "C",
+    "image_path": null
+  },
+  {
+    "question_number": 218,
+    "question_german": "Was gehört nicht zur gesetzlichen Sozialversicherung?",
+    "question_english": "What does not belong to statutory social insurance?",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "die Pflegeversicherung",
+        "text_english": "The care insurance",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text_german": "die Lebensversicherung",
+        "text_english": "Life insurance",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text_german": "die gesetzliche Rentenversicherung",
+        "text_english": "The statutory pension insurance",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text_german": "die Arbeitslosenversicherung",
+        "text_english": "The unemployment insurance",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "B",
+    "image_path": null
+  },
+  {
+    "question_number": 219,
+    "question_german": "Gewerkschaften sind Interessenverbände der …",
+    "question_english": "Trade unions are interest groups of the ...",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "Renterinnen und Rentner.",
+        "text_english": "Pensioners.",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text_german": "Arbeitgeberinnen und Arbeitgeber.",
+        "text_english": "Employers.",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text_german": "Arbeitnehmerinnen und Arbeitnehmer.",
+        "text_english": "Employees.",
+        "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text_german": "Jugendlichen.",
+        "text_english": "Teenagers.",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "C",
+    "image_path": null
+  },
+  {
+    "question_number": 220,
+    "question_german": "Womit kann man in der Bundesrepublik Deutschland geehrt werden, wenn man auf politischem, wirtschaftlichem, kulturellem, geistigem oder sozialem Gebiet eine besondere Leistung erbracht hat? Mit dem …",
+    "question_english": "How can you be honored in the Federal Republic of Germany if you have made a special contribution in a political, economic, cultural, intellectual or social area? With the …",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "Bundesadler",
+        "text_english": "Federal eagle",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text_german": "Ehrentitel \"Held der Deutschen Demokratischen Republik\"",
+        "text_english": "Honorary title “Hero of the German Democratic Republic”",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text_german": "Bundesverdienstkreuz",
+        "text_english": "Federal Cross of Merit",
+        "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text_german": "Vaterländischen Verdienstorden",
+        "text_english": "Patriotic Order of Merit",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "C",
+    "image_path": null
+  },
+  {
+    "question_number": 221,
+    "question_german": "Eine Frau in Deutschland verliert ihre Arbeit. Was darf nicht der Grund für diese Entlassung sein?",
+    "question_english": "A woman in Germany loses her job. What must not be the reason for this dismissal?",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "Die Frau kam oft zu spät zur Arbeit.",
+        "text_english": "The woman was often late for work.",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text_german": "Die Frau bekommt ein Kind und ihr Chef weiß das.",
+        "text_english": "The woman is having a child and her boss knows it.",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text_german": "Die Frau ist lange krank und arbeitsunfähig.",
+        "text_english": "The woman has been ill for a long time and unable to work.",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text_german": "Die Frau erledigt private Sachen während der Arbeitszeit.",
+        "text_english": "The woman does private things during working hours.",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "B",
+    "image_path": null
+  },
+  {
+    "question_number": 222,
+    "question_german": "Viele Menschen in Deutschland arbeiten in ihrer Freizeit ehrenamtlich. Was bedeutet das?",
+    "question_english": "Many people in Germany do volunteer work in their free time. What does that mean?",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "Sie arbeiten in der Bundesregierung.",
+        "text_english": "You work in the federal government.",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text_german": "Sie arbeiten in einem Krankenhaus und verdienen dabei Geld.",
+        "text_english": "You work in a hospital and earn money.",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text_german": "Sie arbeiten freiwillig und unbezahlt in Vereinen und Verbänden.",
+        "text_english": "They work voluntarily and unpaid in clubs and associations.",
+        "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text_german": "Sie arbeiten als Soldatinnen/Soldaten.",
+        "text_english": "They work as soldiers.",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "C",
+    "image_path": null
+  },
+  {
+    "question_number": 223,
+    "question_german": "Wen vertreten die Gewerkschaften in Deutschland?",
+    "question_english": "Who do the unions represent in Germany?",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "kleine Unternehmen",
+        "text_english": "Small companies",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text_german": "Arbeitnehmerinnen und Arbeitnehmer",
+        "text_english": "Employees",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text_german": "grosse Unternehmen",
+        "text_english": "Large companies",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text_german": "Selbstständige",
+        "text_english": "Self-employed",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "B",
+    "image_path": null
+  },
+  {
+    "question_number": 224,
+    "question_german": "Sie gehen in Deutschland zum Arbeitsgericht bei …",
+    "question_english": "You go to the labor court in Germany at …",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "ungerechtfertigter Kündigung durch Ihren Chef/Ihre Chefin.",
+        "text_english": "Unfair dismissal by your boss.",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text_german": "Schwierigkeiten nach einem Verkehrsunfall.",
+        "text_english": "Difficulties after a traffic accident.",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text_german": "falscher Nebenkostenabrechnung.",
+        "text_english": "Incorrect service charge settlement.",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text_german": "Problemen mit den Nachbarn/Nachbarinnen.",
+        "text_english": "Problems with the neighbors.",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "A",
+    "image_path": null
+  },
+  {
+    "question_number": 225,
+    "question_german": "Welches Gericht ist in Deutschland bei Konflikten in der Arbeitswelt zuständig?",
+    "question_english": "Which court is competent in Germany for conflicts in the world of work?",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "das Strafgericht",
+        "text_english": "The criminal court",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text_german": "das Arbeitsgericht",
+        "text_english": "The labor court",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text_german": "das Amtsgericht",
+        "text_english": "The district court",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text_german": "das Familiengericht",
+        "text_english": "The family court",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "B",
+    "image_path": null
+  },
+  {
+    "question_number": 226,
+    "question_german": "Soziale Marktwirtschaft bedeutet, die Wirtschaft …",
+    "question_english": "Social market economy means that the economy...",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "wird vom Staat geplant und gesteuert, Angebot und Nachfrage werden nicht berücksichtigt.",
+        "text_english": "is planned and controlled by the state, supply and demand are not taken into account.",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text_german": "richtet sich nach der Nachfrage im Ausland.",
+        "text_english": "depends on the demand abroad.",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text_german": "richtet sich nach Angebot und Nachfrage, aber der Staat sorgt für einen sozialen Ausgleich.",
+        "text_english": "depends on supply and demand, but the state ensures social balance.",
+        "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text_german": "steuert sich allein nach Angebot und Nachfrage.",
+        "text_english": "is controlled solely by supply and demand.",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "C",
+    "image_path": null
+  },
+  {
+    "question_number": 227,
+    "question_german": "Eine Frau ist schwanger. Sie ist kurz vor und nach der Geburt ihres Kindes vom Gesetz besonders beschützt. Wie heißt dieser Schutz?",
+    "question_english": "A woman is pregnant. She is specially protected by the law shortly before and after the birth of her child. What is this protection called?",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "Geburtsvorbereitung",
+        "text_english": "Childbirth preparation",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text_german": "Elternzeit",
+        "text_english": "Maternity leave",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text_german": "Wochenbett",
+        "text_english": "Childbed",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text_german": "Mutterschutz",
+        "text_english": "Maternity Protection",
+        "is_correct": true
+      }
+    ],
+    "correct_answer": "D",
+    "image_path": null
+  },
+  {
+    "question_number": 228,
+    "question_german": "Ein Ehepaar möchte in Deutschland ein Restaurant eröffnen. Was braucht es dazu unbedingt?",
+    "question_english": "A couple would like to open a restaurant in Germany. What does it absolutely need?",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "eine Genehmigung des Einwohnermeldeamts",
+        "text_english": "a permit from the Residents' Registration Office",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text_german": "eine Genehmigung einer Partei",
+        "text_english": "an approval of a party",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text_german": "eine Erlaubnis der Polizei",
+        "text_english": "permission from the police",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text_german": "eine Gaststättenerlaubnis von der zuständigen Behörde",
+        "text_english": "a restaurant permit from the competent authority",
+        "is_correct": true
+      }
+    ],
+    "correct_answer": "D",
+    "image_path": null
+  },
+  {
+    "question_number": 229,
+    "question_german": "Welches Ehrenamt müssen deutsche Staatsbürgerinnen und Staatsbürger übernehmen, wenn sie dazu aufgefordert werden?",
+    "question_english": "Which voluntary work must German citizens take on if they are asked to do so?",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "Bibliotheksaufsicht",
+        "text_english": "Library supervision",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text_german": "Vereinstrainerin/Vereinstrainer",
+        "text_english": "Club trainer",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text_german": "Lehrerin/Lehrer",
+        "text_english": "Teacher",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text_german": "Wahlhelferin/Wahlhelfer",
+        "text_english": "Election worker",
+        "is_correct": true
+      }
+    ],
+    "correct_answer": "D",
+    "image_path": null
+  },
+  {
+    "question_number": 230,
+    "question_german": "Was man für die Arbeit können muss, ändert sich in Zukunft sehr schnell. Was kann man tun?",
+    "question_english": "What you have to be able to do for work will change very quickly in the future. What can you do?",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "Kinder lernen in der Schule alles, was im Beruf wichtig ist. Nach der Schule muss man nicht weiter lernen.",
+        "text_english": "At school, children learn everything that is important in their job. You don't have to keep studying after school.",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text_german": "Alle müssen früher aufhören zu arbeiten, weil sich alles ändert.",
+        "text_english": "Everyone has to stop working earlier because everything is changing.",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text_german": "Es ist egal, was man lernt.",
+        "text_english": "It doesn't matter what you learn.",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text_german": "Erwachsene müssen auch nach der Ausbildung immer weiter lernen.",
+        "text_english": "Adults need to keep learning, even after they graduate.",
+        "is_correct": true
+      }
+    ],
+    "correct_answer": "D",
+    "image_path": null
+  },
+  {
+    "question_number": 231,
+    "question_german": "Frau Frost arbeitet als fest angestellte Mitarbeiterin in einem Büro. Was muss sie nicht von ihrem Gehalt bezahlen?",
+    "question_english": "Ms. Frost works as a permanent employee in an office. What does she not have to pay out of her salary?",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "Beiträge zur Arbeitslosenversicherung",
+        "text_english": "Contributions to unemployment insurance",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text_german": "Beiträge zur Renten- und Krankenversicherung",
+        "text_english": "Contributions to pension and health insurance",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text_german": "Umsatzsteuer",
+        "text_english": "Value added tax",
+        "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text_german": "Lohnsteuer",
+        "text_english": "Income tax",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "C",
+    "image_path": null
+  },
+  {
+    "question_number": 232,
+    "question_german": "Welche Organisation in einer Firma hilft den Arbeitnehmern und Arbeitnehmerinnen bei Problemen mit der Arbeitgeberin/dem Arbeitgeber?",
+    "question_english": "Which organization in a company helps employees with problems with their employer?",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "der Betriebsprüfer/die Betriebsprüferin",
+        "text_english": "The auditor",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text_german": "das Betriebsmanagement",
+        "text_english": "The operational management",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text_german": "der Betriebsrat",
+        "text_english": "The works council",
+        "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text_german": "die Betriebsgruppe",
+        "text_english": "The operations group",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "C",
+    "image_path": null
+  },
+  {
+    "question_number": 233,
+    "question_german": "Sie möchten bei einer Firma in Deutschland Ihr Arbeitsverhältnis beenden. Was müssen Sie beachten?",
+    "question_english": "You would like to terminate your employment with a company in Germany. What do you have to consider?",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "die Kündigungsfrist",
+        "text_english": "The notice period",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text_german": "die Versicherungspflicht",
+        "text_english": "The insurance obligation",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text_german": "die Gehaltszahlungen",
+        "text_english": "The salary payments",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text_german": "die Arbeitszeit",
+        "text_english": "The working hours",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "A",
+    "image_path": null
+  },
+  {
+    "question_number": 234,
+    "question_german": "Was kann ich in Deutschland machen, wenn mir meine Arbeitgeberin/mein Arbeitgeber zu Unrecht gekündigt hat?",
+    "question_english": "What can I do in Germany if my employer has wrongfully dismissed me?",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "Kündigungsschutzklage erheben",
+        "text_english": "Impose unfair dismissal claim",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text_german": "die Arbeitgeberin/den Arbeitgeber bei der Polizei anzeigen",
+        "text_english": "Report the employer to the police",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text_german": "weiterarbeiten und freundlich zur Chefin/zum Chef sein",
+        "text_english": "Keep working and be friendly to the boss",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text_german": "ein Mahnverfahren gegen den Arbeitgeber/die Arbeitgeberin führen",
+        "text_english": "Conduct dunning proceedings against the employer",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "A",
+    "image_path": null
+  },
+  {
+    "question_number": 235,
+    "question_german": "Wann kommt es in Deutschland zu einem Prozess vor Gericht? Wenn jemand ...",
+    "question_english": "When will there be a court case in Germany? When someone",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "eine andere Meinung als die der Regierung vertritt",
+        "text_english": "Has a different opinion than that of the government",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text_german": "sein Auto falsch geparkt hat und es abgeschleppt wird",
+        "text_english": "Parked his car wrongly and it is towed away",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text_german": "zu einer anderen Religion übertritt",
+        "text_english": "Convert to another religion",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text_german": "eine Straftat begangen hat und angeklagt wird",
+        "text_english": "Has committed a crime and is charged",
+        "is_correct": true
+      }
+    ],
+    "correct_answer": "D",
+    "image_path": null
+  },
+  {
+    "question_number": 236,
+    "question_german": "Wer berät in Deutschland Personen bei Rechtsfragen und vertritt sie vor Gericht?",
+    "question_english": "Who advises people in Germany on legal matters and represents them in court?",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "eine Schöffin/ein Schöffe",
+        "text_english": "A lay judge",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text_german": "eine Staatsanwältin/ein Staatsanwalt",
+        "text_english": "A public prosecutor",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text_german": "eine Rechtsanwältin/ein Rechtsanwalt",
+        "text_english": "A lawyer",
+        "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text_german": "eine Richterin/ein Richter",
+        "text_english": "A Judge",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "C",
+    "image_path": null
+  },
+  {
+    "question_number": 237,
+    "question_german": "Was ist die Hauptaufgabe einer Richterin/eines Richters in Deutschland? Eine Richterin/ein Richter …",
+    "question_english": "What is the main task of a judge in Germany? A judge...",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "ändert Gesetze",
+        "text_english": "Changes Laws",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text_german": "betreut Jugendliche vor Gericht",
+        "text_english": "Looks after young people in court",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text_german": "vertritt Bürger und Bürgerinnen vor einem Gericht",
+        "text_english": "Represents citizens before a court",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text_german": "arbeitet an einem Gericht und spricht Urteile",
+        "text_english": "Works in a court and passes judgements",
+        "is_correct": true
+      }
+    ],
+    "correct_answer": "D",
+    "image_path": null
+  },
+  {
+    "question_number": 238,
+    "question_german": "Was macht ein Schöffe/eine Schöffin in Deutschland? Er/Sie …",
+    "question_english": "What does a lay judge do in Germany? He / she …",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "verteidigt den Angeklagten/die Angeklagte",
+        "text_english": "Defends the accused",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text_german": "stellt Urkunden aus",
+        "text_english": "Issues certificates",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text_german": "gibt Bürgern/Bürgerinnen rechtlichen Rat",
+        "text_english": "Gives legal advice to citizens",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text_german": "entscheidet mit Richtern/Richterinnen über Schuld und Strafe",
+        "text_english": "Decides with judges on guilt and punishment",
+        "is_correct": true
+      }
+    ],
+    "correct_answer": "D",
+    "image_path": null
+  },
+  {
+    "question_number": 239,
+    "question_german": "Ein Richter/eine Richterin in Deutschland gehört zur …",
+    "question_english": "A judge in Germany belongs to the …",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "Operative",
+        "text_english": "Operational",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text_german": "Exekutive.",
+        "text_english": "Executive",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text_german": "Judikative",
+        "text_english": "Judiciary",
+        "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text_german": "Legislative",
+        "text_english": "Legislative branch",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "C",
+    "image_path": null
+  },
+  {
+    "question_number": 240,
+    "question_german": "Ein Richter/eine Richterin gehört in Deutschland zur …",
+    "question_english": "A judge belongs in Germany to the ...",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "rechtsprechenden Gewalt.",
+        "text_english": "Judicial power",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text_german": "vollziehenden Gewalt.",
+        "text_english": "Executive power",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text_german": "gesetzgebenden Gewalt.",
+        "text_english": "Legislative power.",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text_german": "planenden Gewalt.",
+        "text_english": "Planning violence",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "A",
+    "image_path": null
+  },
+  {
+    "question_number": 241,
+    "question_german": "In Deutschland wird die Staatsgewalt geteilt. Für welche Staatsgewalt arbeitet ein Richter/eine Richterin? Für die …",
+    "question_english": "In Germany, the power of the state is divided. For which state authority does a judge work? For the ...",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "",
+        "text_english": "Legislative",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text_german": "Judikative",
+        "text_english": "Judiciary",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text_german": "Exekutive",
+        "text_english": "Executive",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text_german": "e",
+        "text_english": "Press",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "B",
+    "image_path": null
+  },
+  {
+    "question_number": 242,
+    "question_german": "Wie nennt man in Deutschland ein Verfahren vor einem Gericht?",
+    "question_english": "What is a procedure before a court called in Germany?",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "Protokoll",
+        "text_english": "Protocol",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text_german": "Prozess",
+        "text_english": "Process",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text_german": "m",
+        "text_english": "Program",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text_german": "Prozedur",
+        "text_english": "Procedure",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "B",
+    "image_path": null
+  },
+  {
+    "question_number": 243,
+    "question_german": "Was ist die Arbeit eines Richters/einer Richterin in Deutschland?",
+    "question_english": "What is the work of a judge in Germany?",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "Recht sprechen",
+        "text_english": "Dispense justice",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text_german": "Pläne erstellen",
+        "text_english": "Create plans",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text_german": "Gesetze erlasse",
+        "text_english": "Make laws",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text_german": "Deutschland regieren",
+        "text_english": "Rule Germany",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "A",
+    "image_path": null
+  },
+  {
+    "question_number": 244,
+    "question_german": "Was ist eine Aufgabe der Polizei in Deutschland?",
+    "question_english": "What is the task of the police in Germany?",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "die Bürgerinnen und Bürger abzuhören",
+        "text_english": "Listen to the citizens",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text_german": "das Land zu verteidigen",
+        "text_english": "To defend the country",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text_german": "die Einhaltung von Gesetzen zu überwachen",
+        "text_english": "To monitor compliance with laws",
+        "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text_german": "die Gesetze zu beschließen",
+        "text_english": "To pass the laws",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "C",
+    "image_path": null
+  },
+  {
+    "question_number": 245,
+    "question_german": "Wie kann jemand, der den Holocaust leugnet, bestraft werden?",
+    "question_english": "How can someone who denies the Holocaust be punished?",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "gar nicht, Holocaustleugnung ist erlaubt",
+        "text_english": "Not at all, Holocaust denial is permitted",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text_german": "Kürzung sozialer Leistungen",
+        "text_english": "Reduction in social benefits",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text_german": "mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe",
+        "text_english": "With imprisonment of up to five years or a fine",
+        "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text_german": "bis zu 100 Sozialstunden",
+        "text_english": "Up to 100 hours of community service",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "C",
+    "image_path": null
+  },
+  {
+    "question_number": 246,
+    "question_german": "Ein Gerichtsschöffe/eine Gerichtsschöffin in Deutschland ist …",
+    "question_english": "A judge in Germany is …",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "ein Mitglied eines Gemeinderats.",
+        "text_english": "A member of a local council.",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text_german": "eine Person, die Jura studiert hat",
+        "text_english": "A person who studied law",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text_german": "der Stellvertreter/die Stellvertreterin des Stadtoberhaupts",
+        "text_english": "The deputy mayor",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text_german": "ein ehrenamtlicher Richter/eine ehrenamtliche Richterin",
+        "text_english": "An honorary judge",
+        "is_correct": true
+      }
+    ],
+    "correct_answer": "D",
+    "image_path": null
+  }
+]

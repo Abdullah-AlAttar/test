@@ -1,0 +1,860 @@
+[
+  {
+    "question_number": 247,
+    "question_german": "Was gilt für die meisten Kinder in Deutschland?",
+    "question_english": "What applies to most children in Germany?",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "Schulpflicht",
+        "text_english": "Compulsory education",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text_german": "Religionspflicht",
+        "text_english": "Religious duty",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text_german": "Schweigepflicht",
+        "text_english": "Duty of confidentiality",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text_german": "Wahlpflicht",
+        "text_english": "Compulsory Elective",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "A",
+    "image_path": null
+  },
+  {
+    "question_number": 248,
+    "question_german": "Wer darf bei den rund 40 jüdischen Makkabi-Sportvereinen Mitglied werden?",
+    "question_english": "Who can become a member of the approximately 40 Jewish Maccabi sports clubs?",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "nur Deutsche",
+        "text_english": "only Germans",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text_german": "nur Israelis",
+        "text_english": "only Israelis",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text_german": "alle Menschen",
+        "text_english": "all people",
+        "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text_german": "nur religiöse Menschen",
+        "text_english": "only religious people",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "C",
+    "image_path": null
+  },
+  {
+    "question_number": 249,
+    "question_german": "Frau Seger bekommt ein Kind. Was muss sie tun, um Elterngeld zu erhalten?",
+    "question_english": "Mrs. Seger gives birth to a child. What does she have to do to receive parental allowance?",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "Sie muss das Arbeitsamt um Erlaubnis bitten",
+        "text_english": "She must ask permission from the employment office",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text_german": "Sie muss an ihre Krankenkasse schreiben",
+        "text_english": "She must write to her health insurance company",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text_german": "Sie muss nichts tun, denn sie bekommt automatisch Elterngeld",
+        "text_english": "She does not have to do anything, because she automatically gets parental benefit",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text_german": "Sie muss einen Antrag bei der Elterngeldstelle stellen",
+        "text_english": "She must submit an application to the parental allowance office",
+        "is_correct": true
+      }
+    ],
+    "correct_answer": "D",
+    "image_path": null
+  },
+  {
+    "question_number": 250,
+    "question_german": "Wer entscheidet, ob ein Kind in Deutschland in den Kindergarten geht?",
+    "question_english": "Who decides whether a child goes to kindergarten in Germany?",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "die Bundesländer",
+        "text_english": "The federal states",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text_german": "die Schulen",
+        "text_english": "The schools",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text_german": "der Staat",
+        "text_english": "The State",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text_german": "die Eltern/die Erziehungsberechtigten",
+        "text_english": "The parents/guardians",
+        "is_correct": true
+      }
+    ],
+    "correct_answer": "D",
+    "image_path": null
+  },
+  {
+    "question_number": 251,
+    "question_german": "Welchen Schulabschluss braucht man normalerweise, um an einer Universität in Deutschland ein Studium zu beginnen?",
+    "question_english": "What school-leaving qualifications do you normally need to start studying at a university in Germany?",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "das Abitur",
+        "text_english": "The Abitur",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text_german": "die Prokura",
+        "text_english": "The procuration",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text_german": "eine Gesellenprüfung",
+        "text_english": "A journeyman's examination",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text_german": "ein Diplom",
+        "text_english": "A diploma",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "A",
+    "image_path": null
+  },
+  {
+    "question_number": 252,
+    "question_german": "Wer darf in Deutschland nicht als Paar zusammenleben?",
+    "question_english": "Who is not allowed to live together as a couple in Germany?",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "Hans (20 Jahre) und Marie (19 Jahre)",
+        "text_english": "Hans (20 years) and Marie (19 years)",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text_german": "Sofie (35 Jahre) und Lisa (40 Jahre)",
+        "text_english": "Sophie (35 years) and Lisa (40 years)",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text_german": "Tom (20 Jahre) und Klaus (45 Jahre)",
+        "text_english": "Tom (20 years) and Klaus (45 years)",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text_german": "Anne (13 Jahre) und Tim (25 Jahre)",
+        "text_english": "Anne (13 years) and Tim (25 years)",
+        "is_correct": true
+      }
+    ],
+    "correct_answer": "D",
+    "image_path": null
+  },
+  {
+    "question_number": 253,
+    "question_german": "Ab welchem Alter ist man in Deutschland volljährig?",
+    "question_english": "At what age do you become an adult in Germany?",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "16",
+        "text_english": "",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text_german": "18",
+        "text_english": "",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text_german": "19",
+        "text_english": "",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text_german": "21",
+        "text_english": "",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "B",
+    "image_path": null
+  },
+  {
+    "question_number": 254,
+    "question_german": "Die Erziehung der Kinder ist in Deutschland vor allem Aufgabe …",
+    "question_english": "The upbringing of children in Germany is primarily a task ...",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "der Eltern",
+        "text_english": "The parents",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text_german": "der Schulen",
+        "text_english": "Of the schools",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text_german": "der Großeltern",
+        "text_english": "The grandparents",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text_german": "des Staates",
+        "text_english": "Of the state",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "A",
+    "image_path": null
+  },
+  {
+    "question_number": 255,
+    "question_german": "Wer ist in Deutschland hauptsächlich verantwortlich für die Kindererziehung?",
+    "question_english": "Who is primarily responsible for raising children in Germany?",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "der Staat",
+        "text_english": "The State",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text_german": "die Verwandten",
+        "text_english": "The relatives",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text_german": "der Eltern",
+        "text_english": "The parents",
+        "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text_german": "der Schulen",
+        "text_english": "The schools",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "C",
+    "image_path": null
+  },
+  {
+    "question_number": 256,
+    "question_german": "Wenn man in Deutschland ein Kind schlägt, …",
+    "question_english": "If you hit a child in Germany, ...",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "geht das nur die Familie etwas an",
+        "text_english": "It's only a family matter",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text_german": "geht das niemanden etwas an",
+        "text_english": "It's nobody's business",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text_german": "kann man dafür bestraft werden",
+        "text_english": "You can be punished for it",
+        "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text_german": "kann man dafür nicht bestraft werden",
+        "text_english": "You can not be punished for it",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "C",
+    "image_path": null
+  },
+  {
+    "question_number": 257,
+    "question_german": "In Deutschland …",
+    "question_english": "In Germany ...",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "kann man mehrere Ehepartnerinnen/Ehepartner gleichzeitig haben.",
+        "text_english": "You can have multiple spouses at the same time?",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text_german": "darf man zur gleichen Zeit nur mit einer Partnerin/einem Partner verheiratet sein.",
+        "text_english": "You can only be married to one partner at a time.",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text_german": "darf eine Frau nicht wieder heiraten, wenn ihr Mann gestorben ist.",
+        "text_english": "A woman must not remarry if her husband has died",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text_german": "darf man nicht wieder heiraten, wenn man einmal verheiratet war.",
+        "text_english": "You are not allowed to remarry once you are married",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "B",
+    "image_path": null
+  },
+  {
+    "question_number": 258,
+    "question_german": "In Deutschland dürfen Ehepaare sich scheiden lassen. Meistens müssen sie dazu das \"Trennungsjahr\" einhalten. Was bedeutet das?",
+    "question_english": "In Germany, married couples are allowed to divorce. In most cases, they have to observe the “year of separation” for this. What does that mean?",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "Die Ehegatten sind ein Jahr verheiratet, dann ist die Scheidung möglich.",
+        "text_english": "The spouses are married for one year, then divorce is possible.",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text_german": "Der Scheidungsprozess dauert ein Jahr.",
+        "text_english": "The divorce process takes a year",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text_german": "Die Ehegatten führen mindestens ein Jahr getrennt ihr eigenes Leben. Danach ist die Scheidung möglich.",
+        "text_english": "The spouses lead their own lives separately for at least one year. After that, divorce is possible",
+        "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text_german": "Das Besuchsrecht für die Kinder gilt ein Jahr.",
+        "text_english": "Visitation rights for the children are valid for one year",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "C",
+    "image_path": null
+  },
+  {
+    "question_number": 259,
+    "question_german": "Bei Erziehungsproblemen können Eltern in Deutschland Hilfe erhalten vom …",
+    "question_english": "Parents in Germany who have problems bringing up their children can get help from ...",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "Ordnungsamt.",
+        "text_english": "Regulatory office",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text_german": "Jugendamt.",
+        "text_english": "Youth welfare office",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text_german": "Schulamt.",
+        "text_english": "School board",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text_german": "Gesundheitsamt.",
+        "text_english": "Health department",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "B",
+    "image_path": null
+  },
+  {
+    "question_number": 260,
+    "question_german": "Eine erwachsene Frau möchte in Deutschland das Abitur nachholen. Das kann sie an …",
+    "question_english": "An adult woman would like to do the Abitur in Germany. She can do that on...",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "einer Privatuniversität",
+        "text_english": "A Private University",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text_german": "einem Abendgymnasium",
+        "text_english": "An Evening Gymnasium",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text_german": "einer Hauptschule",
+        "text_english": "A Secondary school",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text_german": "einer Hochschule.",
+        "text_english": "A University.",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "B",
+    "image_path": null
+  },
+  {
+    "question_number": 261,
+    "question_german": "In Deutschland hat man die besten Chancen auf einen gut bezahlten Arbeitsplatz, wenn man …",
+    "question_english": "In Germany you have the best chance of finding a well-paid job if you...",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "eine Frau ist.",
+        "text_english": "is a woman",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text_german": "katholisch ist.",
+        "text_english": "is catholic",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text_german": "Mitglied einer Partei ist.",
+        "text_english": "is a member of a party",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text_german": "gut ausgebildet ist.",
+        "text_english": "is well educated",
+        "is_correct": true
+      }
+    ],
+    "correct_answer": "D",
+    "image_path": null
+  },
+  {
+    "question_number": 262,
+    "question_german": "Was darf das Jugendamt in Deutschland?",
+    "question_english": "What is the youth welfare office allowed to do in Germany?",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "Es kontrolliert, ob das Kind einen Kindergarten besucht.",
+        "text_english": "It checks whether the child attends a kindergarten",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text_german": "Es kann ein Kind, das geschlagen wird oder hungern muss, aus der Familie nehmen.",
+        "text_english": "It can take a child who is being beaten or starving from the family",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text_german": "Es bezahlt das Kindergeld an die Eltern.",
+        "text_english": "It pays the child benefit to the parents",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text_german": "Es entscheidet, welche Schule das Kind besucht.",
+        "text_english": "It decides which school the child attends",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "B",
+    "image_path": null
+  },
+  {
+    "question_number": 263,
+    "question_german": "Das Berufsinformationszentrum BIZ bei der Bundesagentur für Arbeit in Deutschland hilft bei der …",
+    "question_english": "The careers information center BIZ at the Federal Employment Agency in Germany helps with the …",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "Lehrstellensuche",
+        "text_english": "Apprenticeship search",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text_german": "Steuererklärung",
+        "text_english": "Tax declaration",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text_german": "Rentenberechnung",
+        "text_english": "Pension calculation",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text_german": "Krankenversicherung",
+        "text_english": "Health insurance",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "A",
+    "image_path": null
+  },
+  {
+    "question_number": 264,
+    "question_german": "In Deutschland hat ein Kind in der Schule…",
+    "question_english": "In Germany, a child at school…",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "Wahlfreiheit für alle Fächer.",
+        "text_english": "Freedom of choice for all subjects",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text_german": "Recht auf unbegrenzte Freizeit.",
+        "text_english": "Right to unlimited free time",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text_german": "Anwesenheitspflicht.",
+        "text_english": "Mandatory attendance",
+        "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text_german": "Anspruch auf Schulgeld.",
+        "text_english": "Entitlement to school fees",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "C",
+    "image_path": null
+  },
+  {
+    "question_number": 265,
+    "question_german": "Ein Mann möchte mit 30 Jahren in Deutschland sein Abitur nachholen. Wo kann er das tun? An …",
+    "question_english": "A 30-year-old man wants to do his Abitur in Germany. Where can he do that? At …",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "einer Hauptschule",
+        "text_english": "A secondary school",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text_german": "einem Abendgymnasium",
+        "text_english": "An evening gymnasium",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text_german": "einer Hochschule",
+        "text_english": "A University",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text_german": "einer Privatuniversität",
+        "text_english": "A Private University",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "B",
+    "image_path": null
+  },
+  {
+    "question_number": 266,
+    "question_german": "In Deutschland sind Jugendliche ab 14 Jahren strafmündig. Das bedeutet: Jugendliche, die 14 Jahre und älter sind und gegen Strafgesetze verstoßen, …",
+    "question_english": "In Germany, young people from the age of 14 are liable to prosecution. This means: young people who are 14 years and older and violate criminal laws, ...",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "werden bestraft.",
+        "text_english": "are punished",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text_german": "teilen die Strafe mit ihren Eltern.",
+        "text_english": "share the punishment with their parents",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text_german": "werden wie Erwachsene behandelt.",
+        "text_english": "are treated like adults",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text_german": "werden nicht bestraft.",
+        "text_english": "will not be penalized",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "A",
+    "image_path": null
+  },
+  {
+    "question_number": 267,
+    "question_german": "Eine junge Frau in Deutschland, 22 Jahre alt, lebt mit ihrem Freund zusammen. Die Eltern der Frau finden das nicht gut, weil ihnen der Freund nicht gefällt. Was können die Eltern tun?",
+    "question_english": "A young woman in Germany, 22 years old, lives with her boyfriend. The woman's parents don't like it because they don't like the boyfriend. What can the parents do?",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "Sie können zur Polizei gehen und die Tochter anzeigen.",
+        "text_english": "You can go to the police and report the daughter",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text_german": "Sie haben das Recht, die Tochter in die elterliche Wohnung zurückzuholen.",
+        "text_english": "You have the right to bring the daughter back to the parental home",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text_german": "Sie suchen einen anderen Mann für die Tochter.",
+        "text_english": "You are looking for another man for your daughter",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text_german": "Sie müssen die Entscheidung der volljährigen Tochter respektieren.",
+        "text_english": "You must respect the decision of the adult daughter",
+        "is_correct": true
+      }
+    ],
+    "correct_answer": "D",
+    "image_path": null
+  },
+  {
+    "question_number": 268,
+    "question_german": "Eine junge Frau will den Führerschein machen. Sie hat Angst vor der Prüfung, weil ihre Muttersprache nicht Deutsch ist. Was ist richtig?",
+    "question_english": "A young woman wants to get her driver's license. She is afraid of the test because her mother tongue is not German. What is right?",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "Wenn sie kein Deutsch kann, darf sie keinen Führerschein haben.",
+        "text_english": "If she doesn't speak German, she can't have a driver's license",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text_german": "Sie muss den Führerschein in dem Land machen, in dem man ihre Sprache spricht.",
+        "text_english": "She has to get her driver's license in the country where her language is spoken",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text_german": "Sie kann die Theorie-Prüfung vielleicht in ihrer Muttersprache machen. Es gibt mehr als zehn Sprachen zur Auswahl.",
+        "text_english": "She might be able to do the theory test in her mother tongue. There are more than ten languages to choose from ✅",
+        "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text_german": "Sie muss mindestens zehn Jahre in Deutschland leben, bevor sie den Führerschein machen kann.",
+        "text_english": "She has to live in Germany for at least ten years before she can get her driver's license",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "C",
+    "image_path": null
+  },
+  {
+    "question_number": 269,
+    "question_german": "In Deutschland haben Kinder ab dem Alter von drei Jahren bis zur Ersteinschulung einen Anspruch auf …",
+    "question_english": "In Germany, children from the age of three until they start school are entitled to …",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "einen Platz in einem Sportverein.",
+        "text_english": "A place in a sports club",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text_german": "einen Kindergartenplatz.",
+        "text_english": "A place in Kindergarten",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text_german": "monatliches Taschengeld.",
+        "text_english": "Monthly pocket money",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text_german": "einen Ferienpass.",
+        "text_english": "A holiday pass",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "B",
+    "image_path": null
+  },
+  {
+    "question_number": 270,
+    "question_german": "Die Volkshochschule in Deutschland ist eine Einrichtung …",
+    "question_english": "The adult education center in Germany is an institution …",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "zur Weiterbildung.",
+        "text_english": "To further education",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text_german": "für den Religionsunterricht.",
+        "text_english": "For religious education",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text_german": "nur für Jugendliche.",
+        "text_english": "Only for teenagers",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text_german": "nur für Rentner und Rentnerinnen.",
+        "text_english": "Only for pensioners",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "A",
+    "image_path": null
+  },
+  {
+    "question_number": 271,
+    "question_german": "Bei Erziehungsproblemen gehen Sie in Deutschland …",
+    "question_english": "If you have problems bringing up your child in Germany...",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "zum Arzt/zur Ärztin",
+        "text_english": "To the Doctor",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text_german": "zum Jugendamt",
+        "text_english": "To the youth welfare office",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text_german": "zum Gesundheitsamt",
+        "text_english": "To the health department",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text_german": "zum Einwohnermeldeamt",
+        "text_english": "To the registration office",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "B",
+    "image_path": null
+  },
+  {
+    "question_number": 272,
+    "question_german": "Was braucht man in Deutschland für eine Ehescheidung?",
+    "question_english": "What do you need in Germany for a divorce?",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "die Einwilligung der Eltern",
+        "text_english": "The consent of the parents",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text_german": "die Unterstützung eines Anwalts/einer Anwältin",
+        "text_english": "The support of a lawyer / attorney",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text_german": "ein Attest eines Arztes/einer Ärztin",
+        "text_english": "A doctor's certificate",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text_german": "die Einwilligung der Kinder",
+        "text_english": "The consent of the children",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "B",
+    "image_path": null
+  }
+]

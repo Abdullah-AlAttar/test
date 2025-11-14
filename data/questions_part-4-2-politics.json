@@ -1,0 +1,1322 @@
+[
+  {
+    "question_number": 174,
+    "question_german": "Welche Hauptaufgabe hat die deutsche Bundespräsidentin/der deutsche Bundespräsident? Sie/Er ...",
+    "question_english": "What is the main task of the German Federal President? He / She ...",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "repräsentiert das Land.",
+        "text_english": "Represents the country.",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text_german": "regiert das Land.",
+        "text_english": "Rules the country.",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text_german": "überwacht die Einhaltung der Gesetze.",
+        "text_english": "Monitors compliance with the law.",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text_german": "entwirft die Gesetze",
+        "text_english": "Drafts the laws",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "A",
+    "image_path": null
+  },
+  {
+    "question_number": 175,
+    "question_german": "Wer bildet den deutschen Bundesrat?",
+    "question_english": "Who forms the German Bundesrat?",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "die Regierungsvertreter der Bundesländer",
+        "text_english": "The government representatives of the federal states",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text_german": "die Parteimitglieder",
+        "text_english": "The party members",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text_german": "die Abgeordneten des Bundestages",
+        "text_english": "The members of the Bundestag",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text_german": "die Minister und Ministerinnen der Bundesregierung",
+        "text_english": "The ministers of the federal government",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "A",
+    "image_path": null
+  },
+  {
+    "question_number": 176,
+    "question_german": "Wer wählt in Deutschland die Bundespräsidentin/den Bundespräsidenten ?",
+    "question_english": "Who elects the Federal President in Germany?",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "der Bundesrat",
+        "text_english": "The Federal Council",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text_german": "das Bundesverfassungsgericht",
+        "text_english": "The Supreme Court",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text_german": "die Bundesversammlung",
+        "text_english": "The Federal Assembly",
+        "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text_german": "das Bundesparlament",
+        "text_english": "The federal parliament",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "C",
+    "image_path": null
+  },
+  {
+    "question_number": 177,
+    "question_german": "Wer ist das Staatsoberhaupt der Bundesrepublik Deutschland?",
+    "question_english": "Who is the head of state of the Federal Republic of Germany?",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "der Bundespräsident/die Bundespräsidentin",
+        "text_english": "The Federal President",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text_german": "der Bundestagspräsident/die Bundestagspräsidentin",
+        "text_english": "The President of the Bundestag",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text_german": "der Bundeskanzler/die Bundeskanzlerin",
+        "text_english": "The Federal Chancellor",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text_german": "der Bundesratspräsident/die Bundesratspräsidentin",
+        "text_english": "The President of the Federal Council",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "A",
+    "image_path": null
+  },
+  {
+    "question_number": 178,
+    "question_german": "Die parlamentarische Opposition im Deutschen Bundestag …",
+    "question_english": "The parliamentary opposition in the German Bundestag ...",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "bestimmt, wer im Bundesrat sitzt.",
+        "text_english": "Determines who sits in the Federal Council.",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text_german": "schlägt die Regierungschefs/Regierungschefinnen der Länder vor.",
+        "text_english": "Proposes the heads of government of the countries.",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text_german": "kontrolliert die Regierung.",
+        "text_english": "Controls the government.",
+        "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text_german": "entscheidet, wer Bundesminister/Bundesministerin wird.",
+        "text_english": "Eecides who becomes federal minister.",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "C",
+    "image_path": null
+  },
+  {
+    "question_number": 179,
+    "question_german": "Wie nennt man in Deutschland die Vereinigung von Abgeordneten einer Partei im Parlament?",
+    "question_english": "What do you call the association of members of a party in parliament in Germany?",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "Fraktion",
+        "text_english": "Coalition party",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text_german": "",
+        "text_english": "Opposition",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text_german": "Ältestenrat",
+        "text_english": "Council of Elders",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text_german": "Verband",
+        "text_english": "Association",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "A",
+    "image_path": null
+  },
+  {
+    "question_number": 180,
+    "question_german": "Die deutschen Bundesländer wirken an der Gesetzgebung des Bundes mit durch …",
+    "question_english": "The German states participate in federal legislation through ...",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "den Bundestag.",
+        "text_english": "The Bundestag.",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text_german": "die Bundesregierung.",
+        "text_english": "The federal government.",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text_german": "den Bundesrat.",
+        "text_english": "The Federal Council.",
+        "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text_german": "die Bundesversammlung.",
+        "text_english": "the Federal Assembly.",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "C",
+    "image_path": null
+  },
+  {
+    "question_number": 181,
+    "question_german": "In Deutschland kann ein Regierungswechsel in einem Bundesland Auswirkungen auf die Bundespolitik haben. Das Regieren wird …",
+    "question_english": "In Germany, a change of government in a federal state can have an impact on federal politics. Governing will...",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "leichter, wenn dadurch neue Parteien in den Bundesrat kommen.",
+        "text_english": "Easier if new parties enter the Bundesrat as a result.",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text_german": "leichter, wenn es sich um ein reiches Bundesland handelt.",
+        "text_english": "Easier if it is a rich state.",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text_german": "schwieriger, wenn sich dadurch die Mehrheit im Bundestag ändert.",
+        "text_english": "More difficult if this changes the majority in the Bundestag.",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text_german": "schwieriger, wenn dadurch die Mehrheit im Bundesrat verändert wird.",
+        "text_english": "More difficult if this changes the majority in the Bundesrat.",
+        "is_correct": true
+      }
+    ],
+    "correct_answer": "D",
+    "image_path": null
+  },
+  {
+    "question_number": 182,
+    "question_german": "Was bedeutet die Abkürzung CSU in Deutschland?",
+    "question_english": "What does the abbreviation CSU mean in Germany?",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "Christlich Süddeutsche Union",
+        "text_english": "",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text_german": "Christlich Sozialer Unternehmerverband",
+        "text_english": "",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text_german": "Christlich Soziale Union",
+        "text_english": "",
+        "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text_german": "Christlich Sichere Union",
+        "text_english": "",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "C",
+    "image_path": null
+  },
+  {
+    "question_number": 183,
+    "question_german": "Je mehr \"Zweitstimmen\" eine Partei bei einer Bundestagswahl bekommt, desto …",
+    "question_english": "The more “second votes” a party gets in a federal election, the …",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "mehr Sitze erhält die Partei im Parlament.",
+        "text_english": "More seats the party receives in parliament.",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text_german": "größer ist das Risiko, eine Koalition bilden zu müssen.",
+        "text_english": "The risk of having to form a coalition is greater.",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text_german": "weniger Erststimmen kann sie haben.",
+        "text_english": "It can have fewer first votes.",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text_german": "mehr Direktkandidaten der Partei ziehen ins Parlament ein.",
+        "text_english": "More direct party candidates enter parliament.",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "A",
+    "image_path": null
+  },
+  {
+    "question_number": 184,
+    "question_german": "Ab welchem Alter darf man in Deutschland an der Wahl zum Deutschen Bundestag teilnehmen?",
+    "question_english": "From what age may one vote in elections to the German Bundestag in Germany?",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "23",
+        "text_english": "",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text_german": "21",
+        "text_english": "",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text_german": "16",
+        "text_english": "",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text_german": "18",
+        "text_english": "",
+        "is_correct": true
+      }
+    ],
+    "correct_answer": "D",
+    "image_path": null
+  },
+  {
+    "question_number": 185,
+    "question_german": "Wenn Abgeordnete im Deutschen Bundestag ihre Fraktion wechseln, …",
+    "question_english": "When members of the German Bundestag change their parliamentary group, ...",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "kann die Regierung ihre Mehrheit verlieren.",
+        "text_english": "The government may lose its majority.",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text_german": "muss der Bundespräsident/die Bundespräsidentin zuvor sein/ihr Einverständnis geben.",
+        "text_english": "The Federal President must give his/her consent beforehand.",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text_german": "dürfen die Wähler/Wählerinnen dieser Abgeordneten noch einmal wählen.",
+        "text_english": "The voters of these MPs may vote again.",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text_german": "dürfen sie nicht mehr an den Sitzungen des Parlaments teilnehmen",
+        "text_english": "They are no longer allowed to attend the meetings of the parliament",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "A",
+    "image_path": null
+  },
+  {
+    "question_number": 186,
+    "question_german": "Was wird in Deutschland als \"Ampelkoalition\" bezeichnet? Die Zusammenarbeit …",
+    "question_english": "What is called a 'traffic light coalition' in Germany? The cooperation ...",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "von CSU, Die LINKE und Bündnis 90/Die Grünen in einer Regierung",
+        "text_english": "Of CSU, The LINKE Party and Alliance 90/Die Grünen in a government",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text_german": "der Bundestagsfraktionen von CDU und SPD",
+        "text_english": "The parliamentary groups of the CDU and SPD",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text_german": "der Bundestagsfraktionen von CDU und CSU",
+        "text_english": "The parliamentary groups of the CDU and CSU",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text_german": "von SPD, FDP und Bündnis 90/Die Grünen in einer Regierung",
+        "text_english": "SPD, FDP and Bündnis 90/Die Grünen in one government",
+        "is_correct": true
+      }
+    ],
+    "correct_answer": "D",
+    "image_path": null
+  },
+  {
+    "question_number": 187,
+    "question_german": "Was ist eine Aufgabe von Wahlhelferinnen/Wahlhelfern in Deutschland?",
+    "question_english": "What is the task of election workers in Germany?",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "Sie geben Zwischenergebnisse an die Medien weiter.",
+        "text_english": "They pass on interim results to the media.",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text_german": "Sie helfen alten Menschen bei der Stimmabgabe in der Wahlkabine.",
+        "text_english": "They help old people to vote in the voting booth.",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text_german": "Sie zählen die Stimmen nach dem Ende der Wahl.",
+        "text_english": "They count the votes after the end of the election.",
+        "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text_german": "Sie schreiben die Wahlbenachrichtigungen vor der Wahl.",
+        "text_english": "They write the voting notices before the election.",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "C",
+    "image_path": null
+  },
+  {
+    "question_number": 188,
+    "question_german": "In Deutschland helfen ehrenamtliche Wahlhelfer und Wahlhelferinnen bei den Wahlen. Was ist eine Aufgabe von Wahlhelfern/Wahlhelferinnen?",
+    "question_english": "n Germany, volunteer poll workers help with the elections. What is the task of election workers?",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "Sie schreiben Karten und Briefe mit der Angabe des Wahllokals.",
+        "text_english": "They write cards and letters indicating the polling station.",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text_german": "Sie geben Zwischenergebnisse an Journalisten weiter.",
+        "text_english": "They pass on interim results to journalists.",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text_german": "Sie zählen die Stimmen nach dem Ende der Wahl.",
+        "text_english": "They count the votes after the end of the election.",
+        "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text_german": "Sie helfen Kindern und alten Menschen beim Wählen.",
+        "text_english": "They help children and old people to vote.",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "C",
+    "image_path": null
+  },
+  {
+    "question_number": 189,
+    "question_german": "Für wie viele Jahre wird der Bundestag in Deutschland gewählt?",
+    "question_english": "For how many years is the Bundestag elected in Germany?",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "2 Jahre",
+        "text_english": "2 years",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text_german": "4 Jahre",
+        "text_english": "4 years",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text_german": "6 Jahre",
+        "text_english": "6 years",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text_german": "8 Jahre",
+        "text_english": "8 years",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "B",
+    "image_path": null
+  },
+  {
+    "question_number": 190,
+    "question_german": "Bei einer Bundestagswahl in Deutschland darf jeder wählen, die/der …",
+    "question_english": "In a Bundestag election in Germany, anyone may vote who ...",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "seit mindestens 3 Jahren in der Bundesrepublik Deutschland lebt.",
+        "text_english": "Has lived in the Federal Republic of Germany for at least 3 years.",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text_german": "Bürger/Bürgerin der Bundesrepublik Deutschland ist und mindestens 21 Jahre alt ist.",
+        "text_english": "Is a citizen of the Federal Republic of Germany and is at least 21 years old.",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text_german": "in der Bundesrepublik Deutschland wohnt und wählen möchte.",
+        "text_english": "Lives in the Federal Republic of Germany and wants to vote.",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text_german": "Bürger/Bürgerin der Bundesrepublik Deutschland ist und mindestens 18 Jahre alt ist.",
+        "text_english": "Is a citizen of the Federal Republic of Germany and is at least 18 years old.",
+        "is_correct": true
+      }
+    ],
+    "correct_answer": "D",
+    "image_path": null
+  },
+  {
+    "question_number": 191,
+    "question_german": "Wie oft gibt es normalerweise Bundestagswahlen in Deutschland?",
+    "question_english": "How often are there usually federal elections in Germany?",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "alle drei Jahre",
+        "text_english": "Every three years",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text_german": "alle vier Jahre",
+        "text_english": "Every four years",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text_german": "alle fünf Jahre",
+        "text_english": "Every five years",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text_german": "alle sechs Jahre",
+        "text_english": "Every six years",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "B",
+    "image_path": null
+  },
+  {
+    "question_number": 192,
+    "question_german": "Für wie viele Jahre wird der Bundestag in Deutschland gewählt?",
+    "question_english": "For how many years is the Bundestag elected in Germany?",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "2 Jahre",
+        "text_english": "2 years",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text_german": "3 Jahre",
+        "text_english": "3 years",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text_german": "4 Jahre",
+        "text_english": "4 years",
+        "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text_german": "5 Jahre",
+        "text_english": "5 years",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "C",
+    "image_path": null
+  },
+  {
+    "question_number": 193,
+    "question_german": "Woraus begründet sich Deutschlands besondere Verantwortung für Israel?",
+    "question_english": "What is the basis for Germany's special responsibility for Israel?",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "aus dem Grundgesetz der Bundesrepublik Deutschland",
+        "text_english": "The Basic Law of the Federal Republic of Germany",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text_german": "aus der Mitgliedschaft in der Europäischen Union (EU)",
+        "text_english": "Membership in the European Union (EU)",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text_german": "aus den nationalsozialistischen Verbrechen gegen Juden",
+        "text_english": "The National Socialist crimes against Jews",
+        "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text_german": "aus der christlichen Tradition",
+        "text_english": "The Christian tradition",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "C",
+    "image_path": null
+  },
+  {
+    "question_number": 194,
+    "question_german": "Die Wahlen in Deutschland sind …",
+    "question_english": "The elections in germany are …",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "berufsbezogen.",
+        "text_english": "Job related",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text_german": "speziell.",
+        "text_english": "Special",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text_german": "geschlechtsabhängig.",
+        "text_english": "Gender dependent.",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text_german": "geheim.",
+        "text_english": "Secret",
+        "is_correct": true
+      }
+    ],
+    "correct_answer": "D",
+    "image_path": null
+  },
+  {
+    "question_number": 195,
+    "question_german": "Wahlen in Deutschland gewinnt die Partei, die …",
+    "question_english": "Elections in Germany are won by the party that ...",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "die meisten Männer mehrheitlich gewählt haben.",
+        "text_english": "The majority of men voted.",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text_german": "die meisten Stimmen bei den Arbeitern/Arbeiterinnen bekommen hat.",
+        "text_english": "Has received the most votes among the workers.",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text_german": "die meisten Erststimmen für ihren Kanzlerkandidaten /ihre Kanzlerkandidatin erhalten hat.",
+        "text_english": "Has received the most first-place votes for its candidate for chancellor.",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text_german": "die meisten Stimmen bekommt.",
+        "text_english": "Gets the most votes.",
+        "is_correct": true
+      }
+    ],
+    "correct_answer": "D",
+    "image_path": null
+  },
+  {
+    "question_number": 196,
+    "question_german": "An demokratischen Wahlen in Deutschland teilzunehmen ist …",
+    "question_english": "Participating in democratic elections in Germany is...",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "ein Zwang.",
+        "text_english": "A compulsion.",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text_german": "eine Last.",
+        "text_english": "A burden.",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text_german": "ein Recht.",
+        "text_english": "A right.",
+        "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text_german": "eine Pflicht.",
+        "text_english": "A duty.",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "C",
+    "image_path": null
+  },
+  {
+    "question_number": 197,
+    "question_german": "Was bedeutet \"aktives Wahlrecht\" in Deutschland?",
+    "question_english": "What does 'active voting rights' mean in Germany?",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "Man muss zur Auszählung der Stimmen gehen.",
+        "text_english": "You have to go to the counting of the votes.",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text_german": "Man kann wählen.",
+        "text_english": "You can choose.",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text_german": "Man kann gewählt werden.",
+        "text_english": "One can be elected.",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text_german": "Man muss wählen gehen.",
+        "text_english": "You have to go vote.",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "B",
+    "image_path": null
+  },
+  {
+    "question_number": 198,
+    "question_german": "Wenn Sie bei einer Bundestagswahl in Deutschland wählen dürfen, heißt das …",
+    "question_english": "If you are allowed to vote in a federal election in Germany, that means...",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "aktives Wahlrecht.",
+        "text_english": "Right to vote.",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text_german": "aktiver Wahlkampf.",
+        "text_english": "Active campaign.",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text_german": "aktive Wahlkampagne.",
+        "text_english": "Active election campaign.",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text_german": "aktives Wahlverfahren.",
+        "text_english": "Active voting procedure.",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "A",
+    "image_path": null
+  },
+  {
+    "question_number": 199,
+    "question_german": "Wie viel Prozent der Zweitstimmen müssen Parteien mindestens bekommen, um in den Deutschen Bundestag gewählt zu werden?",
+    "question_english": "What is the minimum percentage of second votes that parties must receive in order to be elected to the German Bundestag?",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "3%",
+        "text_english": "",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text_german": "4%",
+        "text_english": "",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text_german": "5%",
+        "text_english": "",
+        "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text_german": "6%",
+        "text_english": "",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "C",
+    "image_path": null
+  },
+  {
+    "question_number": 200,
+    "question_german": "Was ist ein Beispiel für antisemitisches Verhalten?",
+    "question_english": "What is an example of anti-Semitic behavior?",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "ein jüdisches Fest besuchen",
+        "text_english": "Attending a Jewish festival.",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text_german": "den Holocaust leugnen",
+        "text_english": "Denying the Holocaust.",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text_german": "gegen Juden Fußball spielen",
+        "text_english": "Playing soccer against Jews.",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text_german": "die israelische Regierung kritisieren",
+        "text_english": "Criticizing the Israeli government.",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "B",
+    "image_path": null
+  },
+  {
+    "question_number": 201,
+    "question_german": "Wahlen in Deutschland sind frei. Was bedeutet das?",
+    "question_english": "Elections in Germany are free. What does that mean?",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "Jede Person kann ohne Zwang entscheiden, ob sie wählen möchte und wen sie wählen möchte.",
+        "text_english": "Each person can decide without coercion whether to vote and who to vote for.",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text_german": "Ich kann frei entscheiden, wo ich wählen gehen möchte.",
+        "text_english": "I am free to choose where to vote.",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text_german": "Alle verurteilten Straftäter/Straftäterinnen dürfen nicht wählen.",
+        "text_english": "All convicted criminals are not allowed to vote.",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text_german": "Wenn ich wählen gehen möchte, muss mein Arbeitgeber/meine Arbeitgeberin mir frei geben",
+        "text_english": "If I want to vote, my employer has to give me the time off.",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "A",
+    "image_path": null
+  },
+  {
+    "question_number": 202,
+    "question_german": "Das Wahlsystem in Deutschland ist ein …",
+    "question_english": "The electoral system in Germany is a ...",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "allgemeines Männerwahlrecht.",
+        "text_english": "Universal male suffrage.",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text_german": "Mehrheits- und Verhältniswahlrecht.",
+        "text_english": "Majority and proportional representation.",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text_german": "Dreiklassenwahlrecht.",
+        "text_english": "Three-class suffrage.",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text_german": "Zensuswahlrecht.",
+        "text_english": "Census Voting Rights.",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "B",
+    "image_path": null
+  },
+  {
+    "question_number": 203,
+    "question_german": "Eine Partei möchte in den Deutschen Bundestag. Sie muss aber einen Mindestanteil an Wählerstimmen haben. Das heißt …",
+    "question_english": "A party wants to be elected to the German Bundestag. But it must have a minimum share of the electoral vote. That is ...",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "Basiswert.",
+        "text_english": "Underlying",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text_german": "5 %-Hürde.",
+        "text_english": "5% threshold.",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text_german": "Richtlinie.",
+        "text_english": "Policy",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text_german": "Zulassungsgrenze.",
+        "text_english": "Admission limit",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "B",
+    "image_path": null
+  },
+  {
+    "question_number": 204,
+    "question_german": "Welchem Grundsatz unterliegen Wahlen in Deutschland? Wahlen in Deutschland sind …",
+    "question_english": "What principle are elections in Germany subject to? Elections in Germany are...",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "geschlossen, gleich, sicher.",
+        "text_english": "closed, equal, safe.",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text_german": "frei, gleich, geheim.",
+        "text_english": "free, equal, secret.",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text_german": "sicher, offen, freiwillig.",
+        "text_english": "safe, open, voluntary.",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text_german": "offen, sicher, frei.",
+        "text_english": "open, safe, free.",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "B",
+    "image_path": null
+  },
+  {
+    "question_number": 205,
+    "question_german": "Was ist in Deutschland die \"5 %-Hürde\"?",
+    "question_english": "What is the '5% hurdle' in Germany?",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "Anwesenheitskontrolle im Bundestag für Abstimmungen",
+        "text_english": "Attendance control in the Bundestag for votes",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text_german": "Mindestanteil an Wählerstimmen, um ins Parlament zu kommen",
+        "text_english": "Minimum percentage of votes to get into Parliament",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text_german": "Anwesenheitskontrolle im Bundesrat für Abstimmungen",
+        "text_english": "Attendance control in the Bundesrat for votes",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text_german": "Abstimmungsregelung im Bundestag für kleine Parteien",
+        "text_english": "Voting rules in the Bundestag for small parties",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "B",
+    "image_path": null
+  },
+  {
+    "question_number": 206,
+    "question_german": "Die Bundestagswahl in Deutschland ist die Wahl …",
+    "question_english": "The Bundestag election in Germany is the election ...",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "der Parlamente der Länder.",
+        "text_english": "of the parliaments of the federal states.",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text_german": "des Bundespräsidenten/der Bundespräsidentin.",
+        "text_english": "of the Federal President.",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text_german": "des Bundeskanzlers/der Bundeskanzlerin.",
+        "text_english": "of the Federal Chancellor.",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text_german": "des Parlaments für Deutschland.",
+        "text_english": "of Parliament for Germany.",
+        "is_correct": true
+      }
+    ],
+    "correct_answer": "D",
+    "image_path": null
+  },
+  {
+    "question_number": 207,
+    "question_german": "In einer Demokratie ist eine Funktion von regelmäßigen Wahlen, …",
+    "question_english": "In a democracy, a function of regular elections, ...",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "im Land bestehende Gesetze beizubehalten.",
+        "text_english": "Maintain existing laws in the country.",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text_german": "den Armen mehr Macht zu geben.",
+        "text_english": "Empower the poor.",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text_german": "die Bürger und Bürgerinnen zu zwingen, ihre Stimme abzugeben.",
+        "text_english": "Compel citizens to cast their votes.",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text_german": "nach dem Willen der Wählermehrheit den Wechsel der Regierung zu ermöglichen.",
+        "text_english": "To enable a change of government according to the will of the majority of voters.",
+        "is_correct": true
+      }
+    ],
+    "correct_answer": "D",
+    "image_path": null
+  },
+  {
+    "question_number": 208,
+    "question_german": "Was bekommen wahlberechtigte Bürgerinnen und Bürger in Deutschland vor einer Wahl?",
+    "question_english": "What do eligible voters in Germany get before an election?",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "eine Benachrichtigung von der Bundesversammlung",
+        "text_english": "A notification from the Federal Assembly",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text_german": "eine Benachrichtigung vom Pfarramt",
+        "text_english": "A notification from the parish office",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text_german": "eine Wahlbenachrichtigung von der Gemeinde",
+        "text_english": "A voting notification from the municipality",
+        "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text_german": "eine Wahlerlaubnis vom Bundespräsidenten/von der Bundespräsidentin",
+        "text_english": "An election permit from the Federal President",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "C",
+    "image_path": null
+  },
+  {
+    "question_number": 209,
+    "question_german": "Warum gibt es die 5 %-Hürde im Wahlgesetz der Bundesrepublik Deutschland? Es gibt sie, weil …",
+    "question_english": "Why is there a 5% hurdle in the electoral law of the Federal Republic of Germany? It exists because ...",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "viele kleine Parteien die Regierungsbildung erschweren.",
+        "text_english": "Many small parties make it difficult to form a government.",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text_german": "die kleinen Parteien nicht so viel Geld haben, um die Politiker und Politikerinnen zu bezahlen.",
+        "text_english": "The small parties do not have enough money to pay the politicians.",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text_german": "die Programme von vielen kleinen Parteien viele Gemeinsamkeiten haben.",
+        "text_english": "The programs of many small parties have a lot in common.",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text_german": "die Bürgerinnen und Bürger bei vielen kleinen Parteien die Orientierung verlieren können.",
+        "text_english": "The citizens can lose their orientation with many small parties.",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "A",
+    "image_path": null
+  },
+  {
+    "question_number": 210,
+    "question_german": "Parlamentsmitglieder, die von den Bürgerinnen und Bürgern gewählt werden, nennt man …",
+    "question_english": "Members of parliament who are elected by citizens are called ...",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "Botschafter/Botschafterinnen.",
+        "text_english": "Ambassadors.",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text_german": "Ministerpräsidenten/Ministerpräsidentinnen.",
+        "text_english": "Prime Ministers.",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text_german": "Abgeordnete.",
+        "text_english": "MPs.",
+        "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text_german": "Kanzler/Kanzlerinnen.",
+        "text_english": "Chancellors.",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "C",
+    "image_path": null
+  },
+  {
+    "question_number": 211,
+    "question_german": "Vom Volk gewählt wird in Deutschland …",
+    "question_english": "The people vote in Germany...",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "der Bundespräsident/die Bundespräsidentin.",
+        "text_english": "The Federal President.",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text_german": "der Bundestag.",
+        "text_english": "The Bundestag.",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text_german": "der Ministerpräsident/die Ministerpräsidentin eines Bundeslandes.",
+        "text_english": "The prime minister of a federal state.",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text_german": "der Bundeskanzler/die Bundeskanzlerin.",
+        "text_english": "The Federal Chancellor.",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "B",
+    "image_path": null
+  },
+  {
+    "question_number": 212,
+    "question_german": "Welcher Stimmzettel wäre bei einer Bundestagswahl gültig?",
+    "question_english": "Which ballot would be valid in a federal election?",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "1",
+        "text_english": "",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text_german": "2",
+        "text_english": "",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text_german": "3",
+        "text_english": "",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text_german": "4",
+        "text_english": "",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "A",
+    "image_path": "data/assets\\q212.75bffc4d.png"
+  },
+  {
+    "question_number": 213,
+    "question_german": "Was ist bei Bundestags- und Landtagswahlen in Deutschland erlaubt?",
+    "question_english": "What is allowed in federal and state elections in Germany?",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "Man kann durch Briefwahl seine Stimme abgeben.",
+        "text_english": "You can cast your vote by postal vote.",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text_german": "Man kann am Wahltag telefonisch seine Stimme abgeben.",
+        "text_english": "You can vote by phone on election day.",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text_german": "Kinder ab dem Alter von 14 Jahren dürfen wählen.",
+        "text_english": "Children over the age of 14 are allowed to vote.",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text_german": "Der Ehemann wählt für seine Frau mit.",
+        "text_english": "The husband votes for his wife.",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "A",
+    "image_path": null
+  }
+]

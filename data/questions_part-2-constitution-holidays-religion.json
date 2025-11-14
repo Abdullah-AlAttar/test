@@ -1,0 +1,992 @@
+[
+  {
+    "question_number": 69,
+    "question_german": "In Deutschland dürfen Menschen offen etwas gegen die Regierung sagen, weil?",
+    "question_english": "In Germany, people are allowed to say something openly against the government because?",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "hier Meinungsfreiheit gilt.",
+        "text_english": "Freedom of expression applies here",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text_german": "die Menschen das Wahlrecht haben.",
+        "text_english": "people have the right to vote",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text_german": "hier Religionsfreiheit gilt.",
+        "text_english": "freedom of religion applies here",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text_german": "die Menschen Steuern zahlen.",
+        "text_english": "people pay taxes",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "A",
+    "image_path": null
+  },
+  {
+    "question_number": 70,
+    "question_german": "Wie heißt das jüdische Gebetshaus?",
+    "question_english": "What is the name of the Jewish house of prayer?",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "Basilika",
+        "text_english": "Basilica",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text_german": "Moschee",
+        "text_english": "Mosque",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text_german": "Synagoge",
+        "text_english": "Synagogue",
+        "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text_german": "Kirche",
+        "text_english": "Church",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "C",
+    "image_path": null
+  },
+  {
+    "question_number": 71,
+    "question_german": "In Deutschland können Eltern bis zum 14. Lebensjahr ihres Kindes entscheiden, ob es in der Schule am?",
+    "question_english": "In Germany, parents can decide up to the age of 14 whether their child should attend school at the?",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "Religionsunterricht teilnimmt",
+        "text_english": "participates in religious education",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text_german": "Politikunterricht teilnimmt.",
+        "text_english": "taking part in political classes",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text_german": "Geschichtsunterricht teilnimmt.",
+        "text_english": "attending history classes",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text_german": "Sprachunterricht teilnimmt.",
+        "text_english": "taking part in language classes",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "A",
+    "image_path": null
+  },
+  {
+    "question_number": 72,
+    "question_german": "Deutschland ist ein Rechtsstaat. Was ist damit gemeint?",
+    "question_english": "Germany is a constitutional state. What is meant by this?",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "Die Gerichte machen die Gesetze.",
+        "text_english": "The courts make the laws",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text_german": "Nur Deutsche müssen die Gesetze befolgen.",
+        "text_english": "Only Germans have to obey the law",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text_german": "Alle Einwohner/Einwohnerinnen und der Staat müssen sich an die Gesetze halten.",
+        "text_english": "All residents and the state must obey the law",
+        "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text_german": "Der Staat muss sich nicht an die Gesetze halten.",
+        "text_english": "The state does not have to obey the law",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "C",
+    "image_path": null
+  },
+  {
+    "question_number": 73,
+    "question_german": "Welches Recht gehört zu den Grundrechten in Deutschland?",
+    "question_english": "Which right is one of the fundamental rights in Germany?",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "Selbstjustiz.",
+        "text_english": "vigilantism",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text_german": "Meinungsfreiheit",
+        "text_english": "freedom of speech",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text_german": "Waffenbesitz",
+        "text_english": "gun ownership",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text_german": "Faustrecht",
+        "text_english": "right of thumb",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "B",
+    "image_path": null
+  },
+  {
+    "question_number": 74,
+    "question_german": "Wie heißt die deutsche Verfassung?",
+    "question_english": "What is the name of the German constitution?",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "Grundgesetz",
+        "text_english": "constitution",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text_german": "Deutsches Gesetz",
+        "text_english": "German law",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text_german": "Volksgesetz",
+        "text_english": "people's law",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text_german": "Bundesgesetz",
+        "text_english": "federal law",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "A",
+    "image_path": null
+  },
+  {
+    "question_number": 75,
+    "question_german": "Welches Recht gehört zu den Grundrechten, die nach der deutschen Verfassung garantiert werden? Das Recht auf",
+    "question_english": "Which right is one of the basic rights guaranteed by the German constitution? The right to",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "Arbeit",
+        "text_english": "Work",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text_german": "Wohnung",
+        "text_english": "Apartment",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text_german": "Glaubens- und Gewissensfreiheit",
+        "text_english": "Freedom of belief and conscience",
+        "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text_german": "Unterhaltung",
+        "text_english": "Entertainment",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "C",
+    "image_path": null
+  },
+  {
+    "question_number": 76,
+    "question_german": "Was steht nicht im Grundgesetz von Deutschland?",
+    "question_english": "What is not in the Basic Law of Germany?",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "Alle sind vor dem Gesetz gleich.",
+        "text_english": "All are equal before the law",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text_german": "Jeder Mensch darf seine Meinung sagen.",
+        "text_english": "Everyone is allowed to say their opinion",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text_german": "Die Würde des Menschen ist unantastbar.",
+        "text_english": "The dignity of man is inviolable",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text_german": "Alle sollen gleich viel Geld haben",
+        "text_english": "Everyone should have the same amount of money",
+        "is_correct": true
+      }
+    ],
+    "correct_answer": "D",
+    "image_path": null
+  },
+  {
+    "question_number": 77,
+    "question_german": "Welches Grundrecht gilt in Deutschland nur fur Ausländerinnen/Ausländer? Das Grundrecht auf …",
+    "question_english": "Which fundamental right applies in Germany only to foreigners? The basic right to ...",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "Menschenwürde",
+        "text_english": "human dignity",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text_german": "Meinungsfreiheit",
+        "text_english": "Freedom of speech",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text_german": "Schutz der Familie",
+        "text_english": "Protection of the family",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text_german": "Asyl",
+        "text_english": "asylum",
+        "is_correct": true
+      }
+    ],
+    "correct_answer": "D",
+    "image_path": null
+  },
+  {
+    "question_number": 78,
+    "question_german": "Was ist mit dem deutschen Grundgesetz vereinbar?",
+    "question_english": "What is compatible with the German Basic Law?",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "die Folter",
+        "text_english": "the torture",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text_german": "die Geldstrafe",
+        "text_english": "the fine",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text_german": "die Prügelstrafe",
+        "text_english": "the caning",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text_german": "die Todesstrafe",
+        "text_english": "the death penalty",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "B",
+    "image_path": null
+  },
+  {
+    "question_number": 79,
+    "question_german": "Eine Partei im Deutschen Bundestag will die Pressefreiheit abschaffen. Ist das moglich?",
+    "question_english": "A party in the German Bundestag wants to abolish freedom of the press. Is this possible?",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "Nein, denn die Pressefreiheit ist ein Grundrecht. Sie kann nicht abgeschafft werden",
+        "text_english": "No, because freedom of the press is a fundamental right. It cannot be abolished",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text_german": "Nein, denn nur der Bundesrat kann die Pressefreiheit abschaffen.",
+        "text_english": "No, because only the Federal Council can abolish freedom of the press",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text_german": "Ja, aber dazu müssen zwei Drittel der Abgeordneten im Bundestag dafür sein",
+        "text_english": "Yes, but two-thirds of the members of the Bundestag must be in favor of this",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text_german": "Ja, wenn mehr als die Halfte der Abgeordneten im Bundestag dafur sind.",
+        "text_english": "Yes, if more than half of the members of the Bundestag are in favor of it",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "A",
+    "image_path": null
+  },
+  {
+    "question_number": 80,
+    "question_german": "Wie wird die Verfassung der Bundesrepublik Deutschland genannt?",
+    "question_english": "What is the constitution of the Federal Republic of Germany called?",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "Verfassungsvertrag",
+        "text_english": "Constitutional Treaty",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text_german": "Gesetzbuch",
+        "text_english": "Law book",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text_german": "Grundgesetz",
+        "text_english": "Constitution",
+        "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text_german": "Bundesverfassung",
+        "text_english": "Federal Constitution",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "C",
+    "image_path": null
+  },
+  {
+    "question_number": 81,
+    "question_german": "Meinungsfreiheit in Deutschland heißt, dass ich …",
+    "question_english": "Freedom of expression in Germany means that I...",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "meine Meinung in Leserbriefen äußern kann.",
+        "text_english": "Can express my opinion in letters to the editor.",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text_german": "Passanten auf der Straße beschimpfen darf.",
+        "text_english": "Allowed to insult passers-by on the street.",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text_german": "meine Meinung nur dann äußern darf, solange ich der Regierung nicht widerspreche.",
+        "text_english": "I am only allowed to express my opinion as long as I do not contradict the government.",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text_german": "Nazi-, Hamas- oder Islamischer Staat-Symbole öffentlich tragen darf.",
+        "text_english": "May publicly wear Nazi, Hamas or Islamic State symbols.",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "A",
+    "image_path": null
+  },
+  {
+    "question_number": 82,
+    "question_german": "Was verbietet das deutsche Grundgesetz?",
+    "question_english": "What does the German Basic Law prohibit?",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "freie Berufswahl",
+        "text_english": "free choice of employment",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text_german": "Arbeit im Ausland",
+        "text_english": "work abroad",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text_german": "Militärdienst",
+        "text_english": "military service",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text_german": "Zwangsarbeit",
+        "text_english": "forced labor",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": null,
+    "image_path": null
+  },
+  {
+    "question_number": 83,
+    "question_german": "Wann ist die Meinungsfreiheit in Deutschland eingeschränkt?",
+    "question_english": "When is freedom of expression restricted in Germany?",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "bei Kritik am Staat",
+        "text_english": "when criticizing the state",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text_german": "bei Meinungsäusserungen über die Bundesregierung",
+        "text_english": "when expressing opinions about the federal government",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text_german": "bei der öffentlichen Verbreitung falscher Behauptungen über einzelne Personen",
+        "text_english": "in the public dissemination of false claims about individuals",
+        "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text_german": "bei Diskussionen über Religionen",
+        "text_english": "in discussions about religions",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "C",
+    "image_path": null
+  },
+  {
+    "question_number": 84,
+    "question_german": "Die deutschen Gesetze verbieten …",
+    "question_english": "German laws prohibit ...",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "Ungleichbehandlung der Bürger und Bürgerinnen durch den Staat.",
+        "text_english": "Unequal treatment of citizens by the state",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text_german": "Versammlungsfreiheit der Einwohner und Einwohnerinnen.",
+        "text_english": "Freedom of assembly of the inhabitants",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text_german": "Meinungsfreiheit der Einwohner und Einwohnerinnen.",
+        "text_english": "Freedom of expression of the residents",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text_german": "Petitionen der Bürger und Bürgerinnen.",
+        "text_english": "Citizens' petitions",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "A",
+    "image_path": null
+  },
+  {
+    "question_number": 85,
+    "question_german": "Welches Grundrecht ist in Artikel 1 des Grundgesetzes der Bundesrepublik Deutschland garantiert?",
+    "question_english": "Which fundamental right is guaranteed in Article 1 of the Basic Law of the Federal Republic of Germany?",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "Religionsfreiheit",
+        "text_english": "Religious freedom",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text_german": "die Unantastbarkeit der Menschenwürde",
+        "text_english": "the inviolability of human dignity",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text_german": "das Recht auf Leben",
+        "text_english": "the right to life",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text_german": "Meinungsfreiheit",
+        "text_english": "freedom of expression",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "B",
+    "image_path": null
+  },
+  {
+    "question_number": 86,
+    "question_german": "Was versteht man unter dem Recht der \"Freizügigkeit\" in Deutschland?",
+    "question_english": "What is meant by the right of “freedom of movement” in Germany?",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "Man darf sich in der Offentlichkeit nur leicht bekleidet bewegen.",
+        "text_english": "You are allowed to move in public only lightly dressed.",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text_german": "Man darf sich seinen Wohnort selbst aussuchen.",
+        "text_english": "One may choose one's own place of residence.",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text_german": "Man kann seinen Beruf wechseln.",
+        "text_english": "One may change one's profession.",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text_german": "Man darf sich für eine andere Religion entscheiden.",
+        "text_english": "One is allowed to choose a different religion.",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "B",
+    "image_path": null
+  },
+  {
+    "question_number": 87,
+    "question_german": "Eine Partei in Deutschland verfolgt das Ziel, eine Diktatur zu errichten. Sie ist dann …",
+    "question_english": "A party in Germany pursues the goal of establishing a dictatorship. It is then ...",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "verfassungswidrig.",
+        "text_english": "Unconstitutional",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text_german": "gesetzestreu.",
+        "text_english": "law-abiding",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text_german": ".",
+        "text_english": "tolerant",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text_german": "rechtsstaatlich orientiert.",
+        "text_english": "oriented towards the rule of law",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "A",
+    "image_path": null
+  },
+  {
+    "question_number": 88,
+    "question_german": "Was bedeutet in Deutschland der Grundsatz der Gleichbehandlung?",
+    "question_english": "What does the principle of equal treatment mean in Germany?",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "Niemand darf gegen Personen klagen, wenn sie benachteiligt wurden.",
+        "text_english": "No person shall bring an action against any person if he or she has been adversely affected.",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text_german": "Niemand darf z. B. wegen einer Behinderung benachteiligt werden.",
+        "text_english": "No one may be discriminated against because of a disability, for example.",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text_german": "Es ist für alle Gesetz, benachteiligten Gruppen jährlich Geld zu spenden.",
+        "text_english": "It is the law for everyone to donate money to disadvantaged groups every year.",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text_german": "Man darf andere Personen benachteiligen, wenn ausreichende persönliche Gründe hierfür vorliegen.",
+        "text_english": "One may discriminate against others if there are sufficient personal reasons for doing so.",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "B",
+    "image_path": null
+  },
+  {
+    "question_number": 89,
+    "question_german": "Sie haben in Deutschland absichtlich einen Brief geöffnet, der an eine andere Person adressiert ist. Was haben Sie nicht beachtet?",
+    "question_english": "You intentionally opened a letter in Germany that was addressed to someone else. What did you not notice?",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "die Meinungsfreiheit",
+        "text_english": "freedom of expression",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text_german": "die Schweigepflicht",
+        "text_english": "the duty of confidentiality",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text_german": "das Schweigerecht",
+        "text_english": "the right to silence",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text_german": "das Briefgeheimnis",
+        "text_english": "the secrecy of correspondence",
+        "is_correct": true
+      }
+    ],
+    "correct_answer": "D",
+    "image_path": null
+  },
+  {
+    "question_number": 90,
+    "question_german": "Eine Frau, die ein zweijähriges Kind hat, bewirbt sich in Deutschland um eine Stelle. Was ist ein Beispiel für Diskriminierung? Sie bekommt die Stelle nur deshalb nicht, weil sie ...",
+    "question_english": "A woman who has a two-year-old child applies for a job in Germany. What is an example of discrimination? The only reason she doesn't get the job is because she...?",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "keine Erfahrungen in diesem Beruf hat.",
+        "text_english": "has no experience in this profession",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text_german": "kein Englisch spricht.",
+        "text_english": "does not speak English",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text_german": "Mutter ist.",
+        "text_english": "mother is",
+        "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text_german": "zu hohe Gehaltsvorstellungen hat.",
+        "text_english": "has too high salary expectations",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "C",
+    "image_path": null
+  },
+  {
+    "question_number": 91,
+    "question_german": "Ein Mann im Rollstuhl hat sich auf eine Stelle als Buchhalter beworben. Was ist ein Beispiel für Diskriminierung? Er bekommt die Stelle nur deshalb nicht, weil er ...",
+    "question_english": "A man in a wheelchair has applied for a job as an accountant. What is an example of discrimination? He does not get the job only because he ...?",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "zu hohe Gehaltsvorstellungen hat.",
+        "text_english": "has high salary expectations",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text_german": "keine Erfahrung hat.",
+        "text_english": "has no experience",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text_german": "",
+        "text_english": "im Rollstuhl sitzt.",
+        "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text_german": "kein Englisch spricht.",
+        "text_english": "doesn't speak english",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "C",
+    "image_path": null
+  },
+  {
+    "question_number": 92,
+    "question_german": "Zwei Freunde wollen in ein öffentliches Schwimmbad in Deutschland. Beide haben eine dunkle Hautfarbe und werden deshalb nicht hineingelassen. Welches Recht wird in dieser Situation verletzt? Das Recht auf …",
+    "question_english": "Two friends want to enter a public swimming pool in Germany. Both have dark skin and are therefore not allowed in. Which right is violated in this situation? The right to ...",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "Gleichbehandlung",
+        "text_english": "Equal treatment",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text_german": "Versammlungsfreiheit",
+        "text_english": "Freedom of assembly",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text_german": "Freizügigkeit",
+        "text_english": "Freedom of movement",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text_german": "Meinungsfreiheit",
+        "text_english": "Freedom of expression",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "A",
+    "image_path": null
+  },
+  {
+    "question_number": 93,
+    "question_german": "Ein Mann mit dunkler Hautfarbe bewirbt sich um eine Stelle als Kellner in einem Restaurant in Deutschland. Was ist ein Beispiel für Diskriminierung? Er bekommt die Stelle nur deshalb nicht, weil …",
+    "question_english": "A man with dark skin applies for a job as a waiter in a restaurant in Germany. What is an example of discrimination? He does not get the job only because ...?",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "er keine Erfahrungen im Beruf hat.",
+        "text_english": "he has no experience in the profession",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text_german": "er eine dunkle Haut hat.",
+        "text_english": "he has dark skin",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text_german": "seine Deutschkenntnisse zu gering sind.",
+        "text_english": "his knowledge of German is too poor",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text_german": "er zu hohe Gehaltsvorstellungen hat.",
+        "text_english": "he has too high salary expectations",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "B",
+    "image_path": null
+  },
+  {
+    "question_number": 94,
+    "question_german": "Zu welchem Fest tragen Menschen in Deutschland bunte Kostüme und Masken?",
+    "question_english": "For which festival do people in Germany wear colorful costumes and masks?",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "an Pfingsten",
+        "text_english": "at Pentecost",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text_german": "beim Oktoberfest",
+        "text_english": "at the Oktoberfest",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text_german": "am Rosenmontag",
+        "text_english": "on Shrove Monday",
+        "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text_german": "am Maifeiertag",
+        "text_english": "on May Day",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "C",
+    "image_path": null
+  },
+  {
+    "question_number": 95,
+    "question_german": "Was ist in Deutschland ein Brauch zu Weihnachten?",
+    "question_english": "What is a custom at Christmas in Germany?",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "sich mit Masken und Kostümen verkleiden",
+        "text_english": "dress up with masks and costumes",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text_german": "bunte Eier verstecken",
+        "text_english": "hide colorful eggs",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text_german": "Kürbisse vor die Tür stellen",
+        "text_english": "Put pumpkins in front of the door",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text_german": "einen Tannenbaum schmücken",
+        "text_english": "decorate a fir tree",
+        "is_correct": true
+      }
+    ],
+    "correct_answer": "D",
+    "image_path": null
+  },
+  {
+    "question_number": 96,
+    "question_german": "Was ist in Deutschland ein Brauch zu Ostern?",
+    "question_english": "What is a custom at Easter in Germany?",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "Raketen in die Luft schießen",
+        "text_english": "Shoot rockets in the air",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text_german": "einen Tannenbaum schmücken",
+        "text_english": "decorate a fir tree",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text_german": "Kürbisse vor die Tür stellen",
+        "text_english": "put pumpkins in front of the door",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text_german": "Eier bemalen",
+        "text_english": "Painting eggs",
+        "is_correct": true
+      }
+    ],
+    "correct_answer": "D",
+    "image_path": null
+  },
+  {
+    "question_number": 97,
+    "question_german": "Pfingsten ist ein …",
+    "question_english": "Pfingsten is a …",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "internationaler Trauertag.",
+        "text_english": "international day of mourning",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text_german": "christlicher Feiertag.",
+        "text_english": "Christian holiday",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text_german": "bayerischer Brauch.",
+        "text_english": "Bavarian custom",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text_german": "deutscher Gedenktag.",
+        "text_english": "German memorial day",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "B",
+    "image_path": null
+  },
+  {
+    "question_number": 98,
+    "question_german": "In Deutschland nennt man die letzten vier Wochen vor Weihnachten …",
+    "question_english": "In Germany, the last four weeks before Christmas are called...",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "die Adventszeit.",
+        "text_english": "the advent season",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text_german": "Allerheiligen.",
+        "text_english": "All Saints' Day",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text_german": "das Erntedankfest.",
+        "text_english": "the harvest festival",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text_german": "den Buß- und Bettag.",
+        "text_english": "the Day of Prayer and Repentance",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "A",
+    "image_path": null
+  }
+]

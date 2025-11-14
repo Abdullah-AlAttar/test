@@ -1,0 +1,1157 @@
+[
+  {
+    "question_number": 1,
+    "question_german": "Was war am 8. Mai 1945?",
+    "question_english": "What happened on May 8, 1945?",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "Ende des Zweiten Weltkriegs in Europa",
+        "text_english": "End of World War II in Europe",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text_german": "Tod Adolf Hitlers",
+        "text_english": "Death of Adolf Hitler",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text_german": "Wahl von Konrad Adenauer zum Bundeskanzler",
+        "text_english": "Konrad Adenauer is elected Chancellor",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text_german": "Beginn des Berliner Mauerbaus",
+        "text_english": "Beginning of the construction of the Berlin Wall",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "A",
+    "image_path": null
+  },
+  {
+    "question_number": 2,
+    "question_german": "Was gab es während der Zeit des Nationalsozialismus in Deutschland?",
+    "question_english": "What was happening in Germany during the Nazi era?",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "das Recht zur freien Entfaltung der Persönlichkeit",
+        "text_english": "the right to free development of personality",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text_german": "den Schutz der Menschenwürde",
+        "text_english": "the protection of human dignity",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text_german": "das Verbot von Parteien",
+        "text_english": "the ban on parties",
+        "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text_german": "Pressefreiheit",
+        "text_english": "freedom of the press",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "C",
+    "image_path": null
+  },
+  {
+    "question_number": 3,
+    "question_german": "Wie hieß der erste Bundeskanzler der Bundesrepublik Deutschland?",
+    "question_english": "What was the name of the first Chancellor of the Federal Republic of Germany?",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "Willy Brandt",
+        "text_english": "",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text_german": "Konrad Adenauer",
+        "text_english": "",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text_german": "Kurt Georg Kiesinger",
+        "text_english": "",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text_german": "Helmut Schmidt",
+        "text_english": "",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "B",
+    "image_path": null
+  },
+  {
+    "question_number": 4,
+    "question_german": "Wie endete der Zweite Weltkrieg in Europa offiziell?",
+    "question_english": "How did World War II officially end in Europe?",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "durch eine Revolution in Deutschland",
+        "text_english": "through a revolution in Germany",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text_german": "mit dem Rückzug der Deutschen aus den besetzten Gebieten",
+        "text_english": "with the withdrawal of the Germans from the occupied territories",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text_german": "mit dem Tod Adolf Hitlers",
+        "text_english": "with the death of Adolf Hitler",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text_german": "durch die bedingungslose Kapitulation Deutschlands",
+        "text_english": "through the unconditional surrender of Germany",
+        "is_correct": true
+      }
+    ],
+    "correct_answer": "D",
+    "image_path": null
+  },
+  {
+    "question_number": 5,
+    "question_german": "In welchem Jahr wurde Hitler Reichskanzler?",
+    "question_english": "In what year Hitler became Chancellor?",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "1923",
+        "text_english": "",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text_german": "1927",
+        "text_english": "",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text_german": "1933",
+        "text_english": "",
+        "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text_german": "1936",
+        "text_english": "",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "C",
+    "image_path": null
+  },
+  {
+    "question_number": 6,
+    "question_german": "Wann waren die Nationalsozialisten mit Adolf Hitler in Deutschland an der Macht?",
+    "question_english": "When were the National Socialists in power in Germany with Adolf Hitler?",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "1945 bis 1989",
+        "text_english": "",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text_german": "1933 bis 1945",
+        "text_english": "",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text_german": "1932 bis 1950",
+        "text_english": "",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text_german": "1918 bis 1923",
+        "text_english": "",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "B",
+    "image_path": null
+  },
+  {
+    "question_number": 7,
+    "question_german": "Das \"Dritte Reich\" war eine …",
+    "question_english": "The 'Third Reich' was a ...",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "Räterepublik.",
+        "text_english": "Soviet Republic",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text_german": "Monarchie.",
+        "text_english": "Monarchy",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text_german": "Diktatur.",
+        "text_english": "Dictatorship",
+        "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text_german": "Demokratie.",
+        "text_english": "Democracy",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "C",
+    "image_path": null
+  },
+  {
+    "question_number": 8,
+    "question_german": "Welcher Krieg dauerte von 1939 bis 1945?",
+    "question_english": "Which war lasted from 1939 to 1945?",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "der Golfkrieg",
+        "text_english": "the gulf war",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text_german": "der Erste Weltkrieg",
+        "text_english": "the First World War",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text_german": "der Zweite Weltkrieg",
+        "text_english": "the Second World War",
+        "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text_german": "der Vietnamkrieg",
+        "text_english": "the Vietnam War",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "C",
+    "image_path": null
+  },
+  {
+    "question_number": 9,
+    "question_german": "In welchem Jahr zerstörten die Nationalsozialisten Synagogen und jüdische Geschäfte in Deutschland?",
+    "question_english": "In which year did the Nazis destroy synagogues and Jewish businesses in Germany?",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "1925",
+        "text_english": "",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text_german": "1930",
+        "text_english": "",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text_german": "1938",
+        "text_english": "",
+        "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text_german": "1945",
+        "text_english": "",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "C",
+    "image_path": null
+  },
+  {
+    "question_number": 10,
+    "question_german": "Was passierte am 9. November 1938 in Deutschland?",
+    "question_english": "What happened in Germany on November 9, 1938?",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "Die Nationalsozialisten verlieren eine Wahl und lösen den Reichstag auf",
+        "text_english": "The National Socialists lose an election and dissolve the Reichstag",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text_german": "Jüdische Geschäfte und Synagogen werden durch Nationalsozialisten und ihre Anhänger zerstört",
+        "text_english": "Jewish stores and synagogues are destroyed by National Socialists and their supporters",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text_german": "Mit dem Angriff auf Polen beginnt der Zweite Weltkrieg",
+        "text_english": "The Second World War begins with the attack on Poland",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text_german": "Hitler wird Reichspräsident und lässt alle Parteien verbieten",
+        "text_english": "Hitler becomes President of the Reich and has all parties banned",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "B",
+    "image_path": null
+  },
+  {
+    "question_number": 11,
+    "question_german": "Wann waren die Nationalsozialisten in Deutschland an der Macht?",
+    "question_english": "When were the National Socialists in power in Germany?",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "1888 bis 1918",
+        "text_english": "",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text_german": "1921 bis 1934",
+        "text_english": "",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text_german": "1933 bis 1945",
+        "text_english": "",
+        "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text_german": "1949 bis 1963",
+        "text_english": "",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "C",
+    "image_path": null
+  },
+  {
+    "question_number": 12,
+    "question_german": "Claus Schenk Graf von Stauffenberg wurde bekannt durch …",
+    "question_english": "Claus Schenk Graf from Stauffenberg is known for ...",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "das Attentat auf Hitler am 20. Juli 1944.",
+        "text_english": "the assassination attempt on Hitler on July 20, 1944",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text_german": "den Aufbau der Wehrmacht.",
+        "text_english": "the construction of the Wehrmacht",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text_german": "eine Goldmedaille bei den Olympischen Spielen 1936.",
+        "text_english": "a gold medal at the 1936 Olympics",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text_german": "den Bau des Reichstagsgebäudes.",
+        "text_english": "the construction of the Reichstag building",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "A",
+    "image_path": null
+  },
+  {
+    "question_number": 13,
+    "question_german": "Wann war der Zweite Weltkrieg zu Ende?",
+    "question_english": "When did World War II end?",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "1945",
+        "text_english": "",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text_german": "1961",
+        "text_english": "",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text_german": "1949",
+        "text_english": "",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text_german": "1933",
+        "text_english": "",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "A",
+    "image_path": null
+  },
+  {
+    "question_number": 14,
+    "question_german": "Was kennzeichnete den NS-Staat? Eine Politik …",
+    "question_english": "What characterized the Nazi state? A policy ...",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "der allgemeinen Religionsfreiheit",
+        "text_english": "the general freedom of religion",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text_german": "der Entwicklung der Demokratie",
+        "text_english": "the development of democracy",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text_german": "der Meinungsfreiheit",
+        "text_english": "the freedom of speech",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text_german": "des staatlichen Rassismus",
+        "text_english": "of state racism",
+        "is_correct": true
+      }
+    ],
+    "correct_answer": "D",
+    "image_path": null
+  },
+  {
+    "question_number": 15,
+    "question_german": "Was gab es in Deutschland nicht während der Zeit des Nationalsozialismus?",
+    "question_english": "What did not exist in Germany during the time of National Socialism?",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "Verfolgung der Juden",
+        "text_english": "Persecution of the Jews",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text_german": "freie Wahlen",
+        "text_english": "free elections",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text_german": "Pressezensur",
+        "text_english": "Press censorship",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text_german": "willkürliche Verhaftungen",
+        "text_english": "arbitrary arrests",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "B",
+    "image_path": null
+  },
+  {
+    "question_number": 16,
+    "question_german": "Die Nationalsozialisten mit Adolf Hitler errichteten 1933 in Deutschland …",
+    "question_english": "The National Socialists with Adolf Hitler established in 1933 in Germany ...",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "ein Fürstentum.",
+        "text_english": "a principality",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text_german": "einen demokratischen Staat.",
+        "text_english": "a democratic state",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text_german": "eine Diktatur.",
+        "text_english": "a dictatorship",
+        "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text_german": "eine Monarchie.",
+        "text_english": "a monarchy",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "C",
+    "image_path": null
+  },
+  {
+    "question_number": 17,
+    "question_german": "Wer baute die Mauer in Berlin?",
+    "question_english": "Who built the wall in Berlin?",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "die DDR",
+        "text_english": "the DDR",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text_german": "die USA",
+        "text_english": "the USA",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text_german": "Großbritannien",
+        "text_english": "Great Britain",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text_german": "die Bundesrepublik Deutschland",
+        "text_english": "the Federal Republic of Germany",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "A",
+    "image_path": null
+  },
+  {
+    "question_number": 18,
+    "question_german": "Bei welchen Demonstrationen in Deutschland riefen die Menschen \"Wir sind das Volk\"?",
+    "question_english": "At which demonstrations in Germany did people shout 'We are the people'?",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "bei den Demonstrationen 1968 in der Bundesrepublik Deutschland",
+        "text_english": "at the Demonstrations in 1968 in the Federal Republic of Germany",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text_german": "bei den Montagsdemonstrationen 1989 in der DDR",
+        "text_english": "at the Monday demonstrations in 1989 in the DDR",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text_german": "beim Arbeiteraufstand 1953 in der DDR",
+        "text_english": "during the 1953 workers' uprising in the DDR",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text_german": "bei den Anti-Atomkraft-Demonstrationen 1985 in der Bundesrepublik Deutschland",
+        "text_english": "at the 1985 anti-nuclear demonstrations in West Germany",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "B",
+    "image_path": null
+  },
+  {
+    "question_number": 19,
+    "question_german": "Welche Länder wurden nach dem Zweiten Weltkrieg in Deutschland als \"Alliierte Besatzungsmächte\" bezeichnet?",
+    "question_english": "Which countries were referred to as 'Allied occupying powers' in Germany after World War II?",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "Frankreich, Sowjetunion, Italien, Japan",
+        "text_english": "France, Soviet Union, Italy, Japan",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text_german": "USA, Sowjetunion, Spanien, Portugal",
+        "text_english": "USA, Soviet Union, Spain, Portugal",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text_german": "USA, Sowjetunion, Großbritannien, Frankreich",
+        "text_english": "USA, Soviet Union, Great Britain, France",
+        "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text_german": "Sowjetunion, Großbritannien, Polen, Schweden",
+        "text_english": "Soviet Union, Great Britain, Poland, Sweden",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "C",
+    "image_path": null
+  },
+  {
+    "question_number": 20,
+    "question_german": "Welches Land war keine \"Alliierte Besatzungsmacht\" in Deutschland?",
+    "question_english": "Which country was not an 'Allied occupying power' in Germany?",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "Sowjetunion",
+        "text_english": "Soviet Union",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text_german": "",
+        "text_english": "Japan",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text_german": "",
+        "text_english": "USA",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text_german": "Frankreich",
+        "text_english": "France",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "B",
+    "image_path": null
+  },
+  {
+    "question_number": 21,
+    "question_german": "Wann wurde die Bundesrepublik Deutschland gegründet?",
+    "question_english": "When was the Federal Republic of Germany founded?",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "1939",
+        "text_english": "",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text_german": "1945",
+        "text_english": "",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text_german": "1949",
+        "text_english": "",
+        "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text_german": "1951",
+        "text_english": "",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "C",
+    "image_path": null
+  },
+  {
+    "question_number": 22,
+    "question_german": "In welcher Besatzungszone wurde die DDR gegründet? In der …",
+    "question_english": "In which occupation zone was the DDR founded? In the …",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "sowjetischen Besatzungszone",
+        "text_english": "Soviet occupation zone",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text_german": "französischen Besatzungszone",
+        "text_english": "French occupation zone",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text_german": "amerikanischen Besatzungszone",
+        "text_english": "American occupation zone",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text_german": "britischen Besatzungszone",
+        "text_english": "British occupation zone",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "A",
+    "image_path": null
+  },
+  {
+    "question_number": 23,
+    "question_german": "Wann wurde die DDR gegründet?",
+    "question_english": "When was the DDR founded?",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "1947",
+        "text_english": "",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text_german": "1949",
+        "text_english": "",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text_german": "1953",
+        "text_english": "",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text_german": "1956",
+        "text_english": "",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "B",
+    "image_path": null
+  },
+  {
+    "question_number": 24,
+    "question_german": "Wie viele Besatzungszonen gab es in Deutschland nach dem Zweiten Weltkrieg?",
+    "question_english": "How many occupation zones were there in Germany after World War II?",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "3",
+        "text_english": "",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text_german": "4",
+        "text_english": "",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text_german": "5",
+        "text_english": "",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text_german": "6",
+        "text_english": "",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "B",
+    "image_path": null
+  },
+  {
+    "question_number": 25,
+    "question_german": "Welche deutsche Stadt wurde nach dem Zweiten Weltkrieg in vier Sektoren aufgeteilt?",
+    "question_english": "Which German city was divided into four sectors after World War II?",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "Dresden",
+        "text_english": "",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text_german": "München",
+        "text_english": "",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text_german": "Frankfurt/Oder",
+        "text_english": "",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text_german": "Berlin",
+        "text_english": "",
+        "is_correct": true
+      }
+    ],
+    "correct_answer": "D",
+    "image_path": null
+  },
+  {
+    "question_number": 26,
+    "question_german": "Wie waren die Besatzungszonen Deutschlands nach 1945 verteilt?",
+    "question_english": "How were the occupation zones of Germany distributed after 1945?",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "1 = Großbritannien, 2 = Sowjetunion, 3 = USA, 4 = Frankreich",
+        "text_english": "1 = Great Britain, 2 = Soviet Union, 3 = USA, 4 = France",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text_german": "1 = Großbritannien, 2 = USA, 3 = Sowjetunion, 4 = Frankreich",
+        "text_english": "1 = Great Britain, 2 = USA, 3 = Soviet Union, 4 = France",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text_german": "1 = Sowjetunion, 2 = Großbritannien, 3 = USA, 4 = Frankreich",
+        "text_english": "1 = Soviet Union, 2 = Great Britain, 3 = USA, 4 = France",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text_german": "1 = Großbritannien, 2 = Sowjetunion, 3 = Frankreich, 4 = USA",
+        "text_english": "1 = Great Britain, 2 = Soviet Union, 3 = France, 4 = USA",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "A",
+    "image_path": "data/assets\\q26.48d9065a.png"
+  },
+  {
+    "question_number": 27,
+    "question_german": "Vom Juni 1948 bis zum Mai 1949 wurden die Bürgerinnen und Bürger von West-Berlin durch eine Luftbrücke versorgt. Welcher Umstand war dafür verantwortlich?",
+    "question_english": "From June 1948 to May 1949, the citizens of West Berlin were supplied by an airlift. What circumstance was responsible for this?",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "Für Großbritannien war die Versorgung über die Luftbrücke schneller.",
+        "text_english": "For Britain, supplies were quicker via the airlift",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text_german": "Für Frankreich war eine Versorgung der West-Berliner Bevölkerung mit dem Flugzeug kostengünstiger.",
+        "text_english": "For France, supplying the population of West Berlin by plane was cheaper",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text_german": "Die Sowjetunion unterbrach den gesamten Verkehr auf dem Landwege.",
+        "text_english": "The Soviet Union cut off all overland traffic",
+        "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text_german": "Die amerikanischen Soldaten/Soldatinnen hatten beim Landtransport Angst vor Überfällen.",
+        "text_english": "The American soldiers were afraid of being attacked during land transport",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "C",
+    "image_path": null
+  },
+  {
+    "question_number": 28,
+    "question_german": "Der erste Bundeskanzler der Bundesrepublik Deutschland war …",
+    "question_english": "The first Chancellor of the Federal Republic of Germany was ...",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "Konrad Adenauer.",
+        "text_english": "",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text_german": "Willy Brandt.",
+        "text_english": "",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text_german": "Ludwig Erhard.",
+        "text_english": "",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text_german": "Gerhard Schröder.",
+        "text_english": "",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "A",
+    "image_path": null
+  },
+  {
+    "question_number": 29,
+    "question_german": "Was wollte Willy Brandt mit seinem Kniefall 1970 im ehemaligen jüdischen Ghetto in Warschau ausdrücken?",
+    "question_english": "What did Willy Brandt want to express with his genuflection in 1970 in the former Jewish ghetto in Warsaw?",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "Er sprach ein Gebet am Grab des Unbekannten Soldaten",
+        "text_english": "He said a prayer at the Tomb of the Unknown Soldier",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text_german": "Er zeigte seine Demut vor dem Warschauer Pakt",
+        "text_english": "He showed his humility before the Warsaw Pact",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text_german": "Er hat sich den ehemaligen Alliierten unterworfen",
+        "text_english": "He submitted to the former Allies",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text_german": "Er bat Polen und die polnischen Juden um Vergebung",
+        "text_english": "He asked Poland and the Polish Jews for forgiveness",
+        "is_correct": true
+      }
+    ],
+    "correct_answer": "D",
+    "image_path": "data/assets\\q29.31824d77.png"
+  },
+  {
+    "question_number": 30,
+    "question_german": "Vor wie vielen Jahren gab es erstmals eine jüdische Gemeinde auf dem Gebiet des heutigen Deutschlands?",
+    "question_english": "How many years ago was there a Jewish community for the first time in what is now Germany?",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "vor etwa 300 Jahren",
+        "text_english": "About 300 years ago",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text_german": "vor etwa 700 Jahren",
+        "text_english": "About 700 years ago",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text_german": "vor etwa 1150 Jahren",
+        "text_english": "Around 1150 years ago",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text_german": "vor etwa 1700 Jahren",
+        "text_english": "About 1700 years ago",
+        "is_correct": true
+      }
+    ],
+    "correct_answer": "D",
+    "image_path": null
+  },
+  {
+    "question_number": 31,
+    "question_german": "Wann war in der Bundesrepublik Deutschland das \"Wirtschaftswunder\"?",
+    "question_english": "When was the 'economic miracle' in the Federal Republic of Germany?",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "80er Jahre",
+        "text_english": "80s",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text_german": "70er Jahre",
+        "text_english": "70s",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text_german": "50er Jahre",
+        "text_english": "50s",
+        "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text_german": "40er Jahre",
+        "text_english": "40s",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "C",
+    "image_path": null
+  },
+  {
+    "question_number": 32,
+    "question_german": "Woran erinnern die sogenannten „Stolpersteine“ in Deutschland?",
+    "question_english": "What do the so-called “stumbling blocks” in Germany commemorate?",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "an berühmte deutsche Politikerinnen und Politiker",
+        "text_english": "Famous German politicians",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text_german": "an Verkehrstote",
+        "text_english": "People killed in traffic accidents",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text_german": "an bekannte jüdische Musiker",
+        "text_english": "Famous Jewish musicians",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text_german": "an die Opfer des Nationalsozialismus",
+        "text_english": "Victims of National Socialism",
+        "is_correct": true
+      }
+    ],
+    "correct_answer": "D",
+    "image_path": null
+  },
+  {
+    "question_number": 33,
+    "question_german": "Wofür stand der Ausdruck \"Eiserner Vorhang\"? Für die Abschottung..",
+    "question_english": "What did the expression 'Iron Curtain' stand for? For the partitioning...",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "Nazi-Deutschlands gegen die Alliierten",
+        "text_english": "Nazi Germany against the Allies",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text_german": "Europas gegen die USA",
+        "text_english": "Europe against USA",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text_german": "Norddeutschlands gegen Süddeutschland",
+        "text_english": "Northern Germany against Southern Germany",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text_german": "des Warschauer Pakts gegen den Westen",
+        "text_english": "of the Warsaw Pact against the West",
+        "is_correct": true
+      }
+    ],
+    "correct_answer": "D",
+    "image_path": null
+  },
+  {
+    "question_number": 34,
+    "question_german": "Im Jahr 1953 gab es in der DDR einen Aufstand, an den lange Zeit in der Bundesrepublik Deutschland ein Feiertag erinnerte. Wann war das?",
+    "question_english": "In 1953 there was an uprising in the DDR, which for a long time was commemorated by a public holiday in the Federal Republic of Germany. When was it?",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "",
+        "text_english": "9. November",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text_german": "20. Juli",
+        "text_english": "20. July",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text_german": "17. Juni",
+        "text_english": "17. June",
+        "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text_german": "1. Mai",
+        "text_english": "1. May",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "C",
+    "image_path": null
+  },
+  {
+    "question_number": 35,
+    "question_german": "Welcher deutsche Staat hatte eine schwarz-rot-goldene Flagge mit Hammer, Zirkel und Ährenkranz?",
+    "question_english": "Which German state had a black-red-gold flag with hammer, compass and ear wreath?",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "",
+        "text_english": "DDR",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text_german": "Drittes Reich",
+        "text_english": "Third Reich",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text_german": "Preußen",
+        "text_english": "Prussia",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text_german": "Bundesrepublik Deutschland",
+        "text_english": "Federal Republic of Germany",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "A",
+    "image_path": "data/assets\\q35.e7713f5f.png"
+  }
+]

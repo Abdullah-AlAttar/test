@@ -1,0 +1,1157 @@
+[
+  {
+    "question_number": 99,
+    "question_german": "Welches ist das Wappen der Bundesrepublik Deutschland?",
+    "question_english": "What is the coat of arms of the Federal Republic of Germany?",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "1",
+        "text_english": "",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text_german": "2",
+        "text_english": "",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text_german": "3",
+        "text_english": "",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text_german": "4",
+        "text_english": "",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "A",
+    "image_path": "data/assets\\q56-q99.42b88c95.png"
+  },
+  {
+    "question_number": 100,
+    "question_german": "Was für eine Staatsform hat Deutschland?",
+    "question_english": "What kind of government does Germany have?",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "Monarchie",
+        "text_english": "Monarchy",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text_german": "Fürstentum",
+        "text_english": "Principality",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text_german": "Republik",
+        "text_english": "Republic",
+        "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text_german": "Diktatur",
+        "text_english": "Dictatorship",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "C",
+    "image_path": null
+  },
+  {
+    "question_number": 101,
+    "question_german": "Wie viele Bundesländer hat die Bundesrepublik Deutschland?",
+    "question_english": "How many federal states does the Federal Republic of Germany have?",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "16",
+        "text_english": "",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text_german": "15",
+        "text_english": "",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text_german": "14",
+        "text_english": "",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text_german": "17",
+        "text_english": "",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "A",
+    "image_path": null
+  },
+  {
+    "question_number": 102,
+    "question_german": "Was ist kein Bundesland der Bundesrepublik Deutschland?",
+    "question_english": "What is not a state of the Federal Republic of Germany?",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "Sachsen-Anhalt",
+        "text_english": "",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text_german": "Mecklenburg-Vorpommern",
+        "text_english": "",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text_german": "Nordrhein-Westfalen",
+        "text_english": "",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text_german": "Elsass-Lothringen",
+        "text_english": "",
+        "is_correct": true
+      }
+    ],
+    "correct_answer": "D",
+    "image_path": null
+  },
+  {
+    "question_number": 103,
+    "question_german": "Deutschland ist …",
+    "question_english": "Germany is ...",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "ein sozialer und sozialistischer Bundesstaat.",
+        "text_english": "a social and socialist federal state",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text_german": "eine kommunistische Republik.",
+        "text_english": "a communist republic.",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text_german": "ein demokratischer und sozialer Bundesstaat.",
+        "text_english": "a democratic and social federal state",
+        "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text_german": "eine kapitalistische und soziale Monarchie.",
+        "text_english": "a capitalist and social monarchy",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "C",
+    "image_path": null
+  },
+  {
+    "question_number": 104,
+    "question_german": "Deutschland ist …",
+    "question_english": "Germany is ...",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "ein sozialistischer Staat.",
+        "text_english": "a socialist state",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text_german": "eine Diktatur.",
+        "text_english": "a dictatorship",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text_german": "ein Bundesstaat.",
+        "text_english": "a federal state",
+        "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text_german": "eine Monarchie.",
+        "text_english": "a monarchy",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "C",
+    "image_path": null
+  },
+  {
+    "question_number": 105,
+    "question_german": "Welches Tier ist das Wappentier der Bundesrepublik Deutschland?",
+    "question_english": "Which animal is the heraldic animal of the Federal Republic of Germany?",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "Bär",
+        "text_english": "Bear",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text_german": "Adler",
+        "text_english": "Eagle",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text_german": "Löwe",
+        "text_english": "Lion",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text_german": "Pferd",
+        "text_english": "Horse",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "B",
+    "image_path": null
+  },
+  {
+    "question_number": 106,
+    "question_german": "Was ist kein Merkmal unserer Demokratie?",
+    "question_english": "Which is not a characteristic of our democracy?",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "Pressezensur",
+        "text_english": "Press censorship",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text_german": "regelmäßige Wahlen",
+        "text_english": "Regular elections",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text_german": "verschiedene Parteien",
+        "text_english": "different parties",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text_german": "Meinungsfreiheit",
+        "text_english": "freedom of expression",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "A",
+    "image_path": null
+  },
+  {
+    "question_number": 107,
+    "question_german": "Welche Aussage ist richtig? In Deutschland …",
+    "question_english": "which statement is correct? In Germany …",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "bilden die Religionsgemeinschaften den Staat.",
+        "text_english": "the religious communities form the state",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text_german": "sind Staat und Religionsgemeinschaften voneinander getrennt",
+        "text_english": "the state and religious communities are separate from each other",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text_german": "bilden Staat und Religionsgemeinschaften eine Einheit.",
+        "text_english": "the state and religious communities form a single entity",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text_german": "ist der Staat abhängig von den Religionsgemeinschaften.",
+        "text_english": "the state is dependent on the religious communities",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "B",
+    "image_path": null
+  },
+  {
+    "question_number": 108,
+    "question_german": "Welches Amt gehört in Deutschland zur Gemeindeverwaltung?",
+    "question_english": "Which office is part of the municipal administration in Germany?",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "Finanzamt",
+        "text_english": "Tax office",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text_german": "Ordnungsamt",
+        "text_english": "Public order office",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text_german": "Pfarramt",
+        "text_english": "Parish Office",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text_german": "Auswärtiges Amt",
+        "text_english": "Foreign Office",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "B",
+    "image_path": null
+  },
+  {
+    "question_number": 109,
+    "question_german": "In Deutschland ist eine Bürgermeisterin/ein Bürgermeister …",
+    "question_english": "In Germany, a mayor is …",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "das Oberhaupt einer Gemeinde",
+        "text_english": "the head of a community",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text_german": "der Leiter/die Leiterin einer Schule",
+        "text_english": "the head/headmistress of a school",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text_german": "der Chef/die Chefin einer Bank",
+        "text_english": "the head / the head of a bank",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text_german": "der/die Vorsitzende einer Partei",
+        "text_english": "the leader of a party",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "A",
+    "image_path": null
+  },
+  {
+    "question_number": 110,
+    "question_german": "Man will die Buslinie abschaffen, mit der Sie immer zur Arbeit fahren. Was können Sie machen, um die Buslinie zu erhalten?",
+    "question_english": "They want to get rid of the bus line you always take to work. What can you do to get the bus route?",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "Ich werde Mitglied in einem Sportverein und trainiere Rad fahren.",
+        "text_english": "I become a member of a sports club and practice cycling",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text_german": "Ich beteilige mich an einer Bürgerinitiative für die Erhaltung der Buslinie oder gründe selber eine Initiative.",
+        "text_english": "I participate in a citizens' initiative for the preservation of the bus line or start an initiative myself.",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text_german": "Ich schreibe einen Brief an das Forstamt der Gemeinde.",
+        "text_english": "I write a letter to the community forestry office.",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text_german": "Ich wende mich an das Finanzamt, weil ich als Steuerzahler / Steuerzahlerin ein Recht auf die Buslinie habe.",
+        "text_english": "I contact the tax office because, as a taxpayer, I have a right to the bus line.",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "B",
+    "image_path": null
+  },
+  {
+    "question_number": 111,
+    "question_german": "Maik und Sybille wollen mit Freunden an ihrem deutschen Wohnort eine Demonstration auf der Straße abhalten. Was müssen sie vorher tun?",
+    "question_english": "Maik and Sybille want to hold a demonstration on the street with friends in their German place of residence. What do you have to do beforehand?",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "Sie müssen die Demonstration anmelden.",
+        "text_english": "You must register the demonstration.",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text_german": "Maik und Sybille müssen einen neuen Verein gründen, weil nur Vereine demonstrieren dürfen",
+        "text_english": "Maik and Sybille have to found a new association, because only associations are allowed to demonstrate",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text_german": "Sie können gar nichts tun, denn Demonstrationen sind in Deutschland grundsätzlich verboten",
+        "text_english": "They can't do anything, because demonstrations are basically forbidden in Germany",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text_german": "Sie müssen nichts tun. Man darf in Deutschland jederzeit überall demonstrieren.",
+        "text_english": "They don't have to do anything. You are allowed to demonstrate anywhere in Germany at any time.",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "A",
+    "image_path": null
+  },
+  {
+    "question_number": 112,
+    "question_german": "Wo müssen Sie sich anmelden, wenn Sie in Deutschland umziehen?",
+    "question_english": "Where do you have to register if you move to Germany?",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "beim Gewerbeamt",
+        "text_english": "at the trade office",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text_german": "beim Einwohnermeldeamt",
+        "text_english": "at the residents' registration office",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text_german": "beim Standesamt",
+        "text_english": "at the registry office",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text_german": "beim Ordnungsamt",
+        "text_english": "at the public order office",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "B",
+    "image_path": null
+  },
+  {
+    "question_number": 113,
+    "question_german": "Wohin muss man in Deutschland zuerst gehen, wenn man heiraten möchte?",
+    "question_english": "Where do you have to go first in Germany if you want to get married?",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "zum Ordnungsamt",
+        "text_english": "to the public order office",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text_german": "zum Einwohnermeldeamt",
+        "text_english": "to the residents' registration office",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text_german": "zum Standesamt",
+        "text_english": "to the registry office",
+        "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text_german": "zur Agentur für Arbeit",
+        "text_english": "to the employment agency",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "C",
+    "image_path": null
+  },
+  {
+    "question_number": 114,
+    "question_german": "Wann beginnt die gesetzliche Nachtruhe in Deutschland?",
+    "question_english": "When does the statutory night rest start in Germany?",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "um 22 Uhr",
+        "text_english": "at 10 pm",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text_german": "wenn die Sonne untergeht",
+        "text_english": "when the sun sets",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text_german": "um 0 Uhr, Mitternacht",
+        "text_english": "at 0 o'clock, midnight",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text_german": "wenn die Nachbarn schlafen gehen",
+        "text_english": "when the neighbors go to sleep",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "A",
+    "image_path": null
+  },
+  {
+    "question_number": 115,
+    "question_german": "Was sollten Sie tun, wenn Sie von Ihrer Ansprechpartnerin / Ihrem Ansprechpartner in einer deutschen Behörde schlecht behandelt werden?",
+    "question_english": "What should you do if you are treated badly by your contact person in a German authority?",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "Ich drohe der Person.",
+        "text_english": "I threaten the person",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text_german": "Ich kann nichts tun.",
+        "text_english": "I can do nothing",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text_german": "Ich muss mir diese Behandlung gefallen lassen.",
+        "text_english": "I have to put up with this treatment",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text_german": "Ich kann mich beim Behördenleiter/bei der Behördenleiterin beschweren.",
+        "text_english": "I can complain to the head of the public authority",
+        "is_correct": true
+      }
+    ],
+    "correct_answer": "D",
+    "image_path": null
+  },
+  {
+    "question_number": 116,
+    "question_german": "In den meisten Mietshäusern in Deutschland gibt es eine \"Hausordnung\". Was steht in einer solchen \"Hausordnung\"? Sie nennt",
+    "question_english": "In most apartment buildings in Germany there are “house rules”. What does such a “house rule” say? she calls",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "die Adresse des nächsten Ordnungsamtes.",
+        "text_english": "the address of the nearest public order office",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text_german": "Regeln für die Benutzung öffentlicher.",
+        "text_english": "Rules for the use of public",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text_german": "alle Mieter und Mieterinnen im Haus.",
+        "text_english": "all tenants and leaseholders in the building.",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text_german": "Regeln, an die sich alle Bewohner und Bewohnerinnen halten müssen.",
+        "text_english": "Rules that all tenants and residents must follow",
+        "is_correct": true
+      }
+    ],
+    "correct_answer": "D",
+    "image_path": null
+  },
+  {
+    "question_number": 117,
+    "question_german": "Wenn Sie sich in Deutschland gegen einen falschen Steuerbescheid wehren wollen, müssen Sie …",
+    "question_english": "If you want to defend yourself against a false tax assessment in Germany, you must ...",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "Einspruch einlegen.",
+        "text_english": "Appeal",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text_german": "den Bescheid wegwerfen.",
+        "text_english": "Throw away the notice.",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text_german": "warten, bis ein anderer Bescheid kommt.",
+        "text_english": "Wait until another notice comes.",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text_german": "nichts machen.",
+        "text_english": "do nothing",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "A",
+    "image_path": null
+  },
+  {
+    "question_number": 118,
+    "question_german": "Was tun Sie, wenn Sie eine falsche Rechnung von einer deutschen Behörde bekommen?",
+    "question_english": "What do you do if you receive an incorrect invoice from a German authority?",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "Ich schicke die Rechnung an die Behörde zurück.",
+        "text_english": "I send the invoice back to the authority",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text_german": "Ich lasse die Rechnung liegen.",
+        "text_english": "I leave the invoice",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text_german": "Ich lege Widerspruch bei der Behörde ein.",
+        "text_english": "I file an objection with the authority",
+        "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text_german": "Ich gehe mit der Rechnung zum Finanzamt.",
+        "text_english": "I take the invoice to the tax office",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "C",
+    "image_path": null
+  },
+  {
+    "question_number": 119,
+    "question_german": "Welche Städte haben die größten jüdischen Gemeinden in Deutschland?",
+    "question_english": "Which cities have the largest Jewish communities in Germany?",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "Nürnberg und Stuttgart",
+        "text_english": "Nuremberg and Stuttgart",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text_german": "Berlin und München",
+        "text_english": "Berlin and Munich",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text_german": "Hamburg und Essen",
+        "text_english": "Hamburg and Essen",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text_german": "Worms und Speyer",
+        "text_english": "Worms and Speyer",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "B",
+    "image_path": null
+  },
+  {
+    "question_number": 120,
+    "question_german": "Sie haben in Deutschland einen Fernseher gekauft. Zu Hause packen Sie den Fernseher aus, doch er funktioniert nicht. Der Fernseher ist kaputt. Was können Sie machen?",
+    "question_english": "You have bought a TV in Germany. At home, you unpack the TV, but it does not work. The TV is broken. What can you do?",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "den Fernseher reklamieren",
+        "text_english": "complain the TV",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text_german": "eine Anzeige schreiben",
+        "text_english": "write an advertisement",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text_german": "die Garantie verlängern",
+        "text_english": "extend the warranty",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text_german": "das Gerät ungefragt austauschen",
+        "text_english": "replace the device without being asked",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "A",
+    "image_path": null
+  },
+  {
+    "question_number": 121,
+    "question_german": "Was ist Deutschland nicht?",
+    "question_english": "What is Germany not?",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "eine Monarchie",
+        "text_english": "a monarchy",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text_german": "ein Sozialstaat",
+        "text_english": "a welfare state",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text_german": "eine Demokratie",
+        "text_english": "a democracy",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text_german": "ein Rechtsstaat",
+        "text_english": "a constitutional state",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "A",
+    "image_path": null
+  },
+  {
+    "question_number": 122,
+    "question_german": "Womit finanziert der deutsche Staat die Sozialversicherung?",
+    "question_english": "How does the German state finance social security?",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "Spendengeldern",
+        "text_english": "Donations",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text_german": "Sozialabgaben",
+        "text_english": "Social contributions",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text_german": "Kirchensteuern",
+        "text_english": "Church taxes",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text_german": "Vereinsbeiträgen",
+        "text_english": "Association dues",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "B",
+    "image_path": null
+  },
+  {
+    "question_number": 123,
+    "question_german": "Welche Maßnahme schafft in Deutschland soziale Sicherheit?",
+    "question_english": "Which measure creates social security in Germany?",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "die Krankenversicherung",
+        "text_english": "the health insurance",
+        "is_correct": true
+      },
+      {
+        "letter": "B",
+        "text_german": "die Haftpflichtversicherung",
+        "text_english": "the liability insurance",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text_german": "die Gebäudeversicherung",
+        "text_english": "the building insurance",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text_german": "die Autoversicherung",
+        "text_english": "the car insurance",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "A",
+    "image_path": null
+  },
+  {
+    "question_number": 124,
+    "question_german": "Die Bundesrepublik Deutschland ist ein demokratischer und sozialer ...",
+    "question_english": "The Federal Republic of Germany is a democratic and social",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "Zentralstaat.",
+        "text_english": "Central state.",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text_german": "Staatenverbund.",
+        "text_english": "Union of States.",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text_german": "Bundesstaat.",
+        "text_english": "Federal state.",
+        "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text_german": "Staatenbund.",
+        "text_english": "Confederation of states.",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "C",
+    "image_path": null
+  },
+  {
+    "question_number": 125,
+    "question_german": "Mit welchen Worten beginnt die deutsche Nationalhymne?",
+    "question_english": "With which words does the German national anthem begin?",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "Freude schöner Götterfunken...",
+        "text_english": "Joy to the gods...",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text_german": "Deutschland einig Vaterland...",
+        "text_english": "Germany united fatherland...",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text_german": "Völker, hört die Signale...",
+        "text_english": "People hear the signals...",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text_german": "Einigkeit und Recht und Freiheit...",
+        "text_english": "Unity and justice and freedom...",
+        "is_correct": true
+      }
+    ],
+    "correct_answer": "D",
+    "image_path": null
+  },
+  {
+    "question_number": 126,
+    "question_german": "Zu welcher Versicherung gehört die Pflegeversicherung?",
+    "question_english": "Which insurance does long-term care insurance belong to?",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "Hausratversicherung",
+        "text_english": "Home insurance",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text_german": "Haftpflicht- und Feuerversicherung",
+        "text_english": "Liability and fire insurance",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text_german": "Sozialversicherung",
+        "text_english": "Social insurance",
+        "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text_german": "Unfallversicherung",
+        "text_english": "Accident insurance",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "C",
+    "image_path": null
+  },
+  {
+    "question_number": 127,
+    "question_german": "Der deutsche Staat hat viele Aufgaben. Welche Aufgabe gehört dazu?",
+    "question_english": "The German state has many tasks. Which task is one of them?",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "Er versorgt alle Einwohner und Einwohnerinnen kostenlos mit Zeitungen.",
+        "text_english": "It provides newspapers free of charge to all residents.",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text_german": "Er produziert Autos und Busse.",
+        "text_english": "It produces cars and buses.",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text_german": "Er baut Straßen und Schulen.",
+        "text_english": "He builds roads and schools.",
+        "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text_german": "Er verkauft Lebensmittel und Kleidung.",
+        "text_english": "He sells food and clothing.",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "C",
+    "image_path": null
+  },
+  {
+    "question_number": 128,
+    "question_german": "Der deutsche Staat hat viele Aufgaben. Welche Aufgabe gehört nicht dazu?",
+    "question_english": "The German state has many tasks. Which task is not one of them?",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "Er fördert Sportler und Sportlerinnen.",
+        "text_english": "It promotes sportsmen and sportswomen.",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text_german": "Er unterstützt Museen.",
+        "text_english": "It supports museums.",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text_german": "Er zahlt Kindergeld.",
+        "text_english": "He pays child benefits.",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text_german": "Er bezahlt für alle Staatsangehörigen Urlaubsreisen.",
+        "text_english": "It pays for vacations for all nationals.",
+        "is_correct": true
+      }
+    ],
+    "correct_answer": "D",
+    "image_path": null
+  },
+  {
+    "question_number": 129,
+    "question_german": "Zu einem demokratischen Rechtsstaat gehört es nicht, dass …",
+    "question_english": "It is not part of a democratic constitutional state that...",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "Bürger friedlich demonstrieren gehen dürfen.",
+        "text_english": "Citizens are allowed to go demonstrate peacefully.",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text_german": "Menschen sich kritisch über die Regierung äußern können.",
+        "text_english": "People can express themselves critically about the government.",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text_german": "jemand ein Verbrechen begeht und deshalb verhaftet wird.",
+        "text_english": "someone commits a crime and is arrested because of it.",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text_german": "Menschen von einer Privatpolizei ohne Grund verhaftet werden.",
+        "text_english": "people are arrested by a private police force for no reason.",
+        "is_correct": true
+      }
+    ],
+    "correct_answer": "D",
+    "image_path": null
+  },
+  {
+    "question_number": 130,
+    "question_german": "Was bedeutet \"Volkssouveränität\"? Alle Staatsgewalt geht vom …",
+    "question_english": "What means “sovereignty of the people”? All state power emanates from...",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "preußischen König aus.",
+        "text_english": "Prussian king from.",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text_german": "Bundesverfassungsgericht aus.",
+        "text_english": "Federal Constitutional Court from.",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text_german": "Volke aus.",
+        "text_english": "People off.",
+        "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text_german": "Bundestag aus.",
+        "text_english": "Bundestag off.",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "C",
+    "image_path": null
+  },
+  {
+    "question_number": 131,
+    "question_german": "Was bedeutet \"Rechtsstaat\" in Deutschland?",
+    "question_english": "What does “rule of law” mean in Germany?",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "Die Bürger und Bürgerinnen entscheiden über Gesetze.",
+        "text_english": "Citizens decide on laws.",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text_german": "Der Staat muss die Gesetze einhalten.",
+        "text_english": "The state must comply with the laws.",
+        "is_correct": true
+      },
+      {
+        "letter": "C",
+        "text_german": "Der Staat hat Recht.",
+        "text_english": "The state has the law.",
+        "is_correct": false
+      },
+      {
+        "letter": "D",
+        "text_german": "Es gibt nur rechte Parteien.",
+        "text_english": "There are only right-wing parties.",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "B",
+    "image_path": null
+  },
+  {
+    "question_number": 132,
+    "question_german": "Was bedeutet \"Volkssouveränität\"?",
+    "question_english": "What is meant by “sovereignty of the people”?",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "Das Bundesverfassungsgericht steht über der Verfassung.",
+        "text_english": "The Federal Constitutional Court is above the Constitution.",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text_german": "Die Interessenverbände üben die Souveränität zusammen mit der Regierung aus.",
+        "text_english": "Interest groups exercise sovereignty along with the government.",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text_german": "Die Staatsgewalt geht vom Volke aus.",
+        "text_english": "State power emanates from the people.",
+        "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text_german": "Der König/die Königin herrscht über das Volk.",
+        "text_english": "The king/queen rules over the people.",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "C",
+    "image_path": null
+  },
+  {
+    "question_number": 133,
+    "question_german": "Welche Handlungen mit Bezug auf den Staat Israel sind in Deutschland verboten?",
+    "question_english": "Which actions related to the State of Israel are prohibited in Germany?",
+    "answers": [
+      {
+        "letter": "A",
+        "text_german": "die Politik Israels öffentlich kritisieren",
+        "text_english": "Publicly criticizing Israel's policies.",
+        "is_correct": false
+      },
+      {
+        "letter": "B",
+        "text_german": "das Aufhängen einer israelischen Flagge auf dem Privatgrundstück",
+        "text_english": "Hanging an Israeli flag on private property.",
+        "is_correct": false
+      },
+      {
+        "letter": "C",
+        "text_german": "der öffentliche Aufruf zur Vernichtung Israels",
+        "text_english": "Publicly calling for the destruction of Israel.",
+        "is_correct": true
+      },
+      {
+        "letter": "D",
+        "text_german": "eine Diskussion über die Politik Israels",
+        "text_english": "Discussing Israel's policies.",
+        "is_correct": false
+      }
+    ],
+    "correct_answer": "C",
+    "image_path": null
+  }
+]
