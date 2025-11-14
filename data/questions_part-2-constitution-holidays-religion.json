@@ -458,7 +458,7 @@
         "is_correct": false
       }
     ],
-    "correct_answer": null,
+    "correct_answer": "D",
     "image_path": null
   },
   {
@@ -612,7 +612,7 @@
       },
       {
         "letter": "C",
-        "text_german": ".",
+        "text_german": "tolerant",
         "text_english": "tolerant",
         "is_correct": false
       },
@@ -744,8 +744,8 @@
       },
       {
         "letter": "C",
-        "text_german": "",
-        "text_english": "im Rollstuhl sitzt.",
+        "text_german": "im Rollstuhl sitzt.",
+        "text_english": "is in a wheelchair",
         "is_correct": true
       },
       {
