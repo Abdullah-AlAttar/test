@@ -4,51 +4,10 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Einbürgerungstest Practice</title>
+  <link rel="stylesheet" href="css/styles.css" />
+  <script src="js/progress.js"></script>
+  <script src="js/app.js"></script>
   <script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js"></script>
-  <style>
-    :root {
-      --bg: #f9fafb;
-      --panel: #ffffff;
-      --border: #e2e8f0;
-      --accent: #0a6dd8;
-      --accent-soft: #e0f2ff;
-      --danger: #dc2626;
-      --success: #059669;
-      --translation: #1d4ed8;
-      font-family: system-ui,-apple-system,"Segoe UI",Roboto,Ubuntu,"Helvetica Neue",Arial,"Noto Sans",sans-serif;
-    }
-    body { margin:0; background:var(--bg); color:#111827; }
-    header { padding:1rem 1.25rem; background:var(--panel); border-bottom:1px solid var(--border); position:sticky; top:0; z-index:10; }
-    h1 { margin:0; font-size:1.35rem; display:flex; align-items:center; gap:.5rem; }
-    select, input[type=text], button { font:inherit; }
-    .layout { display:flex; max-width:1600px; margin:0 auto; padding:1rem; gap:1.25rem; }
-    .sidebar { width:280px; flex-shrink:0; display:flex; flex-direction:column; gap:1rem; }
-    .panel { background:var(--panel); border:1px solid var(--border); border-radius:8px; padding:1rem; }
-    .questions { flex:1; display:flex; flex-direction:column; gap:1rem; }
-    .question { border:1px solid var(--border); border-radius:8px; background:var(--panel); padding:.85rem 1rem; position:relative; }
-  .q-header { display:flex; align-items:flex-start; justify-content:space-between; gap:.75rem; }
-  .q-header h3 { margin:.25rem 0 .5rem; font-size:1rem; cursor:pointer; flex:1; }
-  .trans-btn { background:#e2e8f0; border:1px solid var(--border); padding:.4rem .7rem; border-radius:6px; cursor:pointer; font-size:.7rem; }
-  .trans-btn:hover { background:#cbd5e1; }
-  .audio-btn { background:#0a6dd8; color:#fff; border:none; padding:.4rem .6rem; border-radius:6px; cursor:pointer; font-size:.75rem; display:flex; align-items:center; }
-  .audio-btn:hover { background:#095bb3; }
-    .answers { display:flex; flex-direction:column; gap:.4rem; }
-    .answer { padding:.5rem .65rem; border:1px solid var(--border); border-radius:6px; background:#f8fafc; cursor:pointer; position:relative; }
-    .answer:hover { background:#f1f5f9; }
-    .answer.selected { outline:2px solid var(--accent); background:var(--accent-soft); }
-    .answer.correct { outline:2px solid var(--success); background:#ecfdf5; }
-    .answer.incorrect { outline:2px solid var(--danger); background:#fef2f2; }
-    .translation { margin:.35rem 0 0 .25rem; font-size:.75rem; color:var(--translation); font-style:italic; }
-    .controls { display:flex; flex-wrap:wrap; gap:.5rem; margin-top:.5rem; }
-    .tag { display:inline-block; padding:.2rem .5rem; font-size:.65rem; background:#eef2f7; border-radius:4px; margin-left:.45rem; }
-    .show-answer-btn { background:var(--accent); color:#fff; border:none; padding:.45rem .85rem; border-radius:6px; cursor:pointer; font-weight:600; }
-    .show-answer-btn[disabled] { opacity:.5; cursor:default; }
-    .stats { font-size:.8rem; display:grid; grid-template-columns:repeat(auto-fit,minmax(110px,1fr)); gap:.4rem; }
-    .stats div { background:#f1f5f9; padding:.4rem .55rem; border-radius:6px; }
-    .search-box { width:100%; }
-    .note { font-size:.7rem; color:#6b7280; }
-    @media (max-width:900px){ .layout { flex-direction:column; } .sidebar { width:100%; flex-direction:row; flex-wrap:wrap; } }
-  </style>
 </head>
 <body>
   <header>
@@ -66,8 +25,27 @@
         <div style="margin-top:.75rem;">
           <input class="search-box" type="text" placeholder="Search (German/English)" x-model="search" @input="applySearch()" />
         </div>
+        <div style="margin-top:.75rem;">
+          <label style="font-size:.75rem; font-weight:600;">Filter by Status</label>
+          <div class="filter-group" style="margin-top:.35rem;">
+            <button class="filter-btn" :class="{'active': statusFilter === 'all'}" @click="changeStatusFilter('all')">All</button>
+            <button class="filter-btn" :class="{'active': statusFilter === 'new'}" @click="changeStatusFilter('new')">New</button>
+            <button class="filter-btn" :class="{'active': statusFilter === 'attempted'}" @click="changeStatusFilter('attempted')">Attempted</button>
+            <button class="filter-btn" :class="{'active': statusFilter === 'mastered'}" @click="changeStatusFilter('mastered')">⭐ Mastered</button>
+          </div>
+        </div>
+        <div class="progress-panel" style="margin-top:.75rem;">
+          <h4>📊 Progress Stats</h4>
+          <div style="font-size:.7rem; line-height:1.6;">
+            <div>New: <strong x-text="progressStats.new"></strong></div>
+            <div>Attempted: <strong x-text="progressStats.attempted"></strong></div>
+            <div>⭐ Mastered: <strong x-text="progressStats.mastered"></strong></div>
+            <div>Overall Accuracy: <strong x-text="progressStats.accuracy + '%'"></strong></div>
+          </div>
+        </div>
         <div class="controls" style="margin-top:.75rem;">
           <button type="button" @click="resetSession()">Reset Session</button>
+          <button type="button" @click="resetProgress()" style="background:#dc2626; color:#fff;">Reset Progress</button>
         </div>
         <div class="stats" style="margin-top:.75rem;">
           <div><strong>Total</strong><br><span x-text="filteredQuestions.length"></span></div>
@@ -100,9 +78,10 @@
         <div class="panel">Loading…</div>
       </template>
       <template x-for="q in filteredQuestions" :key="q.question_number">
-        <div class="question" :class="{'revealed': q.revealed}">
+        <div class="question" :class="{'revealed': q.revealed, 'mastered': q.status === 'mastered', 'attempted': q.status === 'attempted'}">
           <div class="q-header">
             <h3 @click="q.showAll = !q.showAll" x-html="formatQuestionTitle(q)"></h3>
+            <span class="progress-badge" :class="{'mastered': q.status === 'mastered'}" x-text="getProgressBadge(q)" :title="getProgressTooltip(q)"></span>
             <button type="button" class="trans-btn" @click="q.showAll = !q.showAll" x-text="q.showAll ? 'Hide Translation' : 'Show Translation'"></button>
             <button type="button" class="audio-btn" @click="speakGerman(q.question_german)" title="Play question">🔊</button>
           </div>
@@ -142,209 +121,5 @@
       </template>
     </main>
   </div>
-  <script>
-    function app(){
-      return {
-        version: 'HTML+Alpine v1',
-        loading: false,
-  voices: [],
-  selectedVoiceName: localStorage.getItem('voiceName') || '',
-  ttsRate: parseFloat(localStorage.getItem('ttsRate')) || 1,
-  ttsPitch: parseFloat(localStorage.getItem('ttsPitch')) || 1,
-        categories: [
-          { key: 'all', label: '🔀 All Questions (Shuffled)', file: null },
-          { key: 'questions_part-1-1-history', label: 'Part 1.1 History', file: 'data/questions_part-1-1-history.json' },
-          { key: 'questions_part-1-2-history', label: 'Part 1.2 History', file: 'data/questions_part-1-2-history.json' },
-          { key: 'questions_part-2-constitution-holidays-religion', label: 'Part 2 Constitution / Holidays / Religion', file: 'data/questions_part-2-constitution-holidays-religion.json' },
-          { key: 'questions_part-3-germany', label: 'Part 3 Germany', file: 'data/questions_part-3-germany.json' },
-          { key: 'questions_part-4-1-politics', label: 'Part 4.1 Politics', file: 'data/questions_part-4-1-politics.json' },
-          { key: 'questions_part-4-2-politics', label: 'Part 4.2 Politics', file: 'data/questions_part-4-2-politics.json' },
-          { key: 'questions_part-5-judiciary-system-and-employment', label: 'Part 5 Judiciary / Employment', file: 'data/questions_part-5-judiciary-system-and-employment.json' },
-          { key: 'questions_part-6-1-education-family', label: 'Part 6.1 Education / Family', file: 'data/questions_part-6-1-education-family.json' },
-          { key: 'questions_part-6-2-european-union', label: 'Part 6.2 European Union', file: 'data/questions_part-6-2-european-union.json' },
-        ],
-        selectedCategory: 'all',
-        questions: [],
-        filteredQuestions: [],
-        search: '',
-  // Removed global allTranslations toggle; translation now controlled per-question (q.showAll) or per selected answer
-        answeredCount: 0,
-        revealedCount: 0,
-        correctCount: 0,
-        shuffle(array){
-          // Fisher-Yates shuffle algorithm
-          const arr = [...array];
-          for(let i = arr.length - 1; i > 0; i--){
-            const j = Math.floor(Math.random() * (i + 1));
-            [arr[i], arr[j]] = [arr[j], arr[i]];
-          }
-          return arr;
-        },
-        async loadCategory(){
-          const cat = this.categories.find(c => c.key === this.selectedCategory);
-          if(!cat) return;
-          this.loading = true;
-          try {
-            if(this.selectedCategory === 'all'){
-              // Load all categories
-              const allQuestions = [];
-              const categoriesToLoad = this.categories.filter(c => c.file !== null);
-              for(const category of categoriesToLoad){
-                try {
-                  const res = await fetch(category.file);
-                  const raw = await res.json();
-                  if(Array.isArray(raw)) allQuestions.push(...raw);
-                } catch(e){
-                  console.error(`Failed to load ${category.file}:`, e);
-                }
-              }
-              const normalized = allQuestions.map(q => this.normalizeQuestion(q));
-              this.questions = this.shuffle(normalized);
-            } else {
-              // Load single category
-              const res = await fetch(cat.file);
-              const raw = await res.json();
-              const normalized = (Array.isArray(raw)? raw:[]).map(q => this.normalizeQuestion(q));
-              this.questions = this.shuffle(normalized);
-            }
-          } catch(e){
-            console.error(e);
-            this.questions = [];
-          } finally {
-            this.loading = false;
-            this.applySearch();
-            this.recalcStats();
-          }
-        },
-        normalizeQuestion(q){
-          const answers = Array.isArray(q.answers)? q.answers: [];
-          let correct = q.correct_answer;
-            if(!correct){
-              const found = answers.find(a => a.is_correct);
-              if(found) correct = found.letter;
-            }
-          const normalizedAnswers = answers.map(a => ({
-            letter: a.letter,
-            text_german: a.text_german || '',
-            text_english: a.text_english || '',
-            is_correct: !!a.is_correct
-          }));
-          return {
-            question_number: q.question_number,
-            question_german: q.question_german || '',
-            question_english: q.question_english || '',
-            answers: this.shuffle(normalizedAnswers),
-            correct_answer: correct,
-            image_path: q.image_path || null,
-            selected: null,
-            revealed: false,
-            showAll: false
-          };
-        },
-        applySearch(){
-          const term = this.search.trim().toLowerCase();
-          if(!term){
-            this.filteredQuestions = this.questions;
-          } else {
-            this.filteredQuestions = this.questions.filter(q => {
-              const base = [q.question_german, q.question_english].join(' ').toLowerCase();
-              const answerText = q.answers.map(a => a.text_german + ' ' + a.text_english).join(' ').toLowerCase();
-              return base.includes(term) || answerText.includes(term);
-            });
-          }
-        },
-        selectAnswer(q,a){
-          if(q.revealed) return; // lock after reveal
-          q.selected = a.letter;
-          // Do NOT turn on full translations; only this answer's translation will show.
-          this.recalcStats();
-        },
-        showAnswerTranslation(q,a){
-          // Show translation only for selected answer OR if full question translations toggled
-          if(!a.text_english) return false;
-          return q.selected === a.letter || q.showAll;
-        },
-        reveal(q){
-          if(q.revealed) return;
-          q.revealed = true;
-          this.recalcStats();
-        },
-        feedbackText(q){
-          if(!q.revealed) return '';
-          if(!q.selected) return `Correct answer: ${q.correct_answer}`;
-          return q.selected === q.correct_answer ? 'Correct ✔️' : `Incorrect ✖️ (Answer: ${q.correct_answer})`;
-        },
-        answerClasses(q,a){
-          if(q.revealed){
-            if(a.letter === q.correct_answer) return 'answer correct';
-            if(q.selected === a.letter && a.letter !== q.correct_answer) return 'answer incorrect';
-            return 'answer';
-          }
-          if(q.selected === a.letter) return 'answer selected';
-          return 'answer';
-        },
-        normalizeImage(path){
-          if(!path) return '';
-          return path.replace(/\\/g,'/');
-        },
-        recalcStats(){
-          this.answeredCount = this.filteredQuestions.filter(q => q.selected).length;
-          this.revealedCount = this.filteredQuestions.filter(q => q.revealed).length;
-            this.correctCount = this.filteredQuestions.filter(q => q.revealed && q.selected === q.correct_answer).length;
-        },
-        accuracy(){
-          if(this.revealedCount === 0) return '0.0';
-          return ((this.correctCount / this.revealedCount) * 100).toFixed(1);
-        },
-        resetSession(){
-          this.questions.forEach(q => { q.selected = null; q.revealed = false; });
-          this.recalcStats();
-        },
-        formatQuestionTitle(q){
-          const num = q.question_number ?? '?';
-          return `<span>${num}. ${escapeHtml(q.question_german)}</span>`;
-        },
-        init(){
-          this.loadCategory();
-          this.initVoices();
-        }
-        ,
-        // ---------------- TTS METHODS ----------------
-        initVoices(){
-          if(!('speechSynthesis' in window)) return;
-          populateVoices(this);
-          window.speechSynthesis.onvoiceschanged = () => populateVoices(this);
-        },
-        voiceLabel(v){ return `${v.name} (${v.lang})`; },
-        storeVoicePreference(){ localStorage.setItem('voiceName', this.selectedVoiceName); },
-        storeTTSSettings(){ localStorage.setItem('ttsRate', this.ttsRate); localStorage.setItem('ttsPitch', this.ttsPitch); },
-        speakGerman(text){
-          if(!text) return;
-          if(!('speechSynthesis' in window)){ alert('Speech synthesis not supported in this browser'); return; }
-          const utter = new SpeechSynthesisUtterance(text);
-          const voice = this.voices.find(v => v.name === this.selectedVoiceName) || this.voices.find(v=> v.lang.toLowerCase().startsWith('de'));
-          if(voice) utter.voice = voice;
-          utter.rate = this.ttsRate;
-          utter.pitch = this.ttsPitch;
-          try { window.speechSynthesis.cancel(); window.speechSynthesis.speak(utter); } catch(e){ console.error(e); }
-        },
-        testVoice(){ this.speakGerman('Dies ist ein Test für die Sprachausgabe.'); }
-      };
-    }
-    // Voice helpers
-    function populateVoices(state){
-      const all = speechSynthesis.getVoices();
-      state.voices = all.filter(v => v.lang && v.lang.toLowerCase().startsWith('de')); // German voices
-      if(!state.selectedVoiceName && state.voices.length){
-        state.selectedVoiceName = state.voices[0].name;
-      }
-    }
-    function escapeHtml(str){
-      return String(str).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;');
-    }
-    document.addEventListener('alpine:init', () => {
-      Alpine.data('app', app);
-    });
-  </script>
 </body>
 </html>
