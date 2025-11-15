@@ -171,6 +171,15 @@
         answeredCount: 0,
         revealedCount: 0,
         correctCount: 0,
+        shuffle(array){
+          // Fisher-Yates shuffle algorithm
+          const arr = [...array];
+          for(let i = arr.length - 1; i > 0; i--){
+            const j = Math.floor(Math.random() * (i + 1));
+            [arr[i], arr[j]] = [arr[j], arr[i]];
+          }
+          return arr;
+        },
         async loadCategory(){
           const cat = this.categories.find(c => c.key === this.selectedCategory);
           if(!cat) return;
@@ -178,7 +187,8 @@
           try {
             const res = await fetch(cat.file);
             const raw = await res.json();
-            this.questions = (Array.isArray(raw)? raw:[]).map(q => this.normalizeQuestion(q));
+            const normalized = (Array.isArray(raw)? raw:[]).map(q => this.normalizeQuestion(q));
+            this.questions = this.shuffle(normalized);
           } catch(e){
             console.error(e);
             this.questions = [];
@@ -195,16 +205,17 @@
               const found = answers.find(a => a.is_correct);
               if(found) correct = found.letter;
             }
+          const normalizedAnswers = answers.map(a => ({
+            letter: a.letter,
+            text_german: a.text_german || '',
+            text_english: a.text_english || '',
+            is_correct: !!a.is_correct
+          }));
           return {
             question_number: q.question_number,
             question_german: q.question_german || '',
             question_english: q.question_english || '',
-            answers: answers.map(a => ({
-              letter: a.letter,
-              text_german: a.text_german || '',
-              text_english: a.text_english || '',
-              is_correct: !!a.is_correct
-            })),
+            answers: this.shuffle(normalizedAnswers),
             correct_answer: correct,
             image_path: q.image_path || null,
             selected: null,
