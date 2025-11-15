@@ -152,6 +152,7 @@
   ttsRate: parseFloat(localStorage.getItem('ttsRate')) || 1,
   ttsPitch: parseFloat(localStorage.getItem('ttsPitch')) || 1,
         categories: [
+          { key: 'all', label: '🔀 All Questions (Shuffled)', file: null },
           { key: 'questions_part-1-1-history', label: 'Part 1.1 History', file: 'data/questions_part-1-1-history.json' },
           { key: 'questions_part-1-2-history', label: 'Part 1.2 History', file: 'data/questions_part-1-2-history.json' },
           { key: 'questions_part-2-constitution-holidays-religion', label: 'Part 2 Constitution / Holidays / Religion', file: 'data/questions_part-2-constitution-holidays-religion.json' },
@@ -162,7 +163,7 @@
           { key: 'questions_part-6-1-education-family', label: 'Part 6.1 Education / Family', file: 'data/questions_part-6-1-education-family.json' },
           { key: 'questions_part-6-2-european-union', label: 'Part 6.2 European Union', file: 'data/questions_part-6-2-european-union.json' },
         ],
-        selectedCategory: 'questions_part-1-1-history',
+        selectedCategory: 'all',
         questions: [],
         filteredQuestions: [],
         search: '',
@@ -184,10 +185,28 @@
           if(!cat) return;
           this.loading = true;
           try {
-            const res = await fetch(cat.file);
-            const raw = await res.json();
-            const normalized = (Array.isArray(raw)? raw:[]).map(q => this.normalizeQuestion(q));
-            this.questions = this.shuffle(normalized);
+            if(this.selectedCategory === 'all'){
+              // Load all categories
+              const allQuestions = [];
+              const categoriesToLoad = this.categories.filter(c => c.file !== null);
+              for(const category of categoriesToLoad){
+                try {
+                  const res = await fetch(category.file);
+                  const raw = await res.json();
+                  if(Array.isArray(raw)) allQuestions.push(...raw);
+                } catch(e){
+                  console.error(`Failed to load ${category.file}:`, e);
+                }
+              }
+              const normalized = allQuestions.map(q => this.normalizeQuestion(q));
+              this.questions = this.shuffle(normalized);
+            } else {
+              // Load single category
+              const res = await fetch(cat.file);
+              const raw = await res.json();
+              const normalized = (Array.isArray(raw)? raw:[]).map(q => this.normalizeQuestion(q));
+              this.questions = this.shuffle(normalized);
+            }
           } catch(e){
             console.error(e);
             this.questions = [];
