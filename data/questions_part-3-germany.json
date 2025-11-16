@@ -3,29 +3,34 @@
     "question_number": 99,
     "question_german": "Welches ist das Wappen der Bundesrepublik Deutschland?",
     "question_english": "What is the coat of arms of the Federal Republic of Germany?",
+      "question_arabic": "ما هو شعار جمهورية ألمانيا الاتحادية؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "1",
         "text_english": "",
+          "text_arabic": "1",
         "is_correct": true
       },
       {
         "letter": "B",
         "text_german": "2",
         "text_english": "",
+          "text_arabic": "2",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "3",
         "text_english": "",
+          "text_arabic": "3",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "4",
         "text_english": "",
+          "text_arabic": "4",
         "is_correct": false
       }
     ],
@@ -36,29 +41,34 @@
     "question_number": 100,
     "question_german": "Was für eine Staatsform hat Deutschland?",
     "question_english": "What kind of government does Germany have?",
+      "question_arabic": "ما هو نوع نظام الحكم في ألمانيا؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "Monarchie",
         "text_english": "Monarchy",
+          "text_arabic": "ملكية",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "Fürstentum",
         "text_english": "Principality",
+          "text_arabic": "إمارة",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "Republik",
         "text_english": "Republic",
+          "text_arabic": "جمهورية",
         "is_correct": true
       },
       {
         "letter": "D",
         "text_german": "Diktatur",
         "text_english": "Dictatorship",
+          "text_arabic": "ديكتاتورية",
         "is_correct": false
       }
     ],
@@ -69,29 +79,34 @@
     "question_number": 101,
     "question_german": "Wie viele Bundesländer hat die Bundesrepublik Deutschland?",
     "question_english": "How many federal states does the Federal Republic of Germany have?",
+      "question_arabic": "كم عدد الولايات الفيدرالية في جمهورية ألمانيا الاتحادية؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "16",
         "text_english": "",
+          "text_arabic": "16",
         "is_correct": true
       },
       {
         "letter": "B",
         "text_german": "15",
         "text_english": "",
+          "text_arabic": "15",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "14",
         "text_english": "",
+          "text_arabic": "14",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "17",
         "text_english": "",
+          "text_arabic": "17",
         "is_correct": false
       }
     ],
@@ -102,29 +117,34 @@
     "question_number": 102,
     "question_german": "Was ist kein Bundesland der Bundesrepublik Deutschland?",
     "question_english": "What is not a state of the Federal Republic of Germany?",
+      "question_arabic": "ما هي الولاية التي ليست جزءًا من جمهورية ألمانيا الاتحادية؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "Sachsen-Anhalt",
         "text_english": "",
+          "text_arabic": "ساكسونيا أنهالت",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "Mecklenburg-Vorpommern",
         "text_english": "",
+          "text_arabic": "مكلنبورغ-فوربومرن",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "Nordrhein-Westfalen",
         "text_english": "",
+          "text_arabic": "شمال الراين-وستفاليا",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "Elsass-Lothringen",
         "text_english": "",
+          "text_arabic": "الألزاس-لورين",
         "is_correct": true
       }
     ],
@@ -135,29 +155,34 @@
     "question_number": 103,
     "question_german": "Deutschland ist …",
     "question_english": "Germany is ...",
+      "question_arabic": "ألمانيا هي ...",
     "answers": [
       {
         "letter": "A",
         "text_german": "ein sozialer und sozialistischer Bundesstaat.",
         "text_english": "a social and socialist federal state",
+          "text_arabic": "دولة اتحادية اجتماعية واشتراكية.",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "eine kommunistische Republik.",
         "text_english": "a communist republic.",
+          "text_arabic": "جمهورية شيوعية.",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "ein demokratischer und sozialer Bundesstaat.",
         "text_english": "a democratic and social federal state",
+          "text_arabic": "دولة اتحادية ديمقراطية واجتماعية.",
         "is_correct": true
       },
       {
         "letter": "D",
         "text_german": "eine kapitalistische und soziale Monarchie.",
         "text_english": "a capitalist and social monarchy",
+          "text_arabic": "ملكية رأسمالية واجتماعية.",
         "is_correct": false
       }
     ],
@@ -168,29 +193,34 @@
     "question_number": 104,
     "question_german": "Deutschland ist …",
     "question_english": "Germany is ...",
+      "question_arabic": "ألمانيا هي ...",
     "answers": [
       {
         "letter": "A",
         "text_german": "ein sozialistischer Staat.",
         "text_english": "a socialist state",
+          "text_arabic": "دولة اشتراكية.",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "eine Diktatur.",
         "text_english": "a dictatorship",
+          "text_arabic": "ديكتاتورية.",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "ein Bundesstaat.",
         "text_english": "a federal state",
+          "text_arabic": "دولة اتحادية.",
         "is_correct": true
       },
       {
         "letter": "D",
         "text_german": "eine Monarchie.",
         "text_english": "a monarchy",
+          "text_arabic": "ملكية.",
         "is_correct": false
       }
     ],
@@ -201,29 +231,34 @@
     "question_number": 105,
     "question_german": "Welches Tier ist das Wappentier der Bundesrepublik Deutschland?",
     "question_english": "Which animal is the heraldic animal of the Federal Republic of Germany?",
+      "question_arabic": "ما هو الحيوان الرمزي لجمهورية ألمانيا الاتحادية؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "Bär",
         "text_english": "Bear",
+          "text_arabic": "دب",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "Adler",
         "text_english": "Eagle",
+          "text_arabic": "نسر",
         "is_correct": true
       },
       {
         "letter": "C",
         "text_german": "Löwe",
         "text_english": "Lion",
+          "text_arabic": "أسد",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "Pferd",
         "text_english": "Horse",
+          "text_arabic": "حصان",
         "is_correct": false
       }
     ],
@@ -234,29 +269,34 @@
     "question_number": 106,
     "question_german": "Was ist kein Merkmal unserer Demokratie?",
     "question_english": "Which is not a characteristic of our democracy?",
+      "question_arabic": "ما الذي ليس من سمات ديمقراطيتنا؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "Pressezensur",
         "text_english": "Press censorship",
+          "text_arabic": "رقابة الصحافة",
         "is_correct": true
       },
       {
         "letter": "B",
         "text_german": "regelmäßige Wahlen",
         "text_english": "Regular elections",
+          "text_arabic": "انتخابات منتظمة",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "verschiedene Parteien",
         "text_english": "different parties",
+          "text_arabic": "أحزاب مختلفة",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "Meinungsfreiheit",
         "text_english": "freedom of expression",
+          "text_arabic": "حرية التعبير عن الرأي",
         "is_correct": false
       }
     ],
@@ -267,29 +307,34 @@
     "question_number": 107,
     "question_german": "Welche Aussage ist richtig? In Deutschland …",
     "question_english": "which statement is correct? In Germany …",
+      "question_arabic": "أي عبارة صحيحة؟ في ألمانيا ...",
     "answers": [
       {
         "letter": "A",
         "text_german": "bilden die Religionsgemeinschaften den Staat.",
         "text_english": "the religious communities form the state",
+          "text_arabic": "تشكل الجماعات الدينية الدولة.",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "sind Staat und Religionsgemeinschaften voneinander getrennt",
         "text_english": "the state and religious communities are separate from each other",
+          "text_arabic": "الدولة والجماعات الدينية منفصلتان عن بعضهما البعض",
         "is_correct": true
       },
       {
         "letter": "C",
         "text_german": "bilden Staat und Religionsgemeinschaften eine Einheit.",
         "text_english": "the state and religious communities form a single entity",
+          "text_arabic": "تشكل الدولة والجماعات الدينية كيانًا واحدًا.",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "ist der Staat abhängig von den Religionsgemeinschaften.",
         "text_english": "the state is dependent on the religious communities",
+          "text_arabic": "الدولة تعتمد على الجماعات الدينية.",
         "is_correct": false
       }
     ],
@@ -300,29 +345,34 @@
     "question_number": 108,
     "question_german": "Welches Amt gehört in Deutschland zur Gemeindeverwaltung?",
     "question_english": "Which office is part of the municipal administration in Germany?",
+      "question_arabic": "أي مكتب ينتمي إلى إدارة البلدية في ألمانيا؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "Finanzamt",
         "text_english": "Tax office",
+          "text_arabic": "مكتب الضرائب",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "Ordnungsamt",
         "text_english": "Public order office",
+          "text_arabic": "مكتب النظام العام",
         "is_correct": true
       },
       {
         "letter": "C",
         "text_german": "Pfarramt",
         "text_english": "Parish Office",
+          "text_arabic": "مكتب الرعية",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "Auswärtiges Amt",
         "text_english": "Foreign Office",
+          "text_arabic": "مكتب الشؤون الخارجية",
         "is_correct": false
       }
     ],
@@ -333,29 +383,34 @@
     "question_number": 109,
     "question_german": "In Deutschland ist eine Bürgermeisterin/ein Bürgermeister …",
     "question_english": "In Germany, a mayor is …",
+      "question_arabic": "في ألمانيا، العمدة هو ...",
     "answers": [
       {
         "letter": "A",
         "text_german": "das Oberhaupt einer Gemeinde",
         "text_english": "the head of a community",
+          "text_arabic": "رئيس بلدية",
         "is_correct": true
       },
       {
         "letter": "B",
         "text_german": "der Leiter/die Leiterin einer Schule",
         "text_english": "the head/headmistress of a school",
+          "text_arabic": "مدير/ة مدرسة",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "der Chef/die Chefin einer Bank",
         "text_english": "the head / the head of a bank",
+          "text_arabic": "مدير/ة بنك",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "der/die Vorsitzende einer Partei",
         "text_english": "the leader of a party",
+          "text_arabic": "رئيس/ة حزب",
         "is_correct": false
       }
     ],
@@ -366,29 +421,34 @@
     "question_number": 110,
     "question_german": "Man will die Buslinie abschaffen, mit der Sie immer zur Arbeit fahren. Was können Sie machen, um die Buslinie zu erhalten?",
     "question_english": "They want to get rid of the bus line you always take to work. What can you do to get the bus route?",
+      "question_arabic": "يريدون إلغاء خط الحافلة الذي تستخدمه دائمًا للذهاب إلى العمل. ماذا يمكنك أن تفعل للحفاظ على خط الحافلة؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "Ich werde Mitglied in einem Sportverein und trainiere Rad fahren.",
         "text_english": "I become a member of a sports club and practice cycling",
+          "text_arabic": "أنضم إلى نادٍ رياضي وأتدرب على ركوب الدراجات.",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "Ich beteilige mich an einer Bürgerinitiative für die Erhaltung der Buslinie oder gründe selber eine Initiative.",
         "text_english": "I participate in a citizens' initiative for the preservation of the bus line or start an initiative myself.",
+          "text_arabic": "أشارك في مبادرة مواطنين للحفاظ على خط الحافلة أو أؤسس مبادرة بنفسي.",
         "is_correct": true
       },
       {
         "letter": "C",
         "text_german": "Ich schreibe einen Brief an das Forstamt der Gemeinde.",
         "text_english": "I write a letter to the community forestry office.",
+          "text_arabic": "أكتب رسالة إلى مكتب الغابات في البلدية.",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "Ich wende mich an das Finanzamt, weil ich als Steuerzahler / Steuerzahlerin ein Recht auf die Buslinie habe.",
         "text_english": "I contact the tax office because, as a taxpayer, I have a right to the bus line.",
+          "text_arabic": "أتواصل مع مكتب الضرائب لأن لي كدافع ضرائب حق في خط الحافلة.",
         "is_correct": false
       }
     ],
@@ -399,29 +459,34 @@
     "question_number": 111,
     "question_german": "Maik und Sybille wollen mit Freunden an ihrem deutschen Wohnort eine Demonstration auf der Straße abhalten. Was müssen sie vorher tun?",
     "question_english": "Maik and Sybille want to hold a demonstration on the street with friends in their German place of residence. What do you have to do beforehand?",
+      "question_arabic": "مايك وسيبيل يريدان تنظيم مظاهرة في الشارع مع أصدقائهما في مكان إقامتهما في ألمانيا. ماذا يجب عليهما فعله مسبقًا؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "Sie müssen die Demonstration anmelden.",
         "text_english": "You must register the demonstration.",
+          "text_arabic": "يجب عليهما تسجيل المظاهرة.",
         "is_correct": true
       },
       {
         "letter": "B",
         "text_german": "Maik und Sybille müssen einen neuen Verein gründen, weil nur Vereine demonstrieren dürfen",
         "text_english": "Maik and Sybille have to found a new association, because only associations are allowed to demonstrate",
+          "text_arabic": "يجب على مايك وسيبيل تأسيس جمعية جديدة لأن الجمعيات فقط مسموح لها بالتظاهر.",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "Sie können gar nichts tun, denn Demonstrationen sind in Deutschland grundsätzlich verboten",
         "text_english": "They can't do anything, because demonstrations are basically forbidden in Germany",
+          "text_arabic": "لا يمكنهما فعل أي شيء لأن المظاهرات ممنوعة أساسًا في ألمانيا.",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "Sie müssen nichts tun. Man darf in Deutschland jederzeit überall demonstrieren.",
         "text_english": "They don't have to do anything. You are allowed to demonstrate anywhere in Germany at any time.",
+          "text_arabic": "لا يجب عليهما فعل أي شيء. يمكن التظاهر في أي وقت وأي مكان في ألمانيا.",
         "is_correct": false
       }
     ],
@@ -432,29 +497,34 @@
     "question_number": 112,
     "question_german": "Wo müssen Sie sich anmelden, wenn Sie in Deutschland umziehen?",
     "question_english": "Where do you have to register if you move to Germany?",
+      "question_arabic": "أين يجب عليك التسجيل إذا انتقلت إلى ألمانيا؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "beim Gewerbeamt",
         "text_english": "at the trade office",
+          "text_arabic": "في مكتب التجارة",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "beim Einwohnermeldeamt",
         "text_english": "at the residents' registration office",
+          "text_arabic": "في مكتب تسجيل السكان",
         "is_correct": true
       },
       {
         "letter": "C",
         "text_german": "beim Standesamt",
         "text_english": "at the registry office",
+          "text_arabic": "في مكتب السجل المدني",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "beim Ordnungsamt",
         "text_english": "at the public order office",
+          "text_arabic": "في مكتب النظام العام",
         "is_correct": false
       }
     ],
@@ -465,29 +535,34 @@
     "question_number": 113,
     "question_german": "Wohin muss man in Deutschland zuerst gehen, wenn man heiraten möchte?",
     "question_english": "Where do you have to go first in Germany if you want to get married?",
+      "question_arabic": "إلى أين يجب أن تذهب أولاً في ألمانيا إذا أردت الزواج؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "zum Ordnungsamt",
         "text_english": "to the public order office",
+          "text_arabic": "إلى مكتب النظام العام",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "zum Einwohnermeldeamt",
         "text_english": "to the residents' registration office",
+          "text_arabic": "إلى مكتب تسجيل السكان",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "zum Standesamt",
         "text_english": "to the registry office",
+          "text_arabic": "إلى مكتب السجل المدني",
         "is_correct": true
       },
       {
         "letter": "D",
         "text_german": "zur Agentur für Arbeit",
         "text_english": "to the employment agency",
+          "text_arabic": "إلى وكالة العمل",
         "is_correct": false
       }
     ],
@@ -498,29 +573,34 @@
     "question_number": 114,
     "question_german": "Wann beginnt die gesetzliche Nachtruhe in Deutschland?",
     "question_english": "When does the statutory night rest start in Germany?",
+      "question_arabic": "متى تبدأ فترة الراحة الليلية القانونية في ألمانيا؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "um 22 Uhr",
         "text_english": "at 10 pm",
+          "text_arabic": "في الساعة 10 مساءً",
         "is_correct": true
       },
       {
         "letter": "B",
         "text_german": "wenn die Sonne untergeht",
         "text_english": "when the sun sets",
+          "text_arabic": "عندما تغرب الشمس",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "um 0 Uhr, Mitternacht",
         "text_english": "at 0 o'clock, midnight",
+          "text_arabic": "عند منتصف الليل",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "wenn die Nachbarn schlafen gehen",
         "text_english": "when the neighbors go to sleep",
+          "text_arabic": "عندما يذهب الجيران للنوم",
         "is_correct": false
       }
     ],
@@ -531,29 +611,34 @@
     "question_number": 115,
     "question_german": "Was sollten Sie tun, wenn Sie von Ihrer Ansprechpartnerin / Ihrem Ansprechpartner in einer deutschen Behörde schlecht behandelt werden?",
     "question_english": "What should you do if you are treated badly by your contact person in a German authority?",
+      "question_arabic": "ماذا يجب أن تفعل إذا تم معاملتك بشكل سيء من قبل موظف في سلطة ألمانية؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "Ich drohe der Person.",
         "text_english": "I threaten the person",
+          "text_arabic": "أهدد الشخص.",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "Ich kann nichts tun.",
         "text_english": "I can do nothing",
+          "text_arabic": "لا أستطيع فعل شيء.",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "Ich muss mir diese Behandlung gefallen lassen.",
         "text_english": "I have to put up with this treatment",
+          "text_arabic": "يجب أن أتحمل هذه المعاملة.",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "Ich kann mich beim Behördenleiter/bei der Behördenleiterin beschweren.",
         "text_english": "I can complain to the head of the public authority",
+          "text_arabic": "يمكنني الشكوى إلى مدير/ة الهيئة.",
         "is_correct": true
       }
     ],
@@ -564,29 +649,34 @@
     "question_number": 116,
     "question_german": "In den meisten Mietshäusern in Deutschland gibt es eine \"Hausordnung\". Was steht in einer solchen \"Hausordnung\"? Sie nennt",
     "question_english": "In most apartment buildings in Germany there are “house rules”. What does such a “house rule” say? she calls",
+      "question_arabic": "في معظم المباني السكنية في ألمانيا توجد \"قواعد منزلية\". ماذا تنص عليه هذه القواعد؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "die Adresse des nächsten Ordnungsamtes.",
         "text_english": "the address of the nearest public order office",
+          "text_arabic": "عنوان أقرب مكتب نظام عام.",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "Regeln für die Benutzung öffentlicher.",
         "text_english": "Rules for the use of public",
+          "text_arabic": "قواعد لاستخدام الأماكن العامة.",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "alle Mieter und Mieterinnen im Haus.",
         "text_english": "all tenants and leaseholders in the building.",
+          "text_arabic": "جميع المستأجرين والمستأجرات في المبنى.",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "Regeln, an die sich alle Bewohner und Bewohnerinnen halten müssen.",
         "text_english": "Rules that all tenants and residents must follow",
+          "text_arabic": "قواعد يجب على جميع السكان الالتزام بها.",
         "is_correct": true
       }
     ],
@@ -597,29 +687,34 @@
     "question_number": 117,
     "question_german": "Wenn Sie sich in Deutschland gegen einen falschen Steuerbescheid wehren wollen, müssen Sie …",
     "question_english": "If you want to defend yourself against a false tax assessment in Germany, you must ...",
+      "question_arabic": "إذا أردت الاعتراض على إشعار ضريبي خاطئ في ألمانيا، يجب عليك ...",
     "answers": [
       {
         "letter": "A",
         "text_german": "Einspruch einlegen.",
         "text_english": "Appeal",
+          "text_arabic": "تقديم اعتراض.",
         "is_correct": true
       },
       {
         "letter": "B",
         "text_german": "den Bescheid wegwerfen.",
         "text_english": "Throw away the notice.",
+          "text_arabic": "رمي الإشعار.",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "warten, bis ein anderer Bescheid kommt.",
         "text_english": "Wait until another notice comes.",
+          "text_arabic": "انتظار إشعار آخر.",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "nichts machen.",
         "text_english": "do nothing",
+          "text_arabic": "عدم القيام بأي شيء.",
         "is_correct": false
       }
     ],
@@ -630,29 +725,34 @@
     "question_number": 118,
     "question_german": "Was tun Sie, wenn Sie eine falsche Rechnung von einer deutschen Behörde bekommen?",
     "question_english": "What do you do if you receive an incorrect invoice from a German authority?",
+      "question_arabic": "ماذا تفعل إذا استلمت فاتورة خاطئة من جهة حكومية ألمانية؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "Ich schicke die Rechnung an die Behörde zurück.",
         "text_english": "I send the invoice back to the authority",
+          "text_arabic": "أعيد الفاتورة إلى الجهة الحكومية.",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "Ich lasse die Rechnung liegen.",
         "text_english": "I leave the invoice",
+          "text_arabic": "أترك الفاتورة.",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "Ich lege Widerspruch bei der Behörde ein.",
         "text_english": "I file an objection with the authority",
+          "text_arabic": "أقدم اعتراضًا لدى الجهة الحكومية.",
         "is_correct": true
       },
       {
         "letter": "D",
         "text_german": "Ich gehe mit der Rechnung zum Finanzamt.",
         "text_english": "I take the invoice to the tax office",
+          "text_arabic": "أذهب بالفاتورة إلى مكتب الضرائب.",
         "is_correct": false
       }
     ],
@@ -663,29 +763,34 @@
     "question_number": 119,
     "question_german": "Welche Städte haben die größten jüdischen Gemeinden in Deutschland?",
     "question_english": "Which cities have the largest Jewish communities in Germany?",
+      "question_arabic": "أي المدن لديها أكبر تجمعات يهودية في ألمانيا؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "Nürnberg und Stuttgart",
         "text_english": "Nuremberg and Stuttgart",
+          "text_arabic": "نورنبرغ وشتوتغارت",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "Berlin und München",
         "text_english": "Berlin and Munich",
+          "text_arabic": "برلين وميونخ",
         "is_correct": true
       },
       {
         "letter": "C",
         "text_german": "Hamburg und Essen",
         "text_english": "Hamburg and Essen",
+          "text_arabic": "هامبورغ وإيسن",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "Worms und Speyer",
         "text_english": "Worms and Speyer",
+          "text_arabic": "فورمز وسباير",
         "is_correct": false
       }
     ],
@@ -696,29 +801,34 @@
     "question_number": 120,
     "question_german": "Sie haben in Deutschland einen Fernseher gekauft. Zu Hause packen Sie den Fernseher aus, doch er funktioniert nicht. Der Fernseher ist kaputt. Was können Sie machen?",
     "question_english": "You have bought a TV in Germany. At home, you unpack the TV, but it does not work. The TV is broken. What can you do?",
+      "question_arabic": "اشتريت تلفازًا في ألمانيا. في المنزل، فتحت العلبة لكنه لا يعمل. التلفاز معطل. ماذا يمكنك أن تفعل؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "den Fernseher reklamieren",
         "text_english": "complain the TV",
+          "text_arabic": "تقديم شكوى بشأن التلفاز",
         "is_correct": true
       },
       {
         "letter": "B",
         "text_german": "eine Anzeige schreiben",
         "text_english": "write an advertisement",
+          "text_arabic": "كتابة إعلان",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "die Garantie verlängern",
         "text_english": "extend the warranty",
+          "text_arabic": "تمديد الضمان",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "das Gerät ungefragt austauschen",
         "text_english": "replace the device without being asked",
+          "text_arabic": "استبدال الجهاز دون إذن",
         "is_correct": false
       }
     ],
@@ -729,29 +839,34 @@
     "question_number": 121,
     "question_german": "Was ist Deutschland nicht?",
     "question_english": "What is Germany not?",
+      "question_arabic": "ما الذي ليست عليه ألمانيا؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "eine Monarchie",
         "text_english": "a monarchy",
+          "text_arabic": "ملكية",
         "is_correct": true
       },
       {
         "letter": "B",
         "text_german": "ein Sozialstaat",
         "text_english": "a welfare state",
+          "text_arabic": "دولة رفاهية",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "eine Demokratie",
         "text_english": "a democracy",
+          "text_arabic": "ديمقراطية",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "ein Rechtsstaat",
         "text_english": "a constitutional state",
+          "text_arabic": "دولة قانون",
         "is_correct": false
       }
     ],
@@ -762,29 +877,34 @@
     "question_number": 122,
     "question_german": "Womit finanziert der deutsche Staat die Sozialversicherung?",
     "question_english": "How does the German state finance social security?",
+      "question_arabic": "بماذا يمول الدولة الألمانية التأمين الاجتماعي؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "Spendengeldern",
         "text_english": "Donations",
+          "text_arabic": "تبرعات",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "Sozialabgaben",
         "text_english": "Social contributions",
+          "text_arabic": "مساهمات اجتماعية",
         "is_correct": true
       },
       {
         "letter": "C",
         "text_german": "Kirchensteuern",
         "text_english": "Church taxes",
+          "text_arabic": "ضرائب الكنيسة",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "Vereinsbeiträgen",
         "text_english": "Association dues",
+          "text_arabic": "رسوم الجمعيات",
         "is_correct": false
       }
     ],
@@ -795,29 +915,34 @@
     "question_number": 123,
     "question_german": "Welche Maßnahme schafft in Deutschland soziale Sicherheit?",
     "question_english": "Which measure creates social security in Germany?",
+      "question_arabic": "أي إجراء يحقق الأمان الاجتماعي في ألمانيا؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "die Krankenversicherung",
         "text_english": "the health insurance",
+          "text_arabic": "التأمين الصحي",
         "is_correct": true
       },
       {
         "letter": "B",
         "text_german": "die Haftpflichtversicherung",
         "text_english": "the liability insurance",
+          "text_arabic": "تأمين المسؤولية المدنية",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "die Gebäudeversicherung",
         "text_english": "the building insurance",
+          "text_arabic": "تأمين المباني",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "die Autoversicherung",
         "text_english": "the car insurance",
+          "text_arabic": "تأمين السيارات",
         "is_correct": false
       }
     ],
@@ -828,29 +953,34 @@
     "question_number": 124,
     "question_german": "Die Bundesrepublik Deutschland ist ein demokratischer und sozialer ...",
     "question_english": "The Federal Republic of Germany is a democratic and social",
+      "question_arabic": "جمهورية ألمانيا الاتحادية هي ... ديمقراطية واجتماعية",
     "answers": [
       {
         "letter": "A",
         "text_german": "Zentralstaat.",
         "text_english": "Central state.",
+          "text_arabic": "دولة مركزية.",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "Staatenverbund.",
         "text_english": "Union of States.",
+          "text_arabic": "اتحاد دول.",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "Bundesstaat.",
         "text_english": "Federal state.",
+          "text_arabic": "دولة اتحادية.",
         "is_correct": true
       },
       {
         "letter": "D",
         "text_german": "Staatenbund.",
         "text_english": "Confederation of states.",
+          "text_arabic": "كونفدرالية دول.",
         "is_correct": false
       }
     ],
@@ -861,29 +991,34 @@
     "question_number": 125,
     "question_german": "Mit welchen Worten beginnt die deutsche Nationalhymne?",
     "question_english": "With which words does the German national anthem begin?",
+      "question_arabic": "بأي كلمات تبدأ النشيد الوطني الألماني؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "Freude schöner Götterfunken...",
         "text_english": "Joy to the gods...",
+          "text_arabic": "فرحة شرارة الآلهة...",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "Deutschland einig Vaterland...",
         "text_english": "Germany united fatherland...",
+          "text_arabic": "ألمانيا وطن موحد...",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "Völker, hört die Signale...",
         "text_english": "People hear the signals...",
+          "text_arabic": "يا شعوب، اسمعوا الإشارات...",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "Einigkeit und Recht und Freiheit...",
         "text_english": "Unity and justice and freedom...",
+          "text_arabic": "وحدة وعدل وحرية...",
         "is_correct": true
       }
     ],
@@ -894,29 +1029,34 @@
     "question_number": 126,
     "question_german": "Zu welcher Versicherung gehört die Pflegeversicherung?",
     "question_english": "Which insurance does long-term care insurance belong to?",
+      "question_arabic": "إلى أي نوع من التأمينات تنتمي تأمين الرعاية الطويلة الأجل؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "Hausratversicherung",
         "text_english": "Home insurance",
+          "text_arabic": "تأمين المنزل",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "Haftpflicht- und Feuerversicherung",
         "text_english": "Liability and fire insurance",
+          "text_arabic": "تأمين المسؤولية والحريق",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "Sozialversicherung",
         "text_english": "Social insurance",
+          "text_arabic": "تأمين اجتماعي",
         "is_correct": true
       },
       {
         "letter": "D",
         "text_german": "Unfallversicherung",
         "text_english": "Accident insurance",
+          "text_arabic": "تأمين الحوادث",
         "is_correct": false
       }
     ],
@@ -927,29 +1067,34 @@
     "question_number": 127,
     "question_german": "Der deutsche Staat hat viele Aufgaben. Welche Aufgabe gehört dazu?",
     "question_english": "The German state has many tasks. Which task is one of them?",
+      "question_arabic": "للدولة الألمانية العديد من المهام. أي مهمة من بينها؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "Er versorgt alle Einwohner und Einwohnerinnen kostenlos mit Zeitungen.",
         "text_english": "It provides newspapers free of charge to all residents.",
+          "text_arabic": "يوفر الصحف مجانًا لجميع السكان.",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "Er produziert Autos und Busse.",
         "text_english": "It produces cars and buses.",
+          "text_arabic": "ينتج السيارات والحافلات.",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "Er baut Straßen und Schulen.",
         "text_english": "He builds roads and schools.",
+          "text_arabic": "يبني الطرق والمدارس.",
         "is_correct": true
       },
       {
         "letter": "D",
         "text_german": "Er verkauft Lebensmittel und Kleidung.",
         "text_english": "He sells food and clothing.",
+          "text_arabic": "يبيع المواد الغذائية والملابس.",
         "is_correct": false
       }
     ],
@@ -960,29 +1105,34 @@
     "question_number": 128,
     "question_german": "Der deutsche Staat hat viele Aufgaben. Welche Aufgabe gehört nicht dazu?",
     "question_english": "The German state has many tasks. Which task is not one of them?",
+      "question_arabic": "للدولة الألمانية العديد من المهام. أي مهمة ليست من بينها؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "Er fördert Sportler und Sportlerinnen.",
         "text_english": "It promotes sportsmen and sportswomen.",
+          "text_arabic": "يدعم الرياضيين والرياضيات.",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "Er unterstützt Museen.",
         "text_english": "It supports museums.",
+          "text_arabic": "يدعم المتاحف.",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "Er zahlt Kindergeld.",
         "text_english": "He pays child benefits.",
+          "text_arabic": "يدفع إعانات الأطفال.",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "Er bezahlt für alle Staatsangehörigen Urlaubsreisen.",
         "text_english": "It pays for vacations for all nationals.",
+          "text_arabic": "يدفع تكاليف الإجازات لجميع المواطنين.",
         "is_correct": true
       }
     ],
@@ -993,29 +1143,34 @@
     "question_number": 129,
     "question_german": "Zu einem demokratischen Rechtsstaat gehört es nicht, dass …",
     "question_english": "It is not part of a democratic constitutional state that...",
+      "question_arabic": "ليس من سمات الدولة الدستورية الديمقراطية أن ...",
     "answers": [
       {
         "letter": "A",
         "text_german": "Bürger friedlich demonstrieren gehen dürfen.",
         "text_english": "Citizens are allowed to go demonstrate peacefully.",
+          "text_arabic": "يُسمح للمواطنين بالتظاهر السلمي.",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "Menschen sich kritisch über die Regierung äußern können.",
         "text_english": "People can express themselves critically about the government.",
+          "text_arabic": "يمكن للناس التعبير عن آرائهم النقدية تجاه الحكومة.",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "jemand ein Verbrechen begeht und deshalb verhaftet wird.",
         "text_english": "someone commits a crime and is arrested because of it.",
+          "text_arabic": "يرتكب شخص جريمة ويتم اعتقاله بسببها.",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "Menschen von einer Privatpolizei ohne Grund verhaftet werden.",
         "text_english": "people are arrested by a private police force for no reason.",
+          "text_arabic": "يتم اعتقال الناس من قبل شرطة خاصة دون سبب.",
         "is_correct": true
       }
     ],
@@ -1026,29 +1181,34 @@
     "question_number": 130,
     "question_german": "Was bedeutet \"Volkssouveränität\"? Alle Staatsgewalt geht vom …",
     "question_english": "What means “sovereignty of the people”? All state power emanates from...",
+      "question_arabic": "ماذا تعني \"سيادة الشعب\"؟ كل سلطة الدولة تنبع من ...",
     "answers": [
       {
         "letter": "A",
         "text_german": "preußischen König aus.",
         "text_english": "Prussian king from.",
+          "text_arabic": "الملك البروسي.",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "Bundesverfassungsgericht aus.",
         "text_english": "Federal Constitutional Court from.",
+          "text_arabic": "المحكمة الدستورية الفيدرالية.",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "Volke aus.",
         "text_english": "People off.",
+          "text_arabic": "الشعب.",
         "is_correct": true
       },
       {
         "letter": "D",
         "text_german": "Bundestag aus.",
         "text_english": "Bundestag off.",
+          "text_arabic": "البوندستاغ.",
         "is_correct": false
       }
     ],
@@ -1059,29 +1219,34 @@
     "question_number": 131,
     "question_german": "Was bedeutet \"Rechtsstaat\" in Deutschland?",
     "question_english": "What does “rule of law” mean in Germany?",
+      "question_arabic": "ماذا يعني \"دولة القانون\" في ألمانيا؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "Die Bürger und Bürgerinnen entscheiden über Gesetze.",
         "text_english": "Citizens decide on laws.",
+          "text_arabic": "يقرر المواطنون القوانين.",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "Der Staat muss die Gesetze einhalten.",
         "text_english": "The state must comply with the laws.",
+          "text_arabic": "يجب على الدولة الالتزام بالقوانين.",
         "is_correct": true
       },
       {
         "letter": "C",
         "text_german": "Der Staat hat Recht.",
         "text_english": "The state has the law.",
+          "text_arabic": "الدولة على حق.",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "Es gibt nur rechte Parteien.",
         "text_english": "There are only right-wing parties.",
+          "text_arabic": "هناك فقط أحزاب يمينية.",
         "is_correct": false
       }
     ],
@@ -1092,29 +1257,34 @@
     "question_number": 132,
     "question_german": "Was bedeutet \"Volkssouveränität\"?",
     "question_english": "What is meant by “sovereignty of the people”?",
+      "question_arabic": "ماذا تعني \"سيادة الشعب\"؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "Das Bundesverfassungsgericht steht über der Verfassung.",
         "text_english": "The Federal Constitutional Court is above the Constitution.",
+          "text_arabic": "المحكمة الدستورية الفيدرالية فوق الدستور.",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "Die Interessenverbände üben die Souveränität zusammen mit der Regierung aus.",
         "text_english": "Interest groups exercise sovereignty along with the government.",
+          "text_arabic": "تمارس جماعات المصالح السيادة مع الحكومة.",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "Die Staatsgewalt geht vom Volke aus.",
         "text_english": "State power emanates from the people.",
+          "text_arabic": "السلطة تنبع من الشعب.",
         "is_correct": true
       },
       {
         "letter": "D",
         "text_german": "Der König/die Königin herrscht über das Volk.",
         "text_english": "The king/queen rules over the people.",
+          "text_arabic": "الملك/الملكة يحكم الشعب.",
         "is_correct": false
       }
     ],
@@ -1125,29 +1295,34 @@
     "question_number": 133,
     "question_german": "Welche Handlungen mit Bezug auf den Staat Israel sind in Deutschland verboten?",
     "question_english": "Which actions related to the State of Israel are prohibited in Germany?",
+      "question_arabic": "ما هي الأفعال المتعلقة بدولة إسرائيل المحظورة في ألمانيا؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "die Politik Israels öffentlich kritisieren",
         "text_english": "Publicly criticizing Israel's policies.",
+          "text_arabic": "انتقاد سياسات إسرائيل علنًا.",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "das Aufhängen einer israelischen Flagge auf dem Privatgrundstück",
         "text_english": "Hanging an Israeli flag on private property.",
+          "text_arabic": "رفع علم إسرائيل على ممتلكات خاصة.",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "der öffentliche Aufruf zur Vernichtung Israels",
         "text_english": "Publicly calling for the destruction of Israel.",
+          "text_arabic": "الدعوة العلنية لتدمير إسرائيل.",
         "is_correct": true
       },
       {
         "letter": "D",
         "text_german": "eine Diskussion über die Politik Israels",
         "text_english": "Discussing Israel's policies.",
+          "text_arabic": "مناقشة سياسات إسرائيل.",
         "is_correct": false
       }
     ],

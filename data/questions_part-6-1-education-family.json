@@ -3,29 +3,34 @@
     "question_number": 247,
     "question_german": "Was gilt für die meisten Kinder in Deutschland?",
     "question_english": "What applies to most children in Germany?",
+    "question_arabic": "ما الذي ينطبق على معظم الأطفال في ألمانيا؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "Schulpflicht",
         "text_english": "Compulsory education",
+        "text_arabic": "التعليم الإلزامي",
         "is_correct": true
       },
       {
         "letter": "B",
         "text_german": "Religionspflicht",
         "text_english": "Religious duty",
+        "text_arabic": "الواجب الديني",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "Schweigepflicht",
         "text_english": "Duty of confidentiality",
+        "text_arabic": "واجب السرية",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "Wahlpflicht",
         "text_english": "Compulsory Elective",
+        "text_arabic": "الانتخاب الإجباري",
         "is_correct": false
       }
     ],
@@ -36,29 +41,34 @@
     "question_number": 248,
     "question_german": "Wer darf bei den rund 40 jüdischen Makkabi-Sportvereinen Mitglied werden?",
     "question_english": "Who can become a member of the approximately 40 Jewish Maccabi sports clubs?",
+    "question_arabic": "من يمكنه أن يصبح عضوًا في حوالي 40 نادي مكابي الرياضي اليهودي؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "nur Deutsche",
         "text_english": "only Germans",
+        "text_arabic": "فقط الألمان",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "nur Israelis",
         "text_english": "only Israelis",
+        "text_arabic": "فقط الإسرائيليون",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "alle Menschen",
         "text_english": "all people",
+        "text_arabic": "جميع الناس",
         "is_correct": true
       },
       {
         "letter": "D",
         "text_german": "nur religiöse Menschen",
         "text_english": "only religious people",
+        "text_arabic": "فقط الأشخاص المتدينون",
         "is_correct": false
       }
     ],
@@ -69,29 +79,34 @@
     "question_number": 249,
     "question_german": "Frau Seger bekommt ein Kind. Was muss sie tun, um Elterngeld zu erhalten?",
     "question_english": "Mrs. Seger gives birth to a child. What does she have to do to receive parental allowance?",
+    "question_arabic": "السيدة سيغر أنجبت طفلاً. ماذا يجب أن تفعل للحصول على بدل الوالدين؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "Sie muss das Arbeitsamt um Erlaubnis bitten",
         "text_english": "She must ask permission from the employment office",
+        "text_arabic": "يجب أن تطلب إذنًا من مكتب العمل",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "Sie muss an ihre Krankenkasse schreiben",
         "text_english": "She must write to her health insurance company",
+        "text_arabic": "يجب أن تكتب إلى شركة التأمين الصحي الخاصة بها",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "Sie muss nichts tun, denn sie bekommt automatisch Elterngeld",
         "text_english": "She does not have to do anything, because she automatically gets parental benefit",
+        "text_arabic": "لا يجب أن تفعل شيئًا، لأنها تحصل تلقائيًا على بدل الوالدين",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "Sie muss einen Antrag bei der Elterngeldstelle stellen",
         "text_english": "She must submit an application to the parental allowance office",
+        "text_arabic": "يجب أن تقدم طلبًا إلى مكتب بدل الوالدين",
         "is_correct": true
       }
     ],
@@ -102,29 +117,34 @@
     "question_number": 250,
     "question_german": "Wer entscheidet, ob ein Kind in Deutschland in den Kindergarten geht?",
     "question_english": "Who decides whether a child goes to kindergarten in Germany?",
+    "question_arabic": "من يقرر ما إذا كان الطفل يذهب إلى روضة الأطفال في ألمانيا؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "die Bundesländer",
         "text_english": "The federal states",
+        "text_arabic": "الولايات الفيدرالية",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "die Schulen",
         "text_english": "The schools",
+        "text_arabic": "المدارس",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "der Staat",
         "text_english": "The State",
+        "text_arabic": "الدولة",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "die Eltern/die Erziehungsberechtigten",
         "text_english": "The parents/guardians",
+        "text_arabic": "الآباء/الأوصياء",
         "is_correct": true
       }
     ],
@@ -135,29 +155,34 @@
     "question_number": 251,
     "question_german": "Welchen Schulabschluss braucht man normalerweise, um an einer Universität in Deutschland ein Studium zu beginnen?",
     "question_english": "What school-leaving qualifications do you normally need to start studying at a university in Germany?",
+    "question_arabic": "ما هي الشهادة المدرسية التي تحتاجها عادةً لبدء الدراسة في جامعة في ألمانيا؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "das Abitur",
         "text_english": "The Abitur",
+        "text_arabic": "شهادة الثانوية العامة (الأبيتور)",
         "is_correct": true
       },
       {
         "letter": "B",
         "text_german": "die Prokura",
         "text_english": "The procuration",
+        "text_arabic": "التوكيل",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "eine Gesellenprüfung",
         "text_english": "A journeyman's examination",
+        "text_arabic": "امتحان الحرفي",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "ein Diplom",
         "text_english": "A diploma",
+        "text_arabic": "دبلوم",
         "is_correct": false
       }
     ],
@@ -168,29 +193,34 @@
     "question_number": 252,
     "question_german": "Wer darf in Deutschland nicht als Paar zusammenleben?",
     "question_english": "Who is not allowed to live together as a couple in Germany?",
+    "question_arabic": "من غير المسموح له العيش كزوجين في ألمانيا؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "Hans (20 Jahre) und Marie (19 Jahre)",
         "text_english": "Hans (20 years) and Marie (19 years)",
+        "text_arabic": "هانس (20 سنة) وماري (19 سنة)",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "Sofie (35 Jahre) und Lisa (40 Jahre)",
         "text_english": "Sophie (35 years) and Lisa (40 years)",
+        "text_arabic": "صوفي (35 سنة) وليزا (40 سنة)",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "Tom (20 Jahre) und Klaus (45 Jahre)",
         "text_english": "Tom (20 years) and Klaus (45 years)",
+        "text_arabic": "توم (20 سنة) وكلاوس (45 سنة)",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "Anne (13 Jahre) und Tim (25 Jahre)",
         "text_english": "Anne (13 years) and Tim (25 years)",
+        "text_arabic": "آن (13 سنة) وتيم (25 سنة)",
         "is_correct": true
       }
     ],
@@ -201,29 +231,34 @@
     "question_number": 253,
     "question_german": "Ab welchem Alter ist man in Deutschland volljährig?",
     "question_english": "At what age do you become an adult in Germany?",
+    "question_arabic": "في أي عمر يصبح الشخص بالغًا في ألمانيا؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "16",
         "text_english": "",
+        "text_arabic": "16",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "18",
         "text_english": "",
+        "text_arabic": "18",
         "is_correct": true
       },
       {
         "letter": "C",
         "text_german": "19",
         "text_english": "",
+        "text_arabic": "19",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "21",
         "text_english": "",
+        "text_arabic": "21",
         "is_correct": false
       }
     ],
@@ -234,29 +269,34 @@
     "question_number": 254,
     "question_german": "Die Erziehung der Kinder ist in Deutschland vor allem Aufgabe …",
     "question_english": "The upbringing of children in Germany is primarily a task ...",
+    "question_arabic": "تربية الأطفال في ألمانيا هي في المقام الأول مهمة ...",
     "answers": [
       {
         "letter": "A",
         "text_german": "der Eltern",
         "text_english": "The parents",
+        "text_arabic": "الآباء",
         "is_correct": true
       },
       {
         "letter": "B",
         "text_german": "der Schulen",
         "text_english": "Of the schools",
+        "text_arabic": "المدارس",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "der Großeltern",
         "text_english": "The grandparents",
+        "text_arabic": "الأجداد",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "des Staates",
         "text_english": "Of the state",
+        "text_arabic": "الدولة",
         "is_correct": false
       }
     ],
@@ -267,29 +307,34 @@
     "question_number": 255,
     "question_german": "Wer ist in Deutschland hauptsächlich verantwortlich für die Kindererziehung?",
     "question_english": "Who is primarily responsible for raising children in Germany?",
+    "question_arabic": "من هو المسؤول الرئيسي عن تربية الأطفال في ألمانيا؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "der Staat",
         "text_english": "The State",
+        "text_arabic": "الدولة",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "die Verwandten",
         "text_english": "The relatives",
+        "text_arabic": "الأقارب",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "der Eltern",
         "text_english": "The parents",
+        "text_arabic": "الآباء",
         "is_correct": true
       },
       {
         "letter": "D",
         "text_german": "der Schulen",
         "text_english": "The schools",
+        "text_arabic": "المدارس",
         "is_correct": false
       }
     ],
@@ -300,29 +345,34 @@
     "question_number": 256,
     "question_german": "Wenn man in Deutschland ein Kind schlägt, …",
     "question_english": "If you hit a child in Germany, ...",
+    "question_arabic": "إذا ضربت طفلًا في ألمانيا ...",
     "answers": [
       {
         "letter": "A",
         "text_german": "geht das nur die Familie etwas an",
         "text_english": "It's only a family matter",
+        "text_arabic": "هذا يخص العائلة فقط",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "geht das niemanden etwas an",
         "text_english": "It's nobody's business",
+        "text_arabic": "لا يخص أحدًا",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "kann man dafür bestraft werden",
         "text_english": "You can be punished for it",
+        "text_arabic": "يمكن أن تعاقب على ذلك",
         "is_correct": true
       },
       {
         "letter": "D",
         "text_german": "kann man dafür nicht bestraft werden",
         "text_english": "You can not be punished for it",
+        "text_arabic": "لا يمكن أن تعاقب على ذلك",
         "is_correct": false
       }
     ],
@@ -333,29 +383,34 @@
     "question_number": 257,
     "question_german": "In Deutschland …",
     "question_english": "In Germany ...",
+    "question_arabic": "في ألمانيا ...",
     "answers": [
       {
         "letter": "A",
         "text_german": "kann man mehrere Ehepartnerinnen/Ehepartner gleichzeitig haben.",
         "text_english": "You can have multiple spouses at the same time?",
+        "text_arabic": "يمكن أن يكون لديك عدة شركاء زواج في نفس الوقت.",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "darf man zur gleichen Zeit nur mit einer Partnerin/einem Partner verheiratet sein.",
         "text_english": "You can only be married to one partner at a time.",
+        "text_arabic": "يسمح لك بالزواج من شريك واحد فقط في نفس الوقت.",
         "is_correct": true
       },
       {
         "letter": "C",
         "text_german": "darf eine Frau nicht wieder heiraten, wenn ihr Mann gestorben ist.",
         "text_english": "A woman must not remarry if her husband has died",
+        "text_arabic": "لا يجوز للمرأة أن تتزوج مرة أخرى إذا توفي زوجها.",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "darf man nicht wieder heiraten, wenn man einmal verheiratet war.",
         "text_english": "You are not allowed to remarry once you are married",
+        "text_arabic": "لا يسمح لك بالزواج مرة أخرى إذا كنت متزوجًا من قبل.",
         "is_correct": false
       }
     ],
@@ -366,29 +421,34 @@
     "question_number": 258,
     "question_german": "In Deutschland dürfen Ehepaare sich scheiden lassen. Meistens müssen sie dazu das \"Trennungsjahr\" einhalten. Was bedeutet das?",
     "question_english": "In Germany, married couples are allowed to divorce. In most cases, they have to observe the “year of separation” for this. What does that mean?",
+    "question_arabic": "في ألمانيا، يُسمح للأزواج بالطلاق. في معظم الحالات، يجب عليهم الالتزام بـ\"سنة الانفصال\". ماذا يعني ذلك؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "Die Ehegatten sind ein Jahr verheiratet, dann ist die Scheidung möglich.",
         "text_english": "The spouses are married for one year, then divorce is possible.",
+        "text_arabic": "يكون الزوجان متزوجين لمدة عام، ثم يكون الطلاق ممكنًا.",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "Der Scheidungsprozess dauert ein Jahr.",
         "text_english": "The divorce process takes a year",
+        "text_arabic": "تستغرق عملية الطلاق عامًا واحدًا",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "Die Ehegatten führen mindestens ein Jahr getrennt ihr eigenes Leben. Danach ist die Scheidung möglich.",
         "text_english": "The spouses lead their own lives separately for at least one year. After that, divorce is possible",
+        "text_arabic": "يعيش الزوجان حياتهما منفصلين لمدة عام على الأقل. بعد ذلك يكون الطلاق ممكنًا.",
         "is_correct": true
       },
       {
         "letter": "D",
         "text_german": "Das Besuchsrecht für die Kinder gilt ein Jahr.",
         "text_english": "Visitation rights for the children are valid for one year",
+        "text_arabic": "حق الزيارة للأطفال صالح لمدة عام واحد",
         "is_correct": false
       }
     ],
@@ -399,29 +459,34 @@
     "question_number": 259,
     "question_german": "Bei Erziehungsproblemen können Eltern in Deutschland Hilfe erhalten vom …",
     "question_english": "Parents in Germany who have problems bringing up their children can get help from ...",
+    "question_arabic": "الآباء في ألمانيا الذين يواجهون مشاكل في تربية أطفالهم يمكنهم الحصول على المساعدة من ...",
     "answers": [
       {
         "letter": "A",
         "text_german": "Ordnungsamt.",
         "text_english": "Regulatory office",
+        "text_arabic": "مكتب النظام",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "Jugendamt.",
         "text_english": "Youth welfare office",
+        "text_arabic": "مكتب رعاية الشباب",
         "is_correct": true
       },
       {
         "letter": "C",
         "text_german": "Schulamt.",
         "text_english": "School board",
+        "text_arabic": "مجلس المدرسة",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "Gesundheitsamt.",
         "text_english": "Health department",
+        "text_arabic": "دائرة الصحة",
         "is_correct": false
       }
     ],
@@ -432,29 +497,34 @@
     "question_number": 260,
     "question_german": "Eine erwachsene Frau möchte in Deutschland das Abitur nachholen. Das kann sie an …",
     "question_english": "An adult woman would like to do the Abitur in Germany. She can do that on...",
+    "question_arabic": "امرأة بالغة ترغب في الحصول على شهادة الأبيتور في ألمانيا. يمكنها القيام بذلك في ...",
     "answers": [
       {
         "letter": "A",
         "text_german": "einer Privatuniversität",
         "text_english": "A Private University",
+        "text_arabic": "جامعة خاصة",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "einem Abendgymnasium",
         "text_english": "An Evening Gymnasium",
+        "text_arabic": "مدرسة مسائية",
         "is_correct": true
       },
       {
         "letter": "C",
         "text_german": "einer Hauptschule",
         "text_english": "A Secondary school",
+        "text_arabic": "مدرسة ثانوية",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "einer Hochschule.",
         "text_english": "A University.",
+        "text_arabic": "جامعة",
         "is_correct": false
       }
     ],
@@ -465,29 +535,34 @@
     "question_number": 261,
     "question_german": "In Deutschland hat man die besten Chancen auf einen gut bezahlten Arbeitsplatz, wenn man …",
     "question_english": "In Germany you have the best chance of finding a well-paid job if you...",
+    "question_arabic": "في ألمانيا لديك أفضل فرصة للحصول على وظيفة ذات أجر جيد إذا كنت ...",
     "answers": [
       {
         "letter": "A",
         "text_german": "eine Frau ist.",
         "text_english": "is a woman",
+        "text_arabic": "امرأة",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "katholisch ist.",
         "text_english": "is catholic",
+        "text_arabic": "كاثوليكي",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "Mitglied einer Partei ist.",
         "text_english": "is a member of a party",
+        "text_arabic": "عضو في حزب",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "gut ausgebildet ist.",
         "text_english": "is well educated",
+        "text_arabic": "متعلم جيدًا",
         "is_correct": true
       }
     ],
@@ -498,29 +573,34 @@
     "question_number": 262,
     "question_german": "Was darf das Jugendamt in Deutschland?",
     "question_english": "What is the youth welfare office allowed to do in Germany?",
+    "question_arabic": "ما الذي يسمح لمكتب رعاية الشباب بفعله في ألمانيا؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "Es kontrolliert, ob das Kind einen Kindergarten besucht.",
         "text_english": "It checks whether the child attends a kindergarten",
+        "text_arabic": "يتحقق مما إذا كان الطفل يذهب إلى روضة الأطفال",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "Es kann ein Kind, das geschlagen wird oder hungern muss, aus der Familie nehmen.",
         "text_english": "It can take a child who is being beaten or starving from the family",
+        "text_arabic": "يمكنه أخذ طفل يتعرض للضرب أو الجوع من العائلة",
         "is_correct": true
       },
       {
         "letter": "C",
         "text_german": "Es bezahlt das Kindergeld an die Eltern.",
         "text_english": "It pays the child benefit to the parents",
+        "text_arabic": "يدفع إعانة الطفل للآباء",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "Es entscheidet, welche Schule das Kind besucht.",
         "text_english": "It decides which school the child attends",
+        "text_arabic": "يقرر أي مدرسة يذهب إليها الطفل",
         "is_correct": false
       }
     ],
@@ -531,29 +611,34 @@
     "question_number": 263,
     "question_german": "Das Berufsinformationszentrum BIZ bei der Bundesagentur für Arbeit in Deutschland hilft bei der …",
     "question_english": "The careers information center BIZ at the Federal Employment Agency in Germany helps with the …",
+    "question_arabic": "مركز معلومات المهن BIZ في وكالة التوظيف الفيدرالية في ألمانيا يساعد في ...",
     "answers": [
       {
         "letter": "A",
         "text_german": "Lehrstellensuche",
         "text_english": "Apprenticeship search",
+        "text_arabic": "البحث عن تدريب مهني",
         "is_correct": true
       },
       {
         "letter": "B",
         "text_german": "Steuererklärung",
         "text_english": "Tax declaration",
+        "text_arabic": "الإقرار الضريبي",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "Rentenberechnung",
         "text_english": "Pension calculation",
+        "text_arabic": "حساب المعاش",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "Krankenversicherung",
         "text_english": "Health insurance",
+        "text_arabic": "التأمين الصحي",
         "is_correct": false
       }
     ],
@@ -564,29 +649,34 @@
     "question_number": 264,
     "question_german": "In Deutschland hat ein Kind in der Schule…",
     "question_english": "In Germany, a child at school…",
+    "question_arabic": "في ألمانيا، الطفل في المدرسة ...",
     "answers": [
       {
         "letter": "A",
         "text_german": "Wahlfreiheit für alle Fächer.",
         "text_english": "Freedom of choice for all subjects",
+        "text_arabic": "حرية اختيار جميع المواد",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "Recht auf unbegrenzte Freizeit.",
         "text_english": "Right to unlimited free time",
+        "text_arabic": "الحق في وقت فراغ غير محدود",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "Anwesenheitspflicht.",
         "text_english": "Mandatory attendance",
+        "text_arabic": "الحضور الإجباري",
         "is_correct": true
       },
       {
         "letter": "D",
         "text_german": "Anspruch auf Schulgeld.",
         "text_english": "Entitlement to school fees",
+        "text_arabic": "الحق في رسوم المدرسة",
         "is_correct": false
       }
     ],
@@ -597,29 +687,34 @@
     "question_number": 265,
     "question_german": "Ein Mann möchte mit 30 Jahren in Deutschland sein Abitur nachholen. Wo kann er das tun? An …",
     "question_english": "A 30-year-old man wants to do his Abitur in Germany. Where can he do that? At …",
+    "question_arabic": "رجل يبلغ من العمر 30 عامًا يريد الحصول على شهادة الأبيتور في ألمانيا. أين يمكنه فعل ذلك؟ في ...",
     "answers": [
       {
         "letter": "A",
         "text_german": "einer Hauptschule",
         "text_english": "A secondary school",
+        "text_arabic": "مدرسة ثانوية",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "einem Abendgymnasium",
         "text_english": "An evening gymnasium",
+        "text_arabic": "مدرسة مسائية",
         "is_correct": true
       },
       {
         "letter": "C",
         "text_german": "einer Hochschule",
         "text_english": "A University",
+        "text_arabic": "جامعة",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "einer Privatuniversität",
         "text_english": "A Private University",
+        "text_arabic": "جامعة خاصة",
         "is_correct": false
       }
     ],
@@ -630,29 +725,34 @@
     "question_number": 266,
     "question_german": "In Deutschland sind Jugendliche ab 14 Jahren strafmündig. Das bedeutet: Jugendliche, die 14 Jahre und älter sind und gegen Strafgesetze verstoßen, …",
     "question_english": "In Germany, young people from the age of 14 are liable to prosecution. This means: young people who are 14 years and older and violate criminal laws, ...",
+    "question_arabic": "في ألمانيا، يكون الشباب من سن 14 عامًا مسؤولين جنائيًا. هذا يعني: الشباب الذين يبلغون 14 عامًا أو أكثر وينتهكون القوانين الجنائية ...",
     "answers": [
       {
         "letter": "A",
         "text_german": "werden bestraft.",
         "text_english": "are punished",
+        "text_arabic": "يتم معاقبتهم.",
         "is_correct": true
       },
       {
         "letter": "B",
         "text_german": "teilen die Strafe mit ihren Eltern.",
         "text_english": "share the punishment with their parents",
+        "text_arabic": "يشاركون العقوبة مع والديهم",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "werden wie Erwachsene behandelt.",
         "text_english": "are treated like adults",
+        "text_arabic": "يتم معاملتهم كالبالغين",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "werden nicht bestraft.",
         "text_english": "will not be penalized",
+        "text_arabic": "لا يعاقبون",
         "is_correct": false
       }
     ],
@@ -663,29 +763,34 @@
     "question_number": 267,
     "question_german": "Eine junge Frau in Deutschland, 22 Jahre alt, lebt mit ihrem Freund zusammen. Die Eltern der Frau finden das nicht gut, weil ihnen der Freund nicht gefällt. Was können die Eltern tun?",
     "question_english": "A young woman in Germany, 22 years old, lives with her boyfriend. The woman's parents don't like it because they don't like the boyfriend. What can the parents do?",
+    "question_arabic": "امرأة شابة في ألمانيا، تبلغ من العمر 22 عامًا، تعيش مع صديقها. والداها لا يعجبهما ذلك لأنهما لا يحبان الصديق. ماذا يمكن أن يفعل الوالدان؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "Sie können zur Polizei gehen und die Tochter anzeigen.",
         "text_english": "You can go to the police and report the daughter",
+        "text_arabic": "يمكنهم الذهاب إلى الشرطة والإبلاغ عن الابنة",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "Sie haben das Recht, die Tochter in die elterliche Wohnung zurückzuholen.",
         "text_english": "You have the right to bring the daughter back to the parental home",
+        "text_arabic": "لديهم الحق في إعادة الابنة إلى منزل العائلة",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "Sie suchen einen anderen Mann für die Tochter.",
         "text_english": "You are looking for another man for your daughter",
+        "text_arabic": "يبحثون عن رجل آخر للابنة",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "Sie müssen die Entscheidung der volljährigen Tochter respektieren.",
         "text_english": "You must respect the decision of the adult daughter",
+        "text_arabic": "يجب عليهم احترام قرار الابنة البالغة",
         "is_correct": true
       }
     ],
@@ -696,29 +801,34 @@
     "question_number": 268,
     "question_german": "Eine junge Frau will den Führerschein machen. Sie hat Angst vor der Prüfung, weil ihre Muttersprache nicht Deutsch ist. Was ist richtig?",
     "question_english": "A young woman wants to get her driver's license. She is afraid of the test because her mother tongue is not German. What is right?",
+    "question_arabic": "امرأة شابة تريد الحصول على رخصة القيادة. هي خائفة من الامتحان لأن لغتها الأم ليست الألمانية. ما هو الصحيح؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "Wenn sie kein Deutsch kann, darf sie keinen Führerschein haben.",
         "text_english": "If she doesn't speak German, she can't have a driver's license",
+        "text_arabic": "إذا لم تكن تتحدث الألمانية، لا يمكنها الحصول على رخصة القيادة",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "Sie muss den Führerschein in dem Land machen, in dem man ihre Sprache spricht.",
         "text_english": "She has to get her driver's license in the country where her language is spoken",
+        "text_arabic": "يجب أن تحصل على رخصة القيادة في البلد الذي يتحدث لغتها",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "Sie kann die Theorie-Prüfung vielleicht in ihrer Muttersprache machen. Es gibt mehr als zehn Sprachen zur Auswahl.",
         "text_english": "She might be able to do the theory test in her mother tongue. There are more than ten languages to choose from ✅",
+        "text_arabic": "ربما يمكنها إجراء اختبار النظري بلغتها الأم. هناك أكثر من عشر لغات للاختيار من بينها.",
         "is_correct": true
       },
       {
         "letter": "D",
         "text_german": "Sie muss mindestens zehn Jahre in Deutschland leben, bevor sie den Führerschein machen kann.",
         "text_english": "She has to live in Germany for at least ten years before she can get her driver's license",
+        "text_arabic": "يجب أن تعيش في ألمانيا لمدة عشر سنوات على الأقل قبل أن تتمكن من الحصول على رخصة القيادة",
         "is_correct": false
       }
     ],
@@ -729,29 +839,34 @@
     "question_number": 269,
     "question_german": "In Deutschland haben Kinder ab dem Alter von drei Jahren bis zur Ersteinschulung einen Anspruch auf …",
     "question_english": "In Germany, children from the age of three until they start school are entitled to …",
+    "question_arabic": "في ألمانيا، يحق للأطفال من سن ثلاث سنوات حتى بدء المدرسة ...",
     "answers": [
       {
         "letter": "A",
         "text_german": "einen Platz in einem Sportverein.",
         "text_english": "A place in a sports club",
+        "text_arabic": "مكان في نادٍ رياضي",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "einen Kindergartenplatz.",
         "text_english": "A place in Kindergarten",
+        "text_arabic": "مكان في روضة الأطفال",
         "is_correct": true
       },
       {
         "letter": "C",
         "text_german": "monatliches Taschengeld.",
         "text_english": "Monthly pocket money",
+        "text_arabic": "مصروف شهري",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "einen Ferienpass.",
         "text_english": "A holiday pass",
+        "text_arabic": "تصريح عطلة",
         "is_correct": false
       }
     ],
@@ -762,29 +877,34 @@
     "question_number": 270,
     "question_german": "Die Volkshochschule in Deutschland ist eine Einrichtung …",
     "question_english": "The adult education center in Germany is an institution …",
+    "question_arabic": "مركز التعليم الشعبي في ألمانيا هو مؤسسة ...",
     "answers": [
       {
         "letter": "A",
         "text_german": "zur Weiterbildung.",
         "text_english": "To further education",
+        "text_arabic": "للتعليم المستمر",
         "is_correct": true
       },
       {
         "letter": "B",
         "text_german": "für den Religionsunterricht.",
         "text_english": "For religious education",
+        "text_arabic": "لتعليم الدين",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "nur für Jugendliche.",
         "text_english": "Only for teenagers",
+        "text_arabic": "فقط للمراهقين",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "nur für Rentner und Rentnerinnen.",
         "text_english": "Only for pensioners",
+        "text_arabic": "فقط للمتقاعدين",
         "is_correct": false
       }
     ],
@@ -795,29 +915,34 @@
     "question_number": 271,
     "question_german": "Bei Erziehungsproblemen gehen Sie in Deutschland …",
     "question_english": "If you have problems bringing up your child in Germany...",
+    "question_arabic": "إذا كان لديك مشاكل في تربية طفلك في ألمانيا ...",
     "answers": [
       {
         "letter": "A",
         "text_german": "zum Arzt/zur Ärztin",
         "text_english": "To the Doctor",
+        "text_arabic": "إلى الطبيب/الطبيبة",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "zum Jugendamt",
         "text_english": "To the youth welfare office",
+        "text_arabic": "إلى مكتب رعاية الشباب",
         "is_correct": true
       },
       {
         "letter": "C",
         "text_german": "zum Gesundheitsamt",
         "text_english": "To the health department",
+        "text_arabic": "إلى دائرة الصحة",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "zum Einwohnermeldeamt",
         "text_english": "To the registration office",
+        "text_arabic": "إلى مكتب التسجيل",
         "is_correct": false
       }
     ],
@@ -828,29 +953,34 @@
     "question_number": 272,
     "question_german": "Was braucht man in Deutschland für eine Ehescheidung?",
     "question_english": "What do you need in Germany for a divorce?",
+    "question_arabic": "ماذا تحتاج في ألمانيا للطلاق؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "die Einwilligung der Eltern",
         "text_english": "The consent of the parents",
+        "text_arabic": "موافقة الوالدين",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "die Unterstützung eines Anwalts/einer Anwältin",
         "text_english": "The support of a lawyer / attorney",
+        "text_arabic": "دعم محامٍ/محامية",
         "is_correct": true
       },
       {
         "letter": "C",
         "text_german": "ein Attest eines Arztes/einer Ärztin",
         "text_english": "A doctor's certificate",
+        "text_arabic": "شهادة طبية من طبيب/طبيبة",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "die Einwilligung der Kinder",
         "text_english": "The consent of the children",
+        "text_arabic": "موافقة الأطفال",
         "is_correct": false
       }
     ],

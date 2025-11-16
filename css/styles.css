@@ -280,6 +280,24 @@ button {
   font-size: 0.8rem;
 }
 
+/* Arabic text support */
+.arabic {
+  direction: rtl;
+  text-align: right;
+  font-family: "Noto Sans Arabic", "Arabic UI Text", "SF Arabic", "Segoe UI Historic", system-ui, sans-serif;
+}
+
+/* Translation styling improvements */
+.translation div:not(:last-child) {
+  margin-bottom: 0.5rem;
+}
+
+.translation [style*="direction: rtl"] {
+  font-family: "Noto Sans Arabic", "Arabic UI Text", "SF Arabic", "Segoe UI Historic", system-ui, sans-serif;
+  line-height: 1.6;
+  padding: 0.25rem 0;
+}
+
 @media (max-width: 900px) {
   .layout {
     flex-direction: column;

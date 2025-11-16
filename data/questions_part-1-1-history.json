@@ -3,29 +3,34 @@
     "question_number": 1,
     "question_german": "Was war am 8. Mai 1945?",
     "question_english": "What happened on May 8, 1945?",
+    "question_arabic": "ماذا حدث في 8 مايو 1945؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "Ende des Zweiten Weltkriegs in Europa",
         "text_english": "End of World War II in Europe",
+        "text_arabic": "نهاية الحرب العالمية الثانية في أوروبا",
         "is_correct": true
       },
       {
         "letter": "B",
         "text_german": "Tod Adolf Hitlers",
         "text_english": "Death of Adolf Hitler",
+        "text_arabic": "وفاة أدولف هتلر",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "Wahl von Konrad Adenauer zum Bundeskanzler",
         "text_english": "Konrad Adenauer is elected Chancellor",
+        "text_arabic": "انتخاب كونراد أديناور مستشارًا",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "Beginn des Berliner Mauerbaus",
         "text_english": "Beginning of the construction of the Berlin Wall",
+        "text_arabic": "بداية بناء جدار برلين",
         "is_correct": false
       }
     ],
@@ -36,29 +41,34 @@
     "question_number": 2,
     "question_german": "Was gab es während der Zeit des Nationalsozialismus in Deutschland?",
     "question_english": "What was happening in Germany during the Nazi era?",
+    "question_arabic": "ماذا كان يحدث في ألمانيا خلال فترة النازية؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "das Recht zur freien Entfaltung der Persönlichkeit",
         "text_english": "the right to free development of personality",
+        "text_arabic": "الحق في تطوير الشخصية بحرية",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "den Schutz der Menschenwürde",
         "text_english": "the protection of human dignity",
+        "text_arabic": "حماية كرامة الإنسان",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "das Verbot von Parteien",
         "text_english": "the ban on parties",
+        "text_arabic": "حظر الأحزاب",
         "is_correct": true
       },
       {
         "letter": "D",
         "text_german": "Pressefreiheit",
         "text_english": "freedom of the press",
+        "text_arabic": "حرية الصحافة",
         "is_correct": false
       }
     ],
@@ -69,29 +79,34 @@
     "question_number": 3,
     "question_german": "Wie hieß der erste Bundeskanzler der Bundesrepublik Deutschland?",
     "question_english": "What was the name of the first Chancellor of the Federal Republic of Germany?",
+    "question_arabic": "ما اسم أول مستشار لجمهورية ألمانيا الاتحادية؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "Willy Brandt",
-        "text_english": "",
+        "text_english": "Willy Brandt",
+        "text_arabic": "فيلي برانت",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "Konrad Adenauer",
-        "text_english": "",
+        "text_english": "Konrad Adenauer",
+        "text_arabic": "كونراد أديناور",
         "is_correct": true
       },
       {
         "letter": "C",
         "text_german": "Kurt Georg Kiesinger",
-        "text_english": "",
+        "text_english": "Kurt Georg Kiesinger",
+        "text_arabic": "كورت جورج كيسينجر",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "Helmut Schmidt",
-        "text_english": "",
+        "text_english": "Helmut Schmidt",
+        "text_arabic": "هيلموت شميت",
         "is_correct": false
       }
     ],
@@ -102,29 +117,34 @@
     "question_number": 4,
     "question_german": "Wie endete der Zweite Weltkrieg in Europa offiziell?",
     "question_english": "How did World War II officially end in Europe?",
+    "question_arabic": "كيف انتهت الحرب العالمية الثانية رسميًا في أوروبا؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "durch eine Revolution in Deutschland",
         "text_english": "through a revolution in Germany",
+        "text_arabic": "من خلال ثورة في ألمانيا",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "mit dem Rückzug der Deutschen aus den besetzten Gebieten",
         "text_english": "with the withdrawal of the Germans from the occupied territories",
+        "text_arabic": "بانسحاب الألمان من المناطق المحتلة",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "mit dem Tod Adolf Hitlers",
         "text_english": "with the death of Adolf Hitler",
+        "text_arabic": "بوفاة أدولف هتلر",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "durch die bedingungslose Kapitulation Deutschlands",
         "text_english": "through the unconditional surrender of Germany",
+        "text_arabic": "من خلال استسلام ألمانيا غير المشروط",
         "is_correct": true
       }
     ],
@@ -135,29 +155,34 @@
     "question_number": 5,
     "question_german": "In welchem Jahr wurde Hitler Reichskanzler?",
     "question_english": "In what year Hitler became Chancellor?",
+    "question_arabic": "في أي سنة أصبح هتلر مستشارًا؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "1923",
-        "text_english": "",
+        "text_english": "1923",
+        "text_arabic": "1923",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "1927",
-        "text_english": "",
+        "text_english": "1927",
+        "text_arabic": "1927",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "1933",
-        "text_english": "",
+        "text_english": "1933",
+        "text_arabic": "1933",
         "is_correct": true
       },
       {
         "letter": "D",
         "text_german": "1936",
-        "text_english": "",
+        "text_english": "1936",
+        "text_arabic": "1936",
         "is_correct": false
       }
     ],
@@ -168,29 +193,34 @@
     "question_number": 6,
     "question_german": "Wann waren die Nationalsozialisten mit Adolf Hitler in Deutschland an der Macht?",
     "question_english": "When were the National Socialists in power in Germany with Adolf Hitler?",
+    "question_arabic": "متى كان النازيون مع أدولف هتلر في السلطة في ألمانيا؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "1945 bis 1989",
-        "text_english": "",
+        "text_english": "1945 to 1989",
+        "text_arabic": "1945 حتى 1989",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "1933 bis 1945",
-        "text_english": "",
+        "text_english": "1933 to 1945",
+        "text_arabic": "1933 حتى 1945",
         "is_correct": true
       },
       {
         "letter": "C",
         "text_german": "1932 bis 1950",
-        "text_english": "",
+        "text_english": "1932 to 1950",
+        "text_arabic": "1932 حتى 1950",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "1918 bis 1923",
-        "text_english": "",
+        "text_english": "1918 to 1923",
+        "text_arabic": "1918 حتى 1923",
         "is_correct": false
       }
     ],
@@ -201,29 +231,34 @@
     "question_number": 7,
     "question_german": "Das \"Dritte Reich\" war eine …",
     "question_english": "The 'Third Reich' was a ...",
+    "question_arabic": "كان \"الرايخ الثالث\" ...",
     "answers": [
       {
         "letter": "A",
         "text_german": "Räterepublik.",
         "text_english": "Soviet Republic",
+        "text_arabic": "جمهورية سوفيتية",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "Monarchie.",
         "text_english": "Monarchy",
+        "text_arabic": "ملكية",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "Diktatur.",
         "text_english": "Dictatorship",
+        "text_arabic": "ديكتاتورية",
         "is_correct": true
       },
       {
         "letter": "D",
         "text_german": "Demokratie.",
         "text_english": "Democracy",
+        "text_arabic": "ديمقراطية",
         "is_correct": false
       }
     ],
@@ -234,29 +269,34 @@
     "question_number": 8,
     "question_german": "Welcher Krieg dauerte von 1939 bis 1945?",
     "question_english": "Which war lasted from 1939 to 1945?",
+    "question_arabic": "أي حرب استمرت من 1939 حتى 1945؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "der Golfkrieg",
         "text_english": "the gulf war",
+        "text_arabic": "حرب الخليج",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "der Erste Weltkrieg",
         "text_english": "the First World War",
+        "text_arabic": "الحرب العالمية الأولى",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "der Zweite Weltkrieg",
         "text_english": "the Second World War",
+        "text_arabic": "الحرب العالمية الثانية",
         "is_correct": true
       },
       {
         "letter": "D",
         "text_german": "der Vietnamkrieg",
         "text_english": "the Vietnam War",
+        "text_arabic": "حرب فيتنام",
         "is_correct": false
       }
     ],
@@ -267,29 +307,34 @@
     "question_number": 9,
     "question_german": "In welchem Jahr zerstörten die Nationalsozialisten Synagogen und jüdische Geschäfte in Deutschland?",
     "question_english": "In which year did the Nazis destroy synagogues and Jewish businesses in Germany?",
+    "question_arabic": "في أي سنة دمر النازيون المعابد اليهودية والمتاجر اليهودية في ألمانيا؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "1925",
-        "text_english": "",
+        "text_english": "1925",
+        "text_arabic": "1925",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "1930",
-        "text_english": "",
+        "text_english": "1930",
+        "text_arabic": "1930",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "1938",
-        "text_english": "",
+        "text_english": "1938",
+        "text_arabic": "1938",
         "is_correct": true
       },
       {
         "letter": "D",
         "text_german": "1945",
-        "text_english": "",
+        "text_english": "1945",
+        "text_arabic": "1945",
         "is_correct": false
       }
     ],
@@ -300,29 +345,34 @@
     "question_number": 10,
     "question_german": "Was passierte am 9. November 1938 in Deutschland?",
     "question_english": "What happened in Germany on November 9, 1938?",
+    "question_arabic": "ماذا حدث في ألمانيا في 9 نوفمبر 1938؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "Die Nationalsozialisten verlieren eine Wahl und lösen den Reichstag auf",
         "text_english": "The National Socialists lose an election and dissolve the Reichstag",
+        "text_arabic": "النازيون يخسرون الانتخابات ويحلّون البرلمان (الرايخستاغ)",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "Jüdische Geschäfte und Synagogen werden durch Nationalsozialisten und ihre Anhänger zerstört",
         "text_english": "Jewish stores and synagogues are destroyed by National Socialists and their supporters",
+        "text_arabic": "تم تدمير المتاجر والمعابد اليهودية من قبل النازيين وأنصارهم",
         "is_correct": true
       },
       {
         "letter": "C",
         "text_german": "Mit dem Angriff auf Polen beginnt der Zweite Weltkrieg",
         "text_english": "The Second World War begins with the attack on Poland",
+        "text_arabic": "بدأت الحرب العالمية الثانية بالهجوم على بولندا",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "Hitler wird Reichspräsident und lässt alle Parteien verbieten",
         "text_english": "Hitler becomes President of the Reich and has all parties banned",
+        "text_arabic": "أصبح هتلر رئيس الرايخ وحظر جميع الأحزاب",
         "is_correct": false
       }
     ],
@@ -333,29 +383,34 @@
     "question_number": 11,
     "question_german": "Wann waren die Nationalsozialisten in Deutschland an der Macht?",
     "question_english": "When were the National Socialists in power in Germany?",
+    "question_arabic": "متى كان النازيون في السلطة في ألمانيا؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "1888 bis 1918",
-        "text_english": "",
+        "text_english": "1888 to 1918",
+        "text_arabic": "1888 حتى 1918",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "1921 bis 1934",
-        "text_english": "",
+        "text_english": "1921 to 1934",
+        "text_arabic": "1921 حتى 1934",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "1933 bis 1945",
-        "text_english": "",
+        "text_english": "1933 to 1945",
+        "text_arabic": "1933 حتى 1945",
         "is_correct": true
       },
       {
         "letter": "D",
         "text_german": "1949 bis 1963",
-        "text_english": "",
+        "text_english": "1949 to 1963",
+        "text_arabic": "1949 حتى 1963",
         "is_correct": false
       }
     ],
@@ -366,29 +421,34 @@
     "question_number": 12,
     "question_german": "Claus Schenk Graf von Stauffenberg wurde bekannt durch …",
     "question_english": "Claus Schenk Graf from Stauffenberg is known for ...",
+    "question_arabic": "اشتهر كلاوس شينك غراف فون شتاوفنبرغ بـ ...",
     "answers": [
       {
         "letter": "A",
         "text_german": "das Attentat auf Hitler am 20. Juli 1944.",
         "text_english": "the assassination attempt on Hitler on July 20, 1944",
+        "text_arabic": "محاولة اغتيال هتلر في 20 يوليو 1944",
         "is_correct": true
       },
       {
         "letter": "B",
         "text_german": "den Aufbau der Wehrmacht.",
         "text_english": "the construction of the Wehrmacht",
+        "text_arabic": "بناء الجيش الألماني (فيرماخت)",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "eine Goldmedaille bei den Olympischen Spielen 1936.",
         "text_english": "a gold medal at the 1936 Olympics",
+        "text_arabic": "ميدالية ذهبية في أولمبياد 1936",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "den Bau des Reichstagsgebäudes.",
         "text_english": "the construction of the Reichstag building",
+        "text_arabic": "بناء مبنى الرايخستاغ",
         "is_correct": false
       }
     ],
@@ -399,29 +459,34 @@
     "question_number": 13,
     "question_german": "Wann war der Zweite Weltkrieg zu Ende?",
     "question_english": "When did World War II end?",
+    "question_arabic": "متى انتهت الحرب العالمية الثانية؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "1945",
-        "text_english": "",
+        "text_english": "1945",
+        "text_arabic": "1945",
         "is_correct": true
       },
       {
         "letter": "B",
         "text_german": "1961",
-        "text_english": "",
+        "text_english": "1961",
+        "text_arabic": "1961",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "1949",
-        "text_english": "",
+        "text_english": "1949",
+        "text_arabic": "1949",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "1933",
-        "text_english": "",
+        "text_english": "1933",
+        "text_arabic": "1933",
         "is_correct": false
       }
     ],
@@ -432,29 +497,34 @@
     "question_number": 14,
     "question_german": "Was kennzeichnete den NS-Staat? Eine Politik …",
     "question_english": "What characterized the Nazi state? A policy ...",
+    "question_arabic": "ما الذي ميز الدولة النازية؟ سياسة ...",
     "answers": [
       {
         "letter": "A",
         "text_german": "der allgemeinen Religionsfreiheit",
         "text_english": "the general freedom of religion",
+        "text_arabic": "حرية الدين العامة",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "der Entwicklung der Demokratie",
         "text_english": "the development of democracy",
+        "text_arabic": "تطوير الديمقراطية",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "der Meinungsfreiheit",
         "text_english": "the freedom of speech",
+        "text_arabic": "حرية الرأي",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "des staatlichen Rassismus",
         "text_english": "of state racism",
+        "text_arabic": "العنصرية الحكومية",
         "is_correct": true
       }
     ],
@@ -465,29 +535,34 @@
     "question_number": 15,
     "question_german": "Was gab es in Deutschland nicht während der Zeit des Nationalsozialismus?",
     "question_english": "What did not exist in Germany during the time of National Socialism?",
+    "question_arabic": "ما الذي لم يكن موجودًا في ألمانيا خلال فترة النازية؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "Verfolgung der Juden",
         "text_english": "Persecution of the Jews",
+        "text_arabic": "اضطهاد اليهود",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "freie Wahlen",
         "text_english": "free elections",
+        "text_arabic": "انتخابات حرة",
         "is_correct": true
       },
       {
         "letter": "C",
         "text_german": "Pressezensur",
         "text_english": "Press censorship",
+        "text_arabic": "رقابة الصحافة",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "willkürliche Verhaftungen",
         "text_english": "arbitrary arrests",
+        "text_arabic": "اعتقالات تعسفية",
         "is_correct": false
       }
     ],
@@ -498,29 +573,34 @@
     "question_number": 16,
     "question_german": "Die Nationalsozialisten mit Adolf Hitler errichteten 1933 in Deutschland …",
     "question_english": "The National Socialists with Adolf Hitler established in 1933 in Germany ...",
+    "question_arabic": "أنشأ النازيون مع أدولف هتلر في عام 1933 في ألمانيا ...",
     "answers": [
       {
         "letter": "A",
         "text_german": "ein Fürstentum.",
         "text_english": "a principality",
+        "text_arabic": "إمارة",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "einen demokratischen Staat.",
         "text_english": "a democratic state",
+        "text_arabic": "دولة ديمقراطية",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "eine Diktatur.",
         "text_english": "a dictatorship",
+        "text_arabic": "ديكتاتورية",
         "is_correct": true
       },
       {
         "letter": "D",
         "text_german": "eine Monarchie.",
         "text_english": "a monarchy",
+        "text_arabic": "ملكية",
         "is_correct": false
       }
     ],
@@ -531,29 +611,34 @@
     "question_number": 17,
     "question_german": "Wer baute die Mauer in Berlin?",
     "question_english": "Who built the wall in Berlin?",
+    "question_arabic": "من بنى الجدار في برلين؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "die DDR",
         "text_english": "the DDR",
+        "text_arabic": "جمهورية ألمانيا الديمقراطية (الشرقية)",
         "is_correct": true
       },
       {
         "letter": "B",
         "text_german": "die USA",
         "text_english": "the USA",
+        "text_arabic": "الولايات المتحدة الأمريكية",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "Großbritannien",
         "text_english": "Great Britain",
+        "text_arabic": "بريطانيا العظمى",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "die Bundesrepublik Deutschland",
         "text_english": "the Federal Republic of Germany",
+        "text_arabic": "جمهورية ألمانيا الاتحادية (الغربية)",
         "is_correct": false
       }
     ],
@@ -564,29 +649,34 @@
     "question_number": 18,
     "question_german": "Bei welchen Demonstrationen in Deutschland riefen die Menschen \"Wir sind das Volk\"?",
     "question_english": "At which demonstrations in Germany did people shout 'We are the people'?",
+    "question_arabic": "في أي مظاهرات في ألمانيا هتف الناس \"نحن الشعب\"؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "bei den Demonstrationen 1968 in der Bundesrepublik Deutschland",
         "text_english": "at the Demonstrations in 1968 in the Federal Republic of Germany",
+        "text_arabic": "في مظاهرات 1968 في جمهورية ألمانيا الاتحادية",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "bei den Montagsdemonstrationen 1989 in der DDR",
         "text_english": "at the Monday demonstrations in 1989 in the DDR",
+        "text_arabic": "في مظاهرات أيام الاثنين عام 1989 في ألمانيا الشرقية",
         "is_correct": true
       },
       {
         "letter": "C",
         "text_german": "beim Arbeiteraufstand 1953 in der DDR",
         "text_english": "during the 1953 workers' uprising in the DDR",
+        "text_arabic": "في انتفاضة العمال عام 1953 في ألمانيا الشرقية",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "bei den Anti-Atomkraft-Demonstrationen 1985 in der Bundesrepublik Deutschland",
         "text_english": "at the 1985 anti-nuclear demonstrations in West Germany",
+        "text_arabic": "في مظاهرات مناهضة الطاقة النووية عام 1985 في ألمانيا الغربية",
         "is_correct": false
       }
     ],
@@ -597,29 +687,34 @@
     "question_number": 19,
     "question_german": "Welche Länder wurden nach dem Zweiten Weltkrieg in Deutschland als \"Alliierte Besatzungsmächte\" bezeichnet?",
     "question_english": "Which countries were referred to as 'Allied occupying powers' in Germany after World War II?",
+    "question_arabic": "أي دول سميت \"قوى الاحتلال الحليفة\" في ألمانيا بعد الحرب العالمية الثانية؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "Frankreich, Sowjetunion, Italien, Japan",
         "text_english": "France, Soviet Union, Italy, Japan",
+        "text_arabic": "فرنسا، الاتحاد السوفيتي، إيطاليا، اليابان",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "USA, Sowjetunion, Spanien, Portugal",
         "text_english": "USA, Soviet Union, Spain, Portugal",
+        "text_arabic": "الولايات المتحدة، الاتحاد السوفيتي، إسبانيا، البرتغال",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "USA, Sowjetunion, Großbritannien, Frankreich",
         "text_english": "USA, Soviet Union, Great Britain, France",
+        "text_arabic": "الولايات المتحدة، الاتحاد السوفيتي، بريطانيا العظمى، فرنسا",
         "is_correct": true
       },
       {
         "letter": "D",
         "text_german": "Sowjetunion, Großbritannien, Polen, Schweden",
         "text_english": "Soviet Union, Great Britain, Poland, Sweden",
+        "text_arabic": "الاتحاد السوفيتي، بريطانيا العظمى، بولندا، السويد",
         "is_correct": false
       }
     ],
@@ -630,29 +725,34 @@
     "question_number": 20,
     "question_german": "Welches Land war keine \"Alliierte Besatzungsmacht\" in Deutschland?",
     "question_english": "Which country was not an 'Allied occupying power' in Germany?",
+    "question_arabic": "أي دولة لم تكن \"قوة احتلال حليفة\" في ألمانيا؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "Sowjetunion",
         "text_english": "Soviet Union",
+        "text_arabic": "الاتحاد السوفيتي",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "Japan",
         "text_english": "Japan",
+        "text_arabic": "اليابان",
         "is_correct": true
       },
       {
         "letter": "C",
         "text_german": "USA",
         "text_english": "USA",
+        "text_arabic": "الولايات المتحدة الأمريكية",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "Frankreich",
         "text_english": "France",
+        "text_arabic": "فرنسا",
         "is_correct": false
       }
     ],
@@ -663,29 +763,34 @@
     "question_number": 21,
     "question_german": "Wann wurde die Bundesrepublik Deutschland gegründet?",
     "question_english": "When was the Federal Republic of Germany founded?",
+    "question_arabic": "متى تأسست جمهورية ألمانيا الاتحادية؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "1939",
-        "text_english": "",
+        "text_english": "1939",
+        "text_arabic": "1939",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "1945",
-        "text_english": "",
+        "text_english": "1945",
+        "text_arabic": "1945",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "1949",
-        "text_english": "",
+        "text_english": "1949",
+        "text_arabic": "1949",
         "is_correct": true
       },
       {
         "letter": "D",
         "text_german": "1951",
-        "text_english": "",
+        "text_english": "1951",
+        "text_arabic": "1951",
         "is_correct": false
       }
     ],
@@ -696,29 +801,34 @@
     "question_number": 22,
     "question_german": "In welcher Besatzungszone wurde die DDR gegründet? In der …",
     "question_english": "In which occupation zone was the DDR founded? In the …",
+    "question_arabic": "في أي منطقة احتلال تأسست ألمانيا الشرقية (DDR)؟ في ...",
     "answers": [
       {
         "letter": "A",
         "text_german": "sowjetischen Besatzungszone",
         "text_english": "Soviet occupation zone",
+        "text_arabic": "منطقة الاحتلال السوفيتي",
         "is_correct": true
       },
       {
         "letter": "B",
         "text_german": "französischen Besatzungszone",
         "text_english": "French occupation zone",
+        "text_arabic": "منطقة الاحتلال الفرنسي",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "amerikanischen Besatzungszone",
         "text_english": "American occupation zone",
+        "text_arabic": "منطقة الاحتلال الأمريكي",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "britischen Besatzungszone",
         "text_english": "British occupation zone",
+        "text_arabic": "منطقة الاحتلال البريطاني",
         "is_correct": false
       }
     ],
@@ -729,29 +839,34 @@
     "question_number": 23,
     "question_german": "Wann wurde die DDR gegründet?",
     "question_english": "When was the DDR founded?",
+    "question_arabic": "متى تأسست ألمانيا الشرقية (DDR)؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "1947",
-        "text_english": "",
+        "text_english": "1947",
+        "text_arabic": "1947",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "1949",
-        "text_english": "",
+        "text_english": "1949",
+        "text_arabic": "1949",
         "is_correct": true
       },
       {
         "letter": "C",
         "text_german": "1953",
-        "text_english": "",
+        "text_english": "1953",
+        "text_arabic": "1953",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "1956",
-        "text_english": "",
+        "text_english": "1956",
+        "text_arabic": "1956",
         "is_correct": false
       }
     ],
@@ -762,29 +877,34 @@
     "question_number": 24,
     "question_german": "Wie viele Besatzungszonen gab es in Deutschland nach dem Zweiten Weltkrieg?",
     "question_english": "How many occupation zones were there in Germany after World War II?",
+    "question_arabic": "كم عدد مناطق الاحتلال التي كانت في ألمانيا بعد الحرب العالمية الثانية؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "3",
-        "text_english": "",
+        "text_english": "3",
+        "text_arabic": "3",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "4",
-        "text_english": "",
+        "text_english": "4",
+        "text_arabic": "4",
         "is_correct": true
       },
       {
         "letter": "C",
         "text_german": "5",
-        "text_english": "",
+        "text_english": "5",
+        "text_arabic": "5",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "6",
-        "text_english": "",
+        "text_english": "6",
+        "text_arabic": "6",
         "is_correct": false
       }
     ],
@@ -795,29 +915,34 @@
     "question_number": 25,
     "question_german": "Welche deutsche Stadt wurde nach dem Zweiten Weltkrieg in vier Sektoren aufgeteilt?",
     "question_english": "Which German city was divided into four sectors after World War II?",
+    "question_arabic": "أي مدينة ألمانية قُسمت إلى أربعة قطاعات بعد الحرب العالمية الثانية؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "Dresden",
-        "text_english": "",
+        "text_english": "Dresden",
+        "text_arabic": "درسدن",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "München",
-        "text_english": "",
+        "text_english": "Munich",
+        "text_arabic": "ميونخ",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "Frankfurt/Oder",
-        "text_english": "",
+        "text_english": "Frankfurt/Oder",
+        "text_arabic": "فرانكفورت/أودر",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "Berlin",
-        "text_english": "",
+        "text_english": "Berlin",
+        "text_arabic": "برلين",
         "is_correct": true
       }
     ],
@@ -828,29 +953,34 @@
     "question_number": 26,
     "question_german": "Wie waren die Besatzungszonen Deutschlands nach 1945 verteilt?",
     "question_english": "How were the occupation zones of Germany distributed after 1945?",
+    "question_arabic": "كيف تم توزيع مناطق الاحتلال في ألمانيا بعد عام 1945؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "1 = Großbritannien, 2 = Sowjetunion, 3 = USA, 4 = Frankreich",
         "text_english": "1 = Great Britain, 2 = Soviet Union, 3 = USA, 4 = France",
+        "text_arabic": "1 = بريطانيا العظمى، 2 = الاتحاد السوفيتي، 3 = الولايات المتحدة، 4 = فرنسا",
         "is_correct": true
       },
       {
         "letter": "B",
         "text_german": "1 = Großbritannien, 2 = USA, 3 = Sowjetunion, 4 = Frankreich",
         "text_english": "1 = Great Britain, 2 = USA, 3 = Soviet Union, 4 = France",
+        "text_arabic": "1 = بريطانيا العظمى، 2 = الولايات المتحدة، 3 = الاتحاد السوفيتي، 4 = فرنسا",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "1 = Sowjetunion, 2 = Großbritannien, 3 = USA, 4 = Frankreich",
         "text_english": "1 = Soviet Union, 2 = Great Britain, 3 = USA, 4 = France",
+        "text_arabic": "1 = الاتحاد السوفيتي، 2 = بريطانيا العظمى، 3 = الولايات المتحدة، 4 = فرنسا",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "1 = Großbritannien, 2 = Sowjetunion, 3 = Frankreich, 4 = USA",
         "text_english": "1 = Great Britain, 2 = Soviet Union, 3 = France, 4 = USA",
+        "text_arabic": "1 = بريطانيا العظمى، 2 = الاتحاد السوفيتي، 3 = فرنسا، 4 = الولايات المتحدة",
         "is_correct": false
       }
     ],
@@ -861,29 +991,34 @@
     "question_number": 27,
     "question_german": "Vom Juni 1948 bis zum Mai 1949 wurden die Bürgerinnen und Bürger von West-Berlin durch eine Luftbrücke versorgt. Welcher Umstand war dafür verantwortlich?",
     "question_english": "From June 1948 to May 1949, the citizens of West Berlin were supplied by an airlift. What circumstance was responsible for this?",
+    "question_arabic": "من يونيو 1948 حتى مايو 1949 تم تزويد سكان برلين الغربية بجسر جوي. ما السبب في ذلك؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "Für Großbritannien war die Versorgung über die Luftbrücke schneller.",
         "text_english": "For Britain, supplies were quicker via the airlift",
+        "text_arabic": "بالنسبة لبريطانيا، كان التزويد عبر الجسر الجوي أسرع",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "Für Frankreich war eine Versorgung der West-Berliner Bevölkerung mit dem Flugzeug kostengünstiger.",
         "text_english": "For France, supplying the population of West Berlin by plane was cheaper",
+        "text_arabic": "بالنسبة لفرنسا، كان تزويد سكان برلين الغربية بالطائرة أقل تكلفة",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "Die Sowjetunion unterbrach den gesamten Verkehr auf dem Landwege.",
         "text_english": "The Soviet Union cut off all overland traffic",
+        "text_arabic": "الاتحاد السوفيتي قطع جميع طرق النقل البرية",
         "is_correct": true
       },
       {
         "letter": "D",
         "text_german": "Die amerikanischen Soldaten/Soldatinnen hatten beim Landtransport Angst vor Überfällen.",
         "text_english": "The American soldiers were afraid of being attacked during land transport",
+        "text_arabic": "كان الجنود الأمريكيون يخشون الهجمات أثناء النقل البري",
         "is_correct": false
       }
     ],
@@ -894,29 +1029,34 @@
     "question_number": 28,
     "question_german": "Der erste Bundeskanzler der Bundesrepublik Deutschland war …",
     "question_english": "The first Chancellor of the Federal Republic of Germany was ...",
+    "question_arabic": "أول مستشار لجمهورية ألمانيا الاتحادية كان ...",
     "answers": [
       {
         "letter": "A",
         "text_german": "Konrad Adenauer.",
-        "text_english": "",
+        "text_english": "Konrad Adenauer.",
+        "text_arabic": "كونراد أديناور",
         "is_correct": true
       },
       {
         "letter": "B",
         "text_german": "Willy Brandt.",
-        "text_english": "",
+        "text_english": "Willy Brandt.",
+        "text_arabic": "فيلي برانت",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "Ludwig Erhard.",
-        "text_english": "",
+        "text_english": "Ludwig Erhard.",
+        "text_arabic": "لودفيغ إيرهارد",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "Gerhard Schröder.",
-        "text_english": "",
+        "text_english": "Gerhard Schröder.",
+        "text_arabic": "غيرهارد شرودر",
         "is_correct": false
       }
     ],
@@ -927,29 +1067,34 @@
     "question_number": 29,
     "question_german": "Was wollte Willy Brandt mit seinem Kniefall 1970 im ehemaligen jüdischen Ghetto in Warschau ausdrücken?",
     "question_english": "What did Willy Brandt want to express with his genuflection in 1970 in the former Jewish ghetto in Warsaw?",
+    "question_arabic": "ماذا أراد فيلي برانت أن يعبر عن ركوعه في عام 1970 في الحي اليهودي السابق في وارسو؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "Er sprach ein Gebet am Grab des Unbekannten Soldaten",
         "text_english": "He said a prayer at the Tomb of the Unknown Soldier",
+        "text_arabic": "تلا صلاة عند قبر الجندي المجهول",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "Er zeigte seine Demut vor dem Warschauer Pakt",
         "text_english": "He showed his humility before the Warsaw Pact",
+        "text_arabic": "أظهر تواضعه أمام حلف وارسو",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "Er hat sich den ehemaligen Alliierten unterworfen",
         "text_english": "He submitted to the former Allies",
+        "text_arabic": "خضع للحلفاء السابقين",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "Er bat Polen und die polnischen Juden um Vergebung",
         "text_english": "He asked Poland and the Polish Jews for forgiveness",
+        "text_arabic": "طلب المغفرة من بولندا واليهود البولنديين",
         "is_correct": true
       }
     ],
@@ -960,29 +1105,34 @@
     "question_number": 30,
     "question_german": "Vor wie vielen Jahren gab es erstmals eine jüdische Gemeinde auf dem Gebiet des heutigen Deutschlands?",
     "question_english": "How many years ago was there a Jewish community for the first time in what is now Germany?",
+    "question_arabic": "منذ كم سنة وُجدت أول جالية يهودية في ما يُعرف اليوم بألمانيا؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "vor etwa 300 Jahren",
         "text_english": "About 300 years ago",
+        "text_arabic": "منذ حوالي 300 سنة",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "vor etwa 700 Jahren",
         "text_english": "About 700 years ago",
+        "text_arabic": "منذ حوالي 700 سنة",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "vor etwa 1150 Jahren",
         "text_english": "Around 1150 years ago",
+        "text_arabic": "منذ حوالي 1150 سنة",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "vor etwa 1700 Jahren",
         "text_english": "About 1700 years ago",
+        "text_arabic": "منذ حوالي 1700 سنة",
         "is_correct": true
       }
     ],
@@ -993,29 +1143,34 @@
     "question_number": 31,
     "question_german": "Wann war in der Bundesrepublik Deutschland das \"Wirtschaftswunder\"?",
     "question_english": "When was the 'economic miracle' in the Federal Republic of Germany?",
+    "question_arabic": "متى حدث \"المعجزة الاقتصادية\" في جمهورية ألمانيا الاتحادية؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "80er Jahre",
         "text_english": "80s",
+        "text_arabic": "ثمانينيات القرن العشرين",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "70er Jahre",
         "text_english": "70s",
+        "text_arabic": "سبعينيات القرن العشرين",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "50er Jahre",
         "text_english": "50s",
+        "text_arabic": "خمسينيات القرن العشرين",
         "is_correct": true
       },
       {
         "letter": "D",
         "text_german": "40er Jahre",
         "text_english": "40s",
+        "text_arabic": "أربعينيات القرن العشرين",
         "is_correct": false
       }
     ],
@@ -1026,29 +1181,34 @@
     "question_number": 32,
     "question_german": "Woran erinnern die sogenannten „Stolpersteine“ in Deutschland?",
     "question_english": "What do the so-called “stumbling blocks” in Germany commemorate?",
+    "question_arabic": "إلى ماذا تذكّر ما يسمى بـ \"أحجار العثرة\" في ألمانيا؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "an berühmte deutsche Politikerinnen und Politiker",
         "text_english": "Famous German politicians",
+        "text_arabic": "سياسيين ألمان مشهورين",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "an Verkehrstote",
         "text_english": "People killed in traffic accidents",
+        "text_arabic": "ضحايا حوادث المرور",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "an bekannte jüdische Musiker",
         "text_english": "Famous Jewish musicians",
+        "text_arabic": "موسيقيين يهود مشهورين",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "an die Opfer des Nationalsozialismus",
         "text_english": "Victims of National Socialism",
+        "text_arabic": "ضحايا النازية",
         "is_correct": true
       }
     ],
@@ -1059,29 +1219,34 @@
     "question_number": 33,
     "question_german": "Wofür stand der Ausdruck \"Eiserner Vorhang\"? Für die Abschottung..",
     "question_english": "What did the expression 'Iron Curtain' stand for? For the partitioning...",
+    "question_arabic": "ماذا كان يعني مصطلح \"الستار الحديدي\"؟ للعزل ...",
     "answers": [
       {
         "letter": "A",
         "text_german": "Nazi-Deutschlands gegen die Alliierten",
         "text_english": "Nazi Germany against the Allies",
+        "text_arabic": "ألمانيا النازية ضد الحلفاء",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "Europas gegen die USA",
         "text_english": "Europe against USA",
+        "text_arabic": "أوروبا ضد الولايات المتحدة",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "Norddeutschlands gegen Süddeutschland",
         "text_english": "Northern Germany against Southern Germany",
+        "text_arabic": "شمال ألمانيا ضد جنوب ألمانيا",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "des Warschauer Pakts gegen den Westen",
         "text_english": "of the Warsaw Pact against the West",
+        "text_arabic": "حلف وارسو ضد الغرب",
         "is_correct": true
       }
     ],
@@ -1092,29 +1257,34 @@
     "question_number": 34,
     "question_german": "Im Jahr 1953 gab es in der DDR einen Aufstand, an den lange Zeit in der Bundesrepublik Deutschland ein Feiertag erinnerte. Wann war das?",
     "question_english": "In 1953 there was an uprising in the DDR, which for a long time was commemorated by a public holiday in the Federal Republic of Germany. When was it?",
+    "question_arabic": "في عام 1953 حدثت انتفاضة في ألمانيا الشرقية، والتي تم تذكرها لفترة طويلة في ألمانيا الغربية كعطلة رسمية. متى كان ذلك؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "9. November",
         "text_english": "9. November",
+        "text_arabic": "9 نوفمبر",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "20. Juli",
         "text_english": "20. July",
+        "text_arabic": "20 يوليو",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "17. Juni",
         "text_english": "17. June",
+        "text_arabic": "17 يونيو",
         "is_correct": true
       },
       {
         "letter": "D",
         "text_german": "1. Mai",
         "text_english": "1. May",
+        "text_arabic": "1 مايو",
         "is_correct": false
       }
     ],
@@ -1125,29 +1295,34 @@
     "question_number": 35,
     "question_german": "Welcher deutsche Staat hatte eine schwarz-rot-goldene Flagge mit Hammer, Zirkel und Ährenkranz?",
     "question_english": "Which German state had a black-red-gold flag with hammer, compass and ear wreath?",
+    "question_arabic": "أي دولة ألمانية كان لديها علم أسود-أحمر-ذهبي مع مطرقة وبوصلة وإكليل سنابل؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "DDR",
         "text_english": "DDR",
+        "text_arabic": "جمهورية ألمانيا الديمقراطية (الشرقية)",
         "is_correct": true
       },
       {
         "letter": "B",
         "text_german": "Drittes Reich",
         "text_english": "Third Reich",
+        "text_arabic": "الرايخ الثالث",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "Preußen",
         "text_english": "Prussia",
+        "text_arabic": "بروسيا",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "Bundesrepublik Deutschland",
         "text_english": "Federal Republic of Germany",
+        "text_arabic": "جمهورية ألمانيا الاتحادية",
         "is_correct": false
       }
     ],

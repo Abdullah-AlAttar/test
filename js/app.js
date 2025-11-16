@@ -28,6 +28,7 @@ function app() {
     filteredQuestions: [],
     search: '',
     statusFilter: 'all', // all, new, attempted, mastered
+    translationLang: localStorage.getItem('translationLang') || 'english', // english, arabic, both
     answeredCount: 0,
     revealedCount: 0,
     correctCount: 0,
@@ -99,12 +100,14 @@ function app() {
         letter: a.letter,
         text_german: a.text_german || '',
         text_english: a.text_english || '',
+        text_arabic: a.text_arabic || '',
         is_correct: !!a.is_correct
       }));
       const questionData = {
         question_number: q.question_number,
         question_german: q.question_german || '',
         question_english: q.question_english || '',
+        question_arabic: q.question_arabic || '',
         answers: this.shuffle(normalizedAnswers),
         correct_answer: correct,
         image_path: q.image_path || null,
@@ -134,8 +137,8 @@ function app() {
       // Apply text search
       if (term) {
         filtered = filtered.filter(q => {
-          const base = [q.question_german, q.question_english].join(' ').toLowerCase();
-          const answerText = q.answers.map(a => a.text_german + ' ' + a.text_english).join(' ').toLowerCase();
+          const base = [q.question_german, q.question_english, q.question_arabic].join(' ').toLowerCase();
+          const answerText = q.answers.map(a => a.text_german + ' ' + a.text_english + ' ' + a.text_arabic).join(' ').toLowerCase();
           return base.includes(term) || answerText.includes(term);
         });
       }
@@ -162,7 +165,9 @@ function app() {
      * Determine if answer translation should be shown
      */
     showAnswerTranslation(q, a) {
-      if (!a.text_english) return false;
+      const hasEnglish = a.text_english && (this.translationLang === 'english' || this.translationLang === 'both');
+      const hasArabic = a.text_arabic && (this.translationLang === 'arabic' || this.translationLang === 'both');
+      if (!hasEnglish && !hasArabic) return false;
       return q.selected === a.letter || q.showAll;
     },
 
@@ -303,6 +308,14 @@ function app() {
     changeStatusFilter(filter) {
       this.statusFilter = filter;
       this.applySearch();
+    },
+
+    /**
+     * Change translation language
+     */
+    changeTranslationLang(lang) {
+      this.translationLang = lang;
+      localStorage.setItem('translationLang', lang);
     },
 
     // ---------------- TTS METHODS ----------------

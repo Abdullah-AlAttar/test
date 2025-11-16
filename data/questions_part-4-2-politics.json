@@ -3,29 +3,34 @@
     "question_number": 174,
     "question_german": "Welche Hauptaufgabe hat die deutsche Bundespräsidentin/der deutsche Bundespräsident? Sie/Er ...",
     "question_english": "What is the main task of the German Federal President? He / She ...",
+    "question_arabic": "ما هي المهمة الرئيسية للرئيس/ة الفيدرالي/ة الألماني/ة؟ هو/هي ...",
     "answers": [
       {
         "letter": "A",
         "text_german": "repräsentiert das Land.",
         "text_english": "Represents the country.",
+        "text_arabic": "يمثل البلاد.",
         "is_correct": true
       },
       {
         "letter": "B",
         "text_german": "regiert das Land.",
         "text_english": "Rules the country.",
+        "text_arabic": "يحكم البلاد.",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "überwacht die Einhaltung der Gesetze.",
         "text_english": "Monitors compliance with the law.",
+        "text_arabic": "يراقب الالتزام بالقوانين.",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "entwirft die Gesetze",
         "text_english": "Drafts the laws",
+        "text_arabic": "يضع القوانين",
         "is_correct": false
       }
     ],
@@ -36,29 +41,34 @@
     "question_number": 175,
     "question_german": "Wer bildet den deutschen Bundesrat?",
     "question_english": "Who forms the German Bundesrat?",
+    "question_arabic": "من يشكل المجلس الفيدرالي الألماني (البوندسرات)؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "die Regierungsvertreter der Bundesländer",
         "text_english": "The government representatives of the federal states",
+        "text_arabic": "ممثلو حكومات الولايات الفيدرالية",
         "is_correct": true
       },
       {
         "letter": "B",
         "text_german": "die Parteimitglieder",
         "text_english": "The party members",
+        "text_arabic": "أعضاء الأحزاب",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "die Abgeordneten des Bundestages",
         "text_english": "The members of the Bundestag",
+        "text_arabic": "أعضاء البوندستاغ",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "die Minister und Ministerinnen der Bundesregierung",
         "text_english": "The ministers of the federal government",
+        "text_arabic": "وزراء الحكومة الفيدرالية",
         "is_correct": false
       }
     ],
@@ -69,29 +79,34 @@
     "question_number": 176,
     "question_german": "Wer wählt in Deutschland die Bundespräsidentin/den Bundespräsidenten ?",
     "question_english": "Who elects the Federal President in Germany?",
+    "question_arabic": "من ينتخب الرئيس/ة الفيدرالي/ة في ألمانيا؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "der Bundesrat",
         "text_english": "The Federal Council",
+        "text_arabic": "المجلس الفيدرالي (البوندسرات)",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "das Bundesverfassungsgericht",
         "text_english": "The Supreme Court",
+        "text_arabic": "المحكمة الدستورية الفيدرالية",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "die Bundesversammlung",
         "text_english": "The Federal Assembly",
+        "text_arabic": "الجمعية الفيدرالية",
         "is_correct": true
       },
       {
         "letter": "D",
         "text_german": "das Bundesparlament",
         "text_english": "The federal parliament",
+        "text_arabic": "البرلمان الفيدرالي",
         "is_correct": false
       }
     ],
@@ -102,29 +117,34 @@
     "question_number": 177,
     "question_german": "Wer ist das Staatsoberhaupt der Bundesrepublik Deutschland?",
     "question_english": "Who is the head of state of the Federal Republic of Germany?",
+    "question_arabic": "من هو رئيس الدولة في جمهورية ألمانيا الاتحادية؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "der Bundespräsident/die Bundespräsidentin",
         "text_english": "The Federal President",
+        "text_arabic": "الرئيس/ة الفيدرالي/ة",
         "is_correct": true
       },
       {
         "letter": "B",
         "text_german": "der Bundestagspräsident/die Bundestagspräsidentin",
         "text_english": "The President of the Bundestag",
+        "text_arabic": "رئيس/ة البوندستاغ",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "der Bundeskanzler/die Bundeskanzlerin",
         "text_english": "The Federal Chancellor",
+        "text_arabic": "المستشار/ة الفيدرالي/ة",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "der Bundesratspräsident/die Bundesratspräsidentin",
         "text_english": "The President of the Federal Council",
+        "text_arabic": "رئيس/ة المجلس الفيدرالي",
         "is_correct": false
       }
     ],
@@ -135,29 +155,34 @@
     "question_number": 178,
     "question_german": "Die parlamentarische Opposition im Deutschen Bundestag …",
     "question_english": "The parliamentary opposition in the German Bundestag ...",
+    "question_arabic": "المعارضة البرلمانية في البوندستاغ الألماني ...",
     "answers": [
       {
         "letter": "A",
         "text_german": "bestimmt, wer im Bundesrat sitzt.",
         "text_english": "Determines who sits in the Federal Council.",
+        "text_arabic": "تحدد من يجلس في المجلس الفيدرالي.",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "schlägt die Regierungschefs/Regierungschefinnen der Länder vor.",
         "text_english": "Proposes the heads of government of the countries.",
+        "text_arabic": "تقترح رؤساء حكومات الولايات.",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "kontrolliert die Regierung.",
         "text_english": "Controls the government.",
+        "text_arabic": "تراقب الحكومة.",
         "is_correct": true
       },
       {
         "letter": "D",
         "text_german": "entscheidet, wer Bundesminister/Bundesministerin wird.",
         "text_english": "Decides who becomes federal minister.",
+        "text_arabic": "تقرر من يصبح وزيرًا فيدراليًا.",
         "is_correct": false
       }
     ],
@@ -168,29 +193,34 @@
     "question_number": 179,
     "question_german": "Wie nennt man in Deutschland die Vereinigung von Abgeordneten einer Partei im Parlament?",
     "question_english": "What do you call the association of members of a party in parliament in Germany?",
+    "question_arabic": "ماذا يسمى اتحاد نواب حزب معين في البرلمان في ألمانيا؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "Fraktion",
         "text_english": "Coalition party",
+        "text_arabic": "كتلة برلمانية (فراكسيون)",
         "is_correct": true
       },
       {
         "letter": "B",
         "text_german": "Opposition",
         "text_english": "Opposition",
+        "text_arabic": "معارضة",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "Ältestenrat",
         "text_english": "Council of Elders",
+        "text_arabic": "مجلس الشيوخ",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "Verband",
         "text_english": "Association",
+        "text_arabic": "جمعية",
         "is_correct": false
       }
     ],
@@ -201,29 +231,34 @@
     "question_number": 180,
     "question_german": "Die deutschen Bundesländer wirken an der Gesetzgebung des Bundes mit durch …",
     "question_english": "The German states participate in federal legislation through ...",
+    "question_arabic": "تشارك الولايات الفيدرالية الألمانية في التشريع الفيدرالي من خلال ...",
     "answers": [
       {
         "letter": "A",
         "text_german": "den Bundestag.",
         "text_english": "The Bundestag.",
+        "text_arabic": "البوندستاغ.",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "die Bundesregierung.",
         "text_english": "The federal government.",
+        "text_arabic": "الحكومة الفيدرالية.",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "den Bundesrat.",
         "text_english": "The Federal Council.",
+        "text_arabic": "المجلس الفيدرالي (البوندسرات)",
         "is_correct": true
       },
       {
         "letter": "D",
         "text_german": "die Bundesversammlung.",
         "text_english": "the Federal Assembly.",
+        "text_arabic": "الجمعية الفيدرالية.",
         "is_correct": false
       }
     ],
@@ -234,29 +269,34 @@
     "question_number": 181,
     "question_german": "In Deutschland kann ein Regierungswechsel in einem Bundesland Auswirkungen auf die Bundespolitik haben. Das Regieren wird …",
     "question_english": "In Germany, a change of government in a federal state can have an impact on federal politics. Governing will...",
+    "question_arabic": "في ألمانيا، يمكن أن يكون لتغيير الحكومة في ولاية فيدرالية تأثير على السياسة الفيدرالية. سيصبح الحكم ...",
     "answers": [
       {
         "letter": "A",
         "text_german": "leichter, wenn dadurch neue Parteien in den Bundesrat kommen.",
         "text_english": "Easier if new parties enter the Bundesrat as a result.",
+        "text_arabic": "أسهل إذا دخلت أحزاب جديدة إلى المجلس الفيدرالي نتيجة لذلك.",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "leichter, wenn es sich um ein reiches Bundesland handelt.",
         "text_english": "Easier if it is a rich state.",
+        "text_arabic": "أسهل إذا كانت الولاية غنية.",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "schwieriger, wenn sich dadurch die Mehrheit im Bundestag ändert.",
         "text_english": "More difficult if this changes the majority in the Bundestag.",
+        "text_arabic": "أصعب إذا تغيرت الأغلبية في البوندستاغ نتيجة لذلك.",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "schwieriger, wenn dadurch die Mehrheit im Bundesrat verändert wird.",
         "text_english": "More difficult if this changes the majority in the Bundesrat.",
+        "text_arabic": "أصعب إذا تغيرت الأغلبية في المجلس الفيدرالي (البوندسرات) نتيجة لذلك.",
         "is_correct": true
       }
     ],
@@ -267,29 +307,34 @@
     "question_number": 182,
     "question_german": "Was bedeutet die Abkürzung CSU in Deutschland?",
     "question_english": "What does the abbreviation CSU mean in Germany?",
+    "question_arabic": "ماذا تعني اختصار CSU في ألمانيا؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "Christlich Süddeutsche Union",
         "text_english": "",
+        "text_arabic": "الاتحاد المسيحي لجنوب ألمانيا",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "Christlich Sozialer Unternehmerverband",
         "text_english": "",
+        "text_arabic": "جمعية رجال الأعمال المسيحيين الاجتماعيين",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "Christlich Soziale Union",
         "text_english": "",
+        "text_arabic": "الاتحاد المسيحي الاجتماعي",
         "is_correct": true
       },
       {
         "letter": "D",
         "text_german": "Christlich Sichere Union",
         "text_english": "",
+        "text_arabic": "الاتحاد المسيحي الآمن",
         "is_correct": false
       }
     ],
@@ -300,29 +345,34 @@
     "question_number": 183,
     "question_german": "Je mehr \"Zweitstimmen\" eine Partei bei einer Bundestagswahl bekommt, desto …",
     "question_english": "The more “second votes” a party gets in a federal election, the …",
+    "question_arabic": "كلما حصل حزب على المزيد من \"الأصوات الثانية\" في انتخابات البوندستاغ، ...",
     "answers": [
       {
         "letter": "A",
         "text_german": "mehr Sitze erhält die Partei im Parlament.",
         "text_english": "More seats the party receives in parliament.",
+        "text_arabic": "كلما حصل الحزب على مقاعد أكثر في البرلمان.",
         "is_correct": true
       },
       {
         "letter": "B",
         "text_german": "größer ist das Risiko, eine Koalition bilden zu müssen.",
         "text_english": "The risk of having to form a coalition is greater.",
+        "text_arabic": "كلما زادت مخاطر الحاجة إلى تشكيل ائتلاف.",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "weniger Erststimmen kann sie haben.",
         "text_english": "It can have fewer first votes.",
+        "text_arabic": "يمكن أن يحصل على أصوات أولى أقل.",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "mehr Direktkandidaten der Partei ziehen ins Parlament ein.",
         "text_english": "More direct party candidates enter parliament.",
+        "text_arabic": "يدخل المزيد من مرشحي الحزب المباشرين إلى البرلمان.",
         "is_correct": false
       }
     ],
@@ -333,29 +383,34 @@
     "question_number": 184,
     "question_german": "Ab welchem Alter darf man in Deutschland an der Wahl zum Deutschen Bundestag teilnehmen?",
     "question_english": "From what age may one vote in elections to the German Bundestag in Germany?",
+    "question_arabic": "من أي عمر يمكن للمرء المشاركة في انتخابات البوندستاغ الألماني؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "23",
         "text_english": "",
+        "text_arabic": "23",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "21",
         "text_english": "",
+        "text_arabic": "21",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "16",
         "text_english": "",
+        "text_arabic": "16",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "18",
         "text_english": "",
+        "text_arabic": "18",
         "is_correct": true
       }
     ],
@@ -366,29 +421,34 @@
     "question_number": 185,
     "question_german": "Wenn Abgeordnete im Deutschen Bundestag ihre Fraktion wechseln, …",
     "question_english": "When members of the German Bundestag change their parliamentary group, ...",
+    "question_arabic": "عندما يغير النواب في البوندستاغ الألماني كتلتهم البرلمانية، ...",
     "answers": [
       {
         "letter": "A",
         "text_german": "kann die Regierung ihre Mehrheit verlieren.",
         "text_english": "The government may lose its majority.",
+        "text_arabic": "قد تفقد الحكومة أغلبيتها.",
         "is_correct": true
       },
       {
         "letter": "B",
         "text_german": "muss der Bundespräsident/die Bundespräsidentin zuvor sein/ihr Einverständnis geben.",
         "text_english": "The Federal President must give his/her consent beforehand.",
+        "text_arabic": "يجب أن يعطي الرئيس/ة الفيدرالي/ة موافقته/ا مسبقًا.",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "dürfen die Wähler/Wählerinnen dieser Abgeordneten noch einmal wählen.",
         "text_english": "The voters of these MPs may vote again.",
+        "text_arabic": "يمكن للناخبين/الناخبات لهؤلاء النواب التصويت مرة أخرى.",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "dürfen sie nicht mehr an den Sitzungen des Parlaments teilnehmen",
         "text_english": "They are no longer allowed to attend the meetings of the parliament",
+        "text_arabic": "لا يُسمح لهم بعد ذلك بحضور جلسات البرلمان",
         "is_correct": false
       }
     ],
@@ -399,29 +459,34 @@
     "question_number": 186,
     "question_german": "Was wird in Deutschland als \"Ampelkoalition\" bezeichnet? Die Zusammenarbeit …",
     "question_english": "What is called a 'traffic light coalition' in Germany? The cooperation ...",
+    "question_arabic": "ما الذي يسمى في ألمانيا \"ائتلاف إشارة المرور\"؟ التعاون ...",
     "answers": [
       {
         "letter": "A",
         "text_german": "von CSU, Die LINKE und Bündnis 90/Die Grünen in einer Regierung",
         "text_english": "Of CSU, The LINKE Party and Alliance 90/Die Grünen in a government",
+        "text_arabic": "بين CSU، دي لينكه وتحالف 90/الخضر في حكومة واحدة",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "der Bundestagsfraktionen von CDU und SPD",
         "text_english": "The parliamentary groups of the CDU and SPD",
+        "text_arabic": "بين الكتل البرلمانية لـ CDU و SPD",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "der Bundestagsfraktionen von CDU und CSU",
         "text_english": "The parliamentary groups of the CDU and CSU",
+        "text_arabic": "بين الكتل البرلمانية لـ CDU و CSU",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "von SPD, FDP und Bündnis 90/Die Grünen in einer Regierung",
         "text_english": "SPD, FDP and Bündnis 90/Die Grünen in one government",
+        "text_arabic": "بين SPD، FDP وتحالف 90/الخضر في حكومة واحدة",
         "is_correct": true
       }
     ],
@@ -432,29 +497,34 @@
     "question_number": 187,
     "question_german": "Was ist eine Aufgabe von Wahlhelferinnen/Wahlhelfern in Deutschland?",
     "question_english": "What is the task of election workers in Germany?",
+    "question_arabic": "ما هي مهمة العاملين في الانتخابات في ألمانيا؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "Sie geben Zwischenergebnisse an die Medien weiter.",
         "text_english": "They pass on interim results to the media.",
+        "text_arabic": "ينقلون النتائج المؤقتة إلى وسائل الإعلام.",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "Sie helfen alten Menschen bei der Stimmabgabe in der Wahlkabine.",
         "text_english": "They help old people to vote in the voting booth.",
+        "text_arabic": "يساعدون كبار السن في التصويت داخل كابينة الاقتراع.",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "Sie zählen die Stimmen nach dem Ende der Wahl.",
         "text_english": "They count the votes after the end of the election.",
+        "text_arabic": "يعدون الأصوات بعد انتهاء الانتخابات.",
         "is_correct": true
       },
       {
         "letter": "D",
         "text_german": "Sie schreiben die Wahlbenachrichtigungen vor der Wahl.",
         "text_english": "They write the voting notices before the election.",
+        "text_arabic": "يكتبون إشعارات التصويت قبل الانتخابات.",
         "is_correct": false
       }
     ],
@@ -465,29 +535,34 @@
     "question_number": 188,
     "question_german": "In Deutschland helfen ehrenamtliche Wahlhelfer und Wahlhelferinnen bei den Wahlen. Was ist eine Aufgabe von Wahlhelfern/Wahlhelferinnen?",
     "question_english": "n Germany, volunteer poll workers help with the elections. What is the task of election workers?",
+    "question_arabic": "في ألمانيا، يساعد متطوعو الانتخابات في الانتخابات. ما هي مهمة العاملين في الانتخابات؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "Sie schreiben Karten und Briefe mit der Angabe des Wahllokals.",
         "text_english": "They write cards and letters indicating the polling station.",
+        "text_arabic": "يكتبون بطاقات ورسائل تشير إلى مركز الاقتراع.",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "Sie geben Zwischenergebnisse an Journalisten weiter.",
         "text_english": "They pass on interim results to journalists.",
+        "text_arabic": "ينقلون النتائج المؤقتة إلى الصحفيين.",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "Sie zählen die Stimmen nach dem Ende der Wahl.",
         "text_english": "They count the votes after the end of the election.",
+        "text_arabic": "يعدون الأصوات بعد انتهاء الانتخابات.",
         "is_correct": true
       },
       {
         "letter": "D",
         "text_german": "Sie helfen Kindern und alten Menschen beim Wählen.",
         "text_english": "They help children and old people to vote.",
+        "text_arabic": "يساعدون الأطفال وكبار السن في التصويت.",
         "is_correct": false
       }
     ],
@@ -498,29 +573,34 @@
     "question_number": 189,
     "question_german": "Für wie viele Jahre wird der Bundestag in Deutschland gewählt?",
     "question_english": "For how many years is the Bundestag elected in Germany?",
+    "question_arabic": "لمدة كم سنة يُنتخب البوندستاغ في ألمانيا؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "2 Jahre",
         "text_english": "2 years",
+        "text_arabic": "سنتان",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "4 Jahre",
         "text_english": "4 years",
+        "text_arabic": "أربع سنوات",
         "is_correct": true
       },
       {
         "letter": "C",
         "text_german": "6 Jahre",
         "text_english": "6 years",
+        "text_arabic": "ست سنوات",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "8 Jahre",
         "text_english": "8 years",
+        "text_arabic": "ثماني سنوات",
         "is_correct": false
       }
     ],
@@ -531,29 +611,34 @@
     "question_number": 190,
     "question_german": "Bei einer Bundestagswahl in Deutschland darf jeder wählen, die/der …",
     "question_english": "In a Bundestag election in Germany, anyone may vote who ...",
+    "question_arabic": "في انتخابات البوندستاغ في ألمانيا، يمكن لأي شخص التصويت إذا كان ...",
     "answers": [
       {
         "letter": "A",
         "text_german": "seit mindestens 3 Jahren in der Bundesrepublik Deutschland lebt.",
         "text_english": "Has lived in the Federal Republic of Germany for at least 3 years.",
+        "text_arabic": "يعيش في جمهورية ألمانيا الاتحادية منذ ثلاث سنوات على الأقل.",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "Bürger/Bürgerin der Bundesrepublik Deutschland ist und mindestens 21 Jahre alt ist.",
         "text_english": "Is a citizen of the Federal Republic of Germany and is at least 21 years old.",
+        "text_arabic": "مواطن/ة في جمهورية ألمانيا الاتحادية ويبلغ من العمر 21 عامًا على الأقل.",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "in der Bundesrepublik Deutschland wohnt und wählen möchte.",
         "text_english": "Lives in the Federal Republic of Germany and wants to vote.",
+        "text_arabic": "يعيش في جمهورية ألمانيا الاتحادية ويرغب في التصويت.",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "Bürger/Bürgerin der Bundesrepublik Deutschland ist und mindestens 18 Jahre alt ist.",
         "text_english": "Is a citizen of the Federal Republic of Germany and is at least 18 years old.",
+        "text_arabic": "مواطن/ة في جمهورية ألمانيا الاتحادية ويبلغ من العمر 18 عامًا على الأقل.",
         "is_correct": true
       }
     ],
@@ -564,29 +649,34 @@
     "question_number": 191,
     "question_german": "Wie oft gibt es normalerweise Bundestagswahlen in Deutschland?",
     "question_english": "How often are there usually federal elections in Germany?",
+    "question_arabic": "كم مرة تُجرى عادةً انتخابات البوندستاغ في ألمانيا؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "alle drei Jahre",
         "text_english": "Every three years",
+        "text_arabic": "كل ثلاث سنوات",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "alle vier Jahre",
         "text_english": "Every four years",
+        "text_arabic": "كل أربع سنوات",
         "is_correct": true
       },
       {
         "letter": "C",
         "text_german": "alle fünf Jahre",
         "text_english": "Every five years",
+        "text_arabic": "كل خمس سنوات",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "alle sechs Jahre",
         "text_english": "Every six years",
+        "text_arabic": "كل ست سنوات",
         "is_correct": false
       }
     ],
@@ -597,29 +687,34 @@
     "question_number": 192,
     "question_german": "Für wie viele Jahre wird der Bundestag in Deutschland gewählt?",
     "question_english": "For how many years is the Bundestag elected in Germany?",
+    "question_arabic": "لمدة كم سنة يُنتخب البوندستاغ في ألمانيا؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "2 Jahre",
         "text_english": "2 years",
+        "text_arabic": "سنتان",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "3 Jahre",
         "text_english": "3 years",
+        "text_arabic": "ثلاث سنوات",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "4 Jahre",
         "text_english": "4 years",
+        "text_arabic": "أربع سنوات",
         "is_correct": true
       },
       {
         "letter": "D",
         "text_german": "5 Jahre",
         "text_english": "5 years",
+        "text_arabic": "خمس سنوات",
         "is_correct": false
       }
     ],
@@ -630,29 +725,34 @@
     "question_number": 193,
     "question_german": "Woraus begründet sich Deutschlands besondere Verantwortung für Israel?",
     "question_english": "What is the basis for Germany's special responsibility for Israel?",
+    "question_arabic": "ما هو أساس المسؤولية الخاصة لألمانيا تجاه إسرائيل؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "aus dem Grundgesetz der Bundesrepublik Deutschland",
         "text_english": "The Basic Law of the Federal Republic of Germany",
+        "text_arabic": "من القانون الأساسي لجمهورية ألمانيا الاتحادية",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "aus der Mitgliedschaft in der Europäischen Union (EU)",
         "text_english": "Membership in the European Union (EU)",
+        "text_arabic": "من العضوية في الاتحاد الأوروبي (EU)",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "aus den nationalsozialistischen Verbrechen gegen Juden",
         "text_english": "The National Socialist crimes against Jews",
+        "text_arabic": "من الجرائم النازية ضد اليهود",
         "is_correct": true
       },
       {
         "letter": "D",
         "text_german": "aus der christlichen Tradition",
         "text_english": "The Christian tradition",
+        "text_arabic": "من التقاليد المسيحية",
         "is_correct": false
       }
     ],
@@ -663,29 +763,34 @@
     "question_number": 194,
     "question_german": "Die Wahlen in Deutschland sind …",
     "question_english": "The elections in germany are …",
+    "question_arabic": "الانتخابات في ألمانيا ...",
     "answers": [
       {
         "letter": "A",
         "text_german": "berufsbezogen.",
         "text_english": "Job related",
+        "text_arabic": "مرتبطة بالمهنة.",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "speziell.",
         "text_english": "Special",
+        "text_arabic": "خاصة.",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "geschlechtsabhängig.",
         "text_english": "Gender dependent.",
+        "text_arabic": "تعتمد على الجنس.",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "geheim.",
         "text_english": "Secret",
+        "text_arabic": "سرية.",
         "is_correct": true
       }
     ],
@@ -696,29 +801,34 @@
     "question_number": 195,
     "question_german": "Wahlen in Deutschland gewinnt die Partei, die …",
     "question_english": "Elections in Germany are won by the party that ...",
+    "question_arabic": "يفوز في الانتخابات في ألمانيا الحزب الذي ...",
     "answers": [
       {
         "letter": "A",
         "text_german": "die meisten Männer mehrheitlich gewählt haben.",
         "text_english": "The majority of men voted.",
+        "text_arabic": "صوت له معظم الرجال.",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "die meisten Stimmen bei den Arbeitern/Arbeiterinnen bekommen hat.",
         "text_english": "Has received the most votes among the workers.",
+        "text_arabic": "حصل على معظم الأصوات بين العمال.",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "die meisten Erststimmen für ihren Kanzlerkandidaten /ihre Kanzlerkandidatin erhalten hat.",
         "text_english": "Has received the most first-place votes for its candidate for chancellor.",
+        "text_arabic": "حصل على معظم الأصوات الأولى لمرشحه/مرشحته لمنصب المستشار.",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "die meisten Stimmen bekommt.",
         "text_english": "Gets the most votes.",
+        "text_arabic": "يحصل على أكبر عدد من الأصوات.",
         "is_correct": true
       }
     ],
@@ -729,29 +839,34 @@
     "question_number": 196,
     "question_german": "An demokratischen Wahlen in Deutschland teilzunehmen ist …",
     "question_english": "Participating in democratic elections in Germany is...",
+    "question_arabic": "المشاركة في الانتخابات الديمقراطية في ألمانيا هي ...",
     "answers": [
       {
         "letter": "A",
         "text_german": "ein Zwang.",
         "text_english": "A compulsion.",
+        "text_arabic": "إجبار.",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "eine Last.",
         "text_english": "A burden.",
+        "text_arabic": "عبء.",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "ein Recht.",
         "text_english": "A right.",
+        "text_arabic": "حق.",
         "is_correct": true
       },
       {
         "letter": "D",
         "text_german": "eine Pflicht.",
         "text_english": "A duty.",
+        "text_arabic": "واجب.",
         "is_correct": false
       }
     ],
@@ -762,29 +877,34 @@
     "question_number": 197,
     "question_german": "Was bedeutet \"aktives Wahlrecht\" in Deutschland?",
     "question_english": "What does 'active voting rights' mean in Germany?",
+    "question_arabic": "ماذا يعني \"حق التصويت النشط\" في ألمانيا؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "Man muss zur Auszählung der Stimmen gehen.",
         "text_english": "You have to go to the counting of the votes.",
+        "text_arabic": "يجب أن تذهب لعد الأصوات.",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "Man kann wählen.",
         "text_english": "You can choose.",
+        "text_arabic": "يمكنك التصويت.",
         "is_correct": true
       },
       {
         "letter": "C",
         "text_german": "Man kann gewählt werden.",
         "text_english": "One can be elected.",
+        "text_arabic": "يمكن أن يتم انتخابك.",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "Man muss wählen gehen.",
         "text_english": "You have to go vote.",
+        "text_arabic": "يجب أن تذهب للتصويت.",
         "is_correct": false
       }
     ],
@@ -795,29 +915,34 @@
     "question_number": 198,
     "question_german": "Wenn Sie bei einer Bundestagswahl in Deutschland wählen dürfen, heißt das …",
     "question_english": "If you are allowed to vote in a federal election in Germany, that means...",
+    "question_arabic": "إذا كان مسموحًا لك بالتصويت في انتخابات البوندستاغ في ألمانيا، فهذا يعني ...",
     "answers": [
       {
         "letter": "A",
         "text_german": "aktives Wahlrecht.",
         "text_english": "Right to vote.",
+        "text_arabic": "حق التصويت النشط.",
         "is_correct": true
       },
       {
         "letter": "B",
         "text_german": "aktiver Wahlkampf.",
         "text_english": "Active campaign.",
+        "text_arabic": "حملة انتخابية نشطة.",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "aktive Wahlkampagne.",
         "text_english": "Active election campaign.",
+        "text_arabic": "حملة انتخابية نشطة.",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "aktives Wahlverfahren.",
         "text_english": "Active voting procedure.",
+        "text_arabic": "إجراء تصويت نشط.",
         "is_correct": false
       }
     ],
@@ -828,29 +953,34 @@
     "question_number": 199,
     "question_german": "Wie viel Prozent der Zweitstimmen müssen Parteien mindestens bekommen, um in den Deutschen Bundestag gewählt zu werden?",
     "question_english": "What is the minimum percentage of second votes that parties must receive in order to be elected to the German Bundestag?",
+    "question_arabic": "ما هي النسبة الدنيا من الأصوات الثانية التي يجب أن تحصل عليها الأحزاب لكي تُنتخب إلى البوندستاغ الألماني؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "3%",
         "text_english": "",
+        "text_arabic": "3%",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "4%",
         "text_english": "",
+        "text_arabic": "4%",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "5%",
         "text_english": "",
+        "text_arabic": "5%",
         "is_correct": true
       },
       {
         "letter": "D",
         "text_german": "6%",
         "text_english": "",
+        "text_arabic": "6%",
         "is_correct": false
       }
     ],
@@ -861,29 +991,34 @@
     "question_number": 200,
     "question_german": "Was ist ein Beispiel für antisemitisches Verhalten?",
     "question_english": "What is an example of anti-Semitic behavior?",
+    "question_arabic": "ما هو مثال على سلوك معادٍ للسامية؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "ein jüdisches Fest besuchen",
         "text_english": "Attending a Jewish festival.",
+        "text_arabic": "حضور مهرجان يهودي.",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "den Holocaust leugnen",
         "text_english": "Denying the Holocaust.",
+        "text_arabic": "إنكار الهولوكوست.",
         "is_correct": true
       },
       {
         "letter": "C",
         "text_german": "gegen Juden Fußball spielen",
         "text_english": "Playing soccer against Jews.",
+        "text_arabic": "لعب كرة القدم ضد اليهود.",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "die israelische Regierung kritisieren",
         "text_english": "Criticizing the Israeli government.",
+        "text_arabic": "انتقاد الحكومة الإسرائيلية.",
         "is_correct": false
       }
     ],
@@ -894,29 +1029,34 @@
     "question_number": 201,
     "question_german": "Wahlen in Deutschland sind frei. Was bedeutet das?",
     "question_english": "Elections in Germany are free. What does that mean?",
+    "question_arabic": "الانتخابات في ألمانيا حرة. ماذا يعني ذلك؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "Jede Person kann ohne Zwang entscheiden, ob sie wählen möchte und wen sie wählen möchte.",
         "text_english": "Each person can decide without coercion whether to vote and who to vote for.",
+        "text_arabic": "يمكن لكل شخص أن يقرر دون إكراه ما إذا كان يريد التصويت ولمن يصوت.",
         "is_correct": true
       },
       {
         "letter": "B",
         "text_german": "Ich kann frei entscheiden, wo ich wählen gehen möchte.",
         "text_english": "I am free to choose where to vote.",
+        "text_arabic": "يمكنني أن أقرر بحرية أين أريد أن أصوت.",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "Alle verurteilten Straftäter/Straftäterinnen dürfen nicht wählen.",
         "text_english": "All convicted criminals are not allowed to vote.",
+        "text_arabic": "لا يُسمح لجميع المجرمين المدانين بالتصويت.",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "Wenn ich wählen gehen möchte, muss mein Arbeitgeber/meine Arbeitgeberin mir frei geben",
         "text_english": "If I want to vote, my employer has to give me the time off.",
+        "text_arabic": "إذا أردت التصويت، يجب على صاحب العمل أن يمنحني إجازة.",
         "is_correct": false
       }
     ],
@@ -927,29 +1067,34 @@
     "question_number": 202,
     "question_german": "Das Wahlsystem in Deutschland ist ein …",
     "question_english": "The electoral system in Germany is a ...",
+    "question_arabic": "نظام الانتخابات في ألمانيا هو ...",
     "answers": [
       {
         "letter": "A",
         "text_german": "allgemeines Männerwahlrecht.",
         "text_english": "Universal male suffrage.",
+        "text_arabic": "حق التصويت العام للرجال.",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "Mehrheits- und Verhältniswahlrecht.",
         "text_english": "Majority and proportional representation.",
+        "text_arabic": "نظام الأغلبية والتمثيل النسبي.",
         "is_correct": true
       },
       {
         "letter": "C",
         "text_german": "Dreiklassenwahlrecht.",
         "text_english": "Three-class suffrage.",
+        "text_arabic": "حق التصويت من ثلاث طبقات.",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "Zensuswahlrecht.",
         "text_english": "Census Voting Rights.",
+        "text_arabic": "حق التصويت حسب التعداد.",
         "is_correct": false
       }
     ],
@@ -960,29 +1105,34 @@
     "question_number": 203,
     "question_german": "Eine Partei möchte in den Deutschen Bundestag. Sie muss aber einen Mindestanteil an Wählerstimmen haben. Das heißt …",
     "question_english": "A party wants to be elected to the German Bundestag. But it must have a minimum share of the electoral vote. That is ...",
+    "question_arabic": "حزب يريد أن يُنتخب إلى البوندستاغ الألماني. لكنه يجب أن يحصل على حد أدنى من أصوات الناخبين. هذا يعني ...",
     "answers": [
       {
         "letter": "A",
         "text_german": "Basiswert.",
         "text_english": "Underlying",
+        "text_arabic": "القيمة الأساسية.",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "5 %-Hürde.",
         "text_english": "5% threshold.",
+        "text_arabic": "عتبة 5%.",
         "is_correct": true
       },
       {
         "letter": "C",
         "text_german": "Richtlinie.",
         "text_english": "Policy",
+        "text_arabic": "سياسة.",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "Zulassungsgrenze.",
         "text_english": "Admission limit",
+        "text_arabic": "حد القبول.",
         "is_correct": false
       }
     ],
@@ -993,29 +1143,34 @@
     "question_number": 204,
     "question_german": "Welchem Grundsatz unterliegen Wahlen in Deutschland? Wahlen in Deutschland sind …",
     "question_english": "What principle are elections in Germany subject to? Elections in Germany are...",
+    "question_arabic": "ما هو المبدأ الذي تخضع له الانتخابات في ألمانيا؟ الانتخابات في ألمانيا ...",
     "answers": [
       {
         "letter": "A",
         "text_german": "geschlossen, gleich, sicher.",
         "text_english": "closed, equal, safe.",
+        "text_arabic": "مغلقة، متساوية، آمنة.",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "frei, gleich, geheim.",
         "text_english": "free, equal, secret.",
+        "text_arabic": "حرة، متساوية، سرية.",
         "is_correct": true
       },
       {
         "letter": "C",
         "text_german": "sicher, offen, freiwillig.",
         "text_english": "safe, open, voluntary.",
+        "text_arabic": "آمنة، مفتوحة، طوعية.",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "offen, sicher, frei.",
         "text_english": "open, safe, free.",
+        "text_arabic": "مفتوحة، آمنة، حرة.",
         "is_correct": false
       }
     ],
@@ -1026,29 +1181,34 @@
     "question_number": 205,
     "question_german": "Was ist in Deutschland die \"5 %-Hürde\"?",
     "question_english": "What is the '5% hurdle' in Germany?",
+    "question_arabic": "ما هي \"عتبة 5%\" في ألمانيا؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "Anwesenheitskontrolle im Bundestag für Abstimmungen",
         "text_english": "Attendance control in the Bundestag for votes",
+        "text_arabic": "مراقبة الحضور في البوندستاغ للتصويت",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "Mindestanteil an Wählerstimmen, um ins Parlament zu kommen",
         "text_english": "Minimum percentage of votes to get into Parliament",
+        "text_arabic": "الحد الأدنى من أصوات الناخبين لدخول البرلمان",
         "is_correct": true
       },
       {
         "letter": "C",
         "text_german": "Anwesenheitskontrolle im Bundesrat für Abstimmungen",
         "text_english": "Attendance control in the Bundesrat for votes",
+        "text_arabic": "مراقبة الحضور في المجلس الفيدرالي للتصويت",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "Abstimmungsregelung im Bundestag für kleine Parteien",
         "text_english": "Voting rules in the Bundestag for small parties",
+        "text_arabic": "قواعد التصويت في البوندستاغ للأحزاب الصغيرة",
         "is_correct": false
       }
     ],
@@ -1059,29 +1219,34 @@
     "question_number": 206,
     "question_german": "Die Bundestagswahl in Deutschland ist die Wahl …",
     "question_english": "The Bundestag election in Germany is the election ...",
+    "question_arabic": "انتخابات البوندستاغ في ألمانيا هي انتخاب ...",
     "answers": [
       {
         "letter": "A",
         "text_german": "der Parlamente der Länder.",
         "text_english": "of the parliaments of the federal states.",
+        "text_arabic": "برلمانات الولايات.",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "des Bundespräsidenten/der Bundespräsidentin.",
         "text_english": "of the Federal President.",
+        "text_arabic": "الرئيس/ة الفيدرالي/ة.",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "des Bundeskanzlers/der Bundeskanzlerin.",
         "text_english": "of the Federal Chancellor.",
+        "text_arabic": "المستشار/ة الفيدرالي/ة.",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "des Parlaments für Deutschland.",
         "text_english": "of Parliament for Germany.",
+        "text_arabic": "برلمان ألمانيا.",
         "is_correct": true
       }
     ],
@@ -1092,29 +1257,34 @@
     "question_number": 207,
     "question_german": "In einer Demokratie ist eine Funktion von regelmäßigen Wahlen, …",
     "question_english": "In a democracy, a function of regular elections, ...",
+    "question_arabic": "في الديمقراطية، وظيفة الانتخابات المنتظمة هي ...",
     "answers": [
       {
         "letter": "A",
         "text_german": "im Land bestehende Gesetze beizubehalten.",
         "text_english": "Maintain existing laws in the country.",
+        "text_arabic": "الحفاظ على القوانين القائمة في البلاد.",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "den Armen mehr Macht zu geben.",
         "text_english": "Empower the poor.",
+        "text_arabic": "منح الفقراء مزيدًا من القوة.",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "die Bürger und Bürgerinnen zu zwingen, ihre Stimme abzugeben.",
         "text_english": "Compel citizens to cast their votes.",
+        "text_arabic": "إجبار المواطنين والمواطنات على التصويت.",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "nach dem Willen der Wählermehrheit den Wechsel der Regierung zu ermöglichen.",
         "text_english": "To enable a change of government according to the will of the majority of voters.",
+        "text_arabic": "تمكين تغيير الحكومة حسب إرادة أغلبية الناخبين.",
         "is_correct": true
       }
     ],
@@ -1125,29 +1295,34 @@
     "question_number": 208,
     "question_german": "Was bekommen wahlberechtigte Bürgerinnen und Bürger in Deutschland vor einer Wahl?",
     "question_english": "What do eligible voters in Germany get before an election?",
+    "question_arabic": "ماذا يحصل عليه المواطنون المؤهلون للتصويت في ألمانيا قبل الانتخابات؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "eine Benachrichtigung von der Bundesversammlung",
         "text_english": "A notification from the Federal Assembly",
+        "text_arabic": "إشعار من الجمعية الفيدرالية",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "eine Benachrichtigung vom Pfarramt",
         "text_english": "A notification from the parish office",
+        "text_arabic": "إشعار من مكتب الرعية",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "eine Wahlbenachrichtigung von der Gemeinde",
         "text_english": "A voting notification from the municipality",
+        "text_arabic": "إشعار انتخابي من البلدية",
         "is_correct": true
       },
       {
         "letter": "D",
         "text_german": "eine Wahlerlaubnis vom Bundespräsidenten/von der Bundespräsidentin",
         "text_english": "An election permit from the Federal President",
+        "text_arabic": "تصريح انتخابي من الرئيس/ة الفيدرالي/ة",
         "is_correct": false
       }
     ],
@@ -1158,29 +1333,34 @@
     "question_number": 209,
     "question_german": "Warum gibt es die 5 %-Hürde im Wahlgesetz der Bundesrepublik Deutschland? Es gibt sie, weil …",
     "question_english": "Why is there a 5% hurdle in the electoral law of the Federal Republic of Germany? It exists because ...",
+    "question_arabic": "لماذا توجد عتبة 5% في قانون الانتخابات لجمهورية ألمانيا الاتحادية؟ توجد لأنها ...",
     "answers": [
       {
         "letter": "A",
         "text_german": "viele kleine Parteien die Regierungsbildung erschweren.",
         "text_english": "Many small parties make it difficult to form a government.",
+        "text_arabic": "العديد من الأحزاب الصغيرة تجعل تشكيل الحكومة صعبًا.",
         "is_correct": true
       },
       {
         "letter": "B",
         "text_german": "die kleinen Parteien nicht so viel Geld haben, um die Politiker und Politikerinnen zu bezahlen.",
         "text_english": "The small parties do not have enough money to pay the politicians.",
+        "text_arabic": "الأحزاب الصغيرة ليس لديها ما يكفي من المال لدفع رواتب السياسيين والسياسيات.",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "die Programme von vielen kleinen Parteien viele Gemeinsamkeiten haben.",
         "text_english": "The programs of many small parties have a lot in common.",
+        "text_arabic": "برامج العديد من الأحزاب الصغيرة لديها الكثير من القواسم المشتركة.",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "die Bürgerinnen und Bürger bei vielen kleinen Parteien die Orientierung verlieren können.",
         "text_english": "The citizens can lose their orientation with many small parties.",
+        "text_arabic": "يمكن أن يفقد المواطنون والمواطنات الاتجاه مع وجود العديد من الأحزاب الصغيرة.",
         "is_correct": false
       }
     ],
@@ -1191,29 +1371,34 @@
     "question_number": 210,
     "question_german": "Parlamentsmitglieder, die von den Bürgerinnen und Bürgern gewählt werden, nennt man …",
     "question_english": "Members of parliament who are elected by citizens are called ...",
+    "question_arabic": "أعضاء البرلمان الذين يتم انتخابهم من قبل المواطنين والمواطنات يُسمون ...",
     "answers": [
       {
         "letter": "A",
         "text_german": "Botschafter/Botschafterinnen.",
         "text_english": "Ambassadors.",
+        "text_arabic": "سفراء/سفيرات.",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "Ministerpräsidenten/Ministerpräsidentinnen.",
         "text_english": "Prime Ministers.",
+        "text_arabic": "رؤساء وزراء.",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "Abgeordnete.",
         "text_english": "MPs.",
+        "text_arabic": "نواب.",
         "is_correct": true
       },
       {
         "letter": "D",
         "text_german": "Kanzler/Kanzlerinnen.",
         "text_english": "Chancellors.",
+        "text_arabic": "مستشارون/مستشارات.",
         "is_correct": false
       }
     ],
@@ -1224,29 +1409,34 @@
     "question_number": 211,
     "question_german": "Vom Volk gewählt wird in Deutschland …",
     "question_english": "The people vote in Germany...",
+    "question_arabic": "ما الذي ينتخبه الشعب في ألمانيا ...",
     "answers": [
       {
         "letter": "A",
         "text_german": "der Bundespräsident/die Bundespräsidentin.",
         "text_english": "The Federal President.",
+        "text_arabic": "الرئيس/ة الفيدرالي/ة.",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "der Bundestag.",
         "text_english": "The Bundestag.",
+        "text_arabic": "البوندستاغ.",
         "is_correct": true
       },
       {
         "letter": "C",
         "text_german": "der Ministerpräsident/die Ministerpräsidentin eines Bundeslandes.",
         "text_english": "The prime minister of a federal state.",
+        "text_arabic": "رئيس/ة وزراء ولاية فيدرالية.",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "der Bundeskanzler/die Bundeskanzlerin.",
         "text_english": "The Federal Chancellor.",
+        "text_arabic": "المستشار/ة الفيدرالي/ة.",
         "is_correct": false
       }
     ],
@@ -1257,29 +1447,34 @@
     "question_number": 212,
     "question_german": "Welcher Stimmzettel wäre bei einer Bundestagswahl gültig?",
     "question_english": "Which ballot would be valid in a federal election?",
+    "question_arabic": "أي ورقة اقتراع ستكون صالحة في انتخابات البوندستاغ؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "1",
         "text_english": "",
+        "text_arabic": "1",
         "is_correct": true
       },
       {
         "letter": "B",
         "text_german": "2",
         "text_english": "",
+        "text_arabic": "2",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "3",
         "text_english": "",
+        "text_arabic": "3",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "4",
         "text_english": "",
+        "text_arabic": "4",
         "is_correct": false
       }
     ],
@@ -1290,29 +1485,34 @@
     "question_number": 213,
     "question_german": "Was ist bei Bundestags- und Landtagswahlen in Deutschland erlaubt?",
     "question_english": "What is allowed in federal and state elections in Germany?",
+    "question_arabic": "ما هو المسموح به في انتخابات البوندستاغ وانتخابات الولايات في ألمانيا؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "Man kann durch Briefwahl seine Stimme abgeben.",
         "text_english": "You can cast your vote by postal vote.",
+        "text_arabic": "يمكنك التصويت عن طريق البريد.",
         "is_correct": true
       },
       {
         "letter": "B",
         "text_german": "Man kann am Wahltag telefonisch seine Stimme abgeben.",
         "text_english": "You can vote by phone on election day.",
+        "text_arabic": "يمكنك التصويت عبر الهاتف في يوم الانتخابات.",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "Kinder ab dem Alter von 14 Jahren dürfen wählen.",
         "text_english": "Children over the age of 14 are allowed to vote.",
+        "text_arabic": "يُسمح للأطفال من سن 14 عامًا بالتصويت.",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "Der Ehemann wählt für seine Frau mit.",
         "text_english": "The husband votes for his wife.",
+        "text_arabic": "يصوت الزوج نيابة عن زوجته.",
         "is_correct": false
       }
     ],

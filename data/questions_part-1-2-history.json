@@ -3,29 +3,34 @@
     "question_number": 36,
     "question_german": "In welchem Jahr wurde die Mauer in Berlin gebaut?",
     "question_english": "In which year was the Berlin Wall built?",
+    "question_arabic": "في أي عام تم بناء جدار برلين؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "1961",
         "text_english": "",
+        "text_arabic": "1961",
         "is_correct": true
       },
       {
         "letter": "B",
         "text_german": "1959",
         "text_english": "",
+        "text_arabic": "1959",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "1956",
         "text_english": "",
+        "text_arabic": "1956",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "1953",
         "text_english": "",
+        "text_arabic": "1953",
         "is_correct": false
       }
     ],
@@ -36,29 +41,34 @@
     "question_number": 37,
     "question_german": "Wann baute die DDR die Mauer in Berlin?",
     "question_english": "When did the DDR build the wall in Berlin?",
+    "question_arabic": "متى بنت ألمانيا الشرقية الجدار في برلين؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "1990",
         "text_english": "",
+        "text_arabic": "1990",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "1961",
         "text_english": "",
+        "text_arabic": "1961",
         "is_correct": true
       },
       {
         "letter": "C",
         "text_german": "1933",
         "text_english": "",
+        "text_arabic": "1933",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "1919",
         "text_english": "",
+        "text_arabic": "1919",
         "is_correct": false
       }
     ],
@@ -69,29 +79,34 @@
     "question_number": 38,
     "question_german": "Was bedeutet die Abkürzung DDR?",
     "question_english": "What does the abbreviation DDR mean?",
+    "question_arabic": "ماذا تعني اختصار DDR؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "Deutsche Demokratische Republik",
         "text_english": "German Democratic Republic",
+        "text_arabic": "جمهورية ألمانيا الديمقراطية",
         "is_correct": true
       },
       {
         "letter": "B",
         "text_german": "Dritte Deutsche Republik",
         "text_english": "Third German Republic",
+        "text_arabic": "الجمهورية الألمانية الثالثة",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "Dritter Deutscher Rundfunk",
         "text_english": "Third German Broadcasting",
+        "text_arabic": "هيئة الإذاعة الألمانية الثالثة",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "Die Deutsche Republik",
         "text_english": "The German Republic",
+        "text_arabic": "الجمهورية الألمانية",
         "is_correct": false
       }
     ],
@@ -102,29 +117,34 @@
     "question_number": 39,
     "question_german": "Wann wurde die Mauer in Berlin für alle geöffnet?",
     "question_english": "When was the Berlin Wall opened to everyone?",
+    "question_arabic": "متى تم فتح جدار برلين للجميع؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "1995",
         "text_english": "",
+        "text_arabic": "1995",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "1992",
         "text_english": "",
+        "text_arabic": "1992",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "1989",
         "text_english": "",
+        "text_arabic": "1989",
         "is_correct": true
       },
       {
         "letter": "D",
         "text_german": "1987",
         "text_english": "",
+        "text_arabic": "1987",
         "is_correct": false
       }
     ],
@@ -135,29 +155,34 @@
     "question_number": 40,
     "question_german": "Welches heutige deutsche Bundesland gehörte früher zum Gebiet der DDR?",
     "question_english": "Which present-day German state used to belong to the territory of the DDR?",
+    "question_arabic": "أي ولاية ألمانية حالية كانت جزءًا من أراضي ألمانيا الشرقية سابقًا؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "Hessen",
         "text_english": "",
+        "text_arabic": "هيسن",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "Saarland",
         "text_english": "",
+        "text_arabic": "زارلاند",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "Brandenburg",
         "text_english": "",
+        "text_arabic": "براندنبورغ",
         "is_correct": true
       },
       {
         "letter": "D",
         "text_german": "Bayern",
         "text_english": "",
+        "text_arabic": "بافاريا",
         "is_correct": false
       }
     ],
@@ -168,29 +193,34 @@
     "question_number": 41,
     "question_german": "Von 1961 bis 1989 war Berlin …",
     "question_english": "From 1961 to 1989, Berlin was ...",
+    "question_arabic": "من عام 1961 حتى 1989 كانت برلين ...",
     "answers": [
       {
         "letter": "A",
         "text_german": "durch eine Mauer geteilt.",
         "text_english": "Divided by a wall",
+        "text_arabic": "مقسمة بجدار.",
         "is_correct": true
       },
       {
         "letter": "B",
         "text_german": "ein eigener Staat.",
         "text_english": "A state of its own",
+        "text_arabic": "دولة مستقلة.",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "nur mit dem Flugzeug erreichbar.",
         "text_english": "Only accessible by plane",
+        "text_arabic": "يمكن الوصول إليها فقط بالطائرة.",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "ohne Bürgermeister.",
         "text_english": "Without mayor",
+        "text_arabic": "بدون عمدة.",
         "is_correct": false
       }
     ],
@@ -201,29 +231,34 @@
     "question_number": 42,
     "question_german": "Am 3. Oktober feiert man in Deutschland den Tag der Deutschen …",
     "question_english": "On October 3, Germany celebrates the Day of the German ...",
+    "question_arabic": "في 3 أكتوبر تحتفل ألمانيا بيوم ... الألماني",
     "answers": [
       {
         "letter": "A",
         "text_german": "Bundesländer.",
         "text_english": "Federal states",
+        "text_arabic": "الولايات الفيدرالية.",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "Einheit.",
         "text_english": "Unity",
+        "text_arabic": "الوحدة.",
         "is_correct": true
       },
       {
         "letter": "C",
         "text_german": ".",
         "text_english": "Nation",
+        "text_arabic": "الأمة.",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "Städte.",
         "text_english": "Cities",
+        "text_arabic": "المدن.",
         "is_correct": false
       }
     ],
@@ -234,29 +269,34 @@
     "question_number": 43,
     "question_german": "Welches heutige deutsche Bundesland gehörte früher zum Gebiet der DDR?",
     "question_english": "Which present-day German state used to belong to the territory of the DDR?",
+    "question_arabic": "أي ولاية ألمانية حالية كانت جزءًا من أراضي ألمانيا الشرقية سابقًا؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "Saarland",
         "text_english": "",
+        "text_arabic": "زارلاند",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "Nordrhein-Westfalen",
         "text_english": "",
+        "text_arabic": "شمال الراين-وستفاليا",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "Hessen",
         "text_english": "",
+        "text_arabic": "هيسن",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "Sachsen-Anhalt",
         "text_english": "",
+        "text_arabic": "ساكسونيا أنهالت",
         "is_correct": true
       }
     ],
@@ -267,29 +307,34 @@
     "question_number": 44,
     "question_german": "Warum nennt man die Zeit im Herbst 1989 in der DDR \"Die Wende\"? In dieser Zeit veränderte sich die DDR politisch …",
     "question_english": "Why is the time in autumn 1989 in the DDR called 'The Turn'? During this time, the DDR changed politically ...",
+    "question_arabic": "لماذا تسمى فترة خريف 1989 في ألمانيا الشرقية 'التحول'؟ في هذا الوقت تغيرت ألمانيا الشرقية سياسياً ...",
     "answers": [
       {
         "letter": "A",
         "text_german": "von einem religiösen Staat zu einem kommunistischen Staat.",
         "text_english": "From a religious state to a communist state.",
+        "text_arabic": "من دولة دينية إلى دولة شيوعية.",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "von einer Monarchie zur Sozialdemokratie",
         "text_english": "From a monarchy to social democracy",
+        "text_arabic": "من ملكية إلى ديمقراطية اجتماعية",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "von einer Diktatur zur Demokratie",
         "text_english": "From dictatorship to democracy",
+        "text_arabic": "من دكتاتورية إلى ديمقراطية",
         "is_correct": true
       },
       {
         "letter": "D",
         "text_german": "von einer liberalen Marktwirtschaft zum Sozialismus.",
         "text_english": "From a liberal market economy to socialism.",
+        "text_arabic": "من اقتصاد سوق ليبرالي إلى الاشتراكية.",
         "is_correct": false
       }
     ],
@@ -300,29 +345,34 @@
     "question_number": 45,
     "question_german": "Welches heutige deutsche Bundesland gehörte früher zum Gebiet der DDR?",
     "question_english": "Which present-day German state used to belong to the territory of the DDR?",
+    "question_arabic": "أي ولاية ألمانية حالية كانت جزءًا من أراضي ألمانيا الشرقية سابقًا؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "Hessen",
         "text_english": "",
+        "text_arabic": "هيسن",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "Bayern",
         "text_english": "",
+        "text_arabic": "بافاريا",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "Bremen",
         "text_english": "",
+        "text_arabic": "بريمن",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "Thüringen",
         "text_english": "",
+        "text_arabic": "تورينغن",
         "is_correct": true
       }
     ],
@@ -333,29 +383,34 @@
     "question_number": 46,
     "question_german": "Welches heutige deutsche Bundesland gehörte früher zum Gebiet der DDR?",
     "question_english": "Which present-day German state used to belong to the territory of the DDR?",
+    "question_arabic": "أي ولاية ألمانية حالية كانت جزءًا من أراضي ألمانيا الشرقية سابقًا؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "Baden-Württemberg",
         "text_english": "",
+        "text_arabic": "بادن-فورتمبيرغ",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "Sachsen",
         "text_english": "",
+        "text_arabic": "ساكسونيا",
         "is_correct": true
       },
       {
         "letter": "C",
         "text_german": "Bayern",
         "text_english": "",
+        "text_arabic": "بافاريا",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "Niedersachsen",
         "text_english": "",
+        "text_arabic": "ساكسونيا السفلى",
         "is_correct": false
       }
     ],
@@ -366,29 +421,34 @@
     "question_number": 47,
     "question_german": "Mit der Abkürzung \"Stasi\" meinte man in der DDR …",
     "question_english": "The abbreviation 'Stasi' was used in the DDR to mean ...",
+    "question_arabic": "كان يُقصد باختصار 'شتازي' في ألمانيا الشرقية ...",
     "answers": [
       {
         "letter": "A",
         "text_german": "das Ministerium für Volksbildung.",
         "text_english": "The Ministry of Public Education",
+        "text_arabic": "وزارة التعليم الشعبي.",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "eine regierende Partei.",
         "text_english": "A ruling party",
+        "text_arabic": "حزب حاكم.",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "das Parlament.",
         "text_english": "Parliament",
+        "text_arabic": "البرلمان.",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "das Ministerium fuеr Staatssicherheit.",
         "text_english": "The Ministry for State Security",
+        "text_arabic": "وزارة أمن الدولة.",
         "is_correct": true
       }
     ],
@@ -399,29 +459,34 @@
     "question_number": 48,
     "question_german": "Welches heutige deutsche Bundesland gehörte früher zum Gebiet der DDR?",
     "question_english": "Which present-day German state used to belong to the territory of the DDR?",
+    "question_arabic": "أي ولاية ألمانية حالية كانت جزءًا من أراضي ألمانيا الشرقية سابقًا؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "Saarland",
         "text_english": "",
+        "text_arabic": "زارلاند",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "Schleswig-Holstein",
         "text_english": "",
+        "text_arabic": "شليسفيغ-هولشتاين",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "Hessen",
         "text_english": "",
+        "text_arabic": "هيسن",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "Mecklenburg-Vorpommern",
         "text_english": "",
+        "text_arabic": "مكلنبورغ-فوربومرن",
         "is_correct": true
       }
     ],
@@ -432,29 +497,34 @@
     "question_number": 49,
     "question_german": "Welche der folgenden Auflistungen enthält nur Bundesländer, die zum Gebiet der früheren DDR gehörten?",
     "question_english": "Which of the following lists contains only federal states that belonged to the territory of the former DDR?",
+    "question_arabic": "أي من القوائم التالية تحتوي فقط على ولايات اتحادية كانت تنتمي إلى أراضي ألمانيا الشرقية السابقة؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "Sachsen, Thüringen, Hessen, Niedersachsen, Brandenburg",
         "text_english": "",
+        "text_arabic": "ساكسونيا، تورينغن، هيسن، ساكسونيا السفلى، براندنبورغ",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "Bayern, Baden-Württemberg, Rheinland-Pfalz, Thüringen, Sachsen",
         "text_english": "",
+        "text_arabic": "بافاريا، بادن-فورتمبيرغ، راينلاند-بفالتس، تورينغن، ساكسونيا",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "Niedersachsen, Nordrhein-Westfalen, Hessen, Schleswig-Holstein, Brandenburg",
         "text_english": "",
+        "text_arabic": "ساكسونيا السفلى، شمال الراين-وستفاليا، هيسن، شليسفيغ-هولشتاين، براندنبورغ",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "Mecklenburg-Vorpommern, Brandenburg, Sachsen, Sachsen-Anhalt, Thüringen",
         "text_english": "",
+        "text_arabic": "مكلنبورغ-فوربومرن، براندنبورغ، ساكسونيا، ساكسونيا أنهالت، تورينغن",
         "is_correct": true
       }
     ],
@@ -465,29 +535,34 @@
     "question_number": 50,
     "question_german": "Zu wem gehörte die DDR im \"Kalten Krieg\"?",
     "question_english": "To whom did the DDR belong in the 'Cold War'?",
+    "question_arabic": "إلى من كانت تنتمي ألمانيا الشرقية في 'الحرب الباردة'؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "zur NATO",
         "text_english": "To NATO",
+        "text_arabic": "إلى الناتو",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "zu den Westmächten",
         "text_english": "To the western powers",
+        "text_arabic": "إلى القوى الغربية",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "zu den blockfreien Staate",
         "text_english": "To the non-aligned countries",
+        "text_arabic": "إلى الدول غير المنحازة",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "zum Warschauer Pakt",
         "text_english": "To the Warsaw Pact",
+        "text_arabic": "إلى حلف وارسو",
         "is_correct": true
       }
     ],
@@ -498,29 +573,34 @@
     "question_number": 51,
     "question_german": "Wie hieß das Wirtschaftssystem der DDR?",
     "question_english": "What was the name of the DDR's economic system?",
+    "question_arabic": "ما هو اسم النظام الاقتصادي في ألمانيا الشرقية؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "Planwirtschaft",
         "text_english": "Planned economy",
+        "text_arabic": "اقتصاد مخطط",
         "is_correct": true
       },
       {
         "letter": "B",
         "text_german": "Kapitalismus",
         "text_english": "Capitalism",
+        "text_arabic": "رأسمالية",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "Marktwirtschaft",
         "text_english": "Market economy",
+        "text_arabic": "اقتصاد السوق",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "Angebot und Nachfrage",
         "text_english": "Supply and demand",
+        "text_arabic": "العرض والطلب",
         "is_correct": false
       }
     ],
@@ -531,29 +611,34 @@
     "question_number": 52,
     "question_german": "Wie wurden die Bundesrepublik Deutschland und die DDR zu einem Staat?",
     "question_english": "How did the Federal Republic of Germany and the DDR become one state?",
+    "question_arabic": "كيف أصبحت جمهورية ألمانيا الاتحادية وألمانيا الشرقية دولة واحدة؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "Die DDR hat die Bundesrepublik Deutschland besetzt.",
         "text_english": "The DDR occupied the Federal Republic of Germany",
+        "text_arabic": "احتلت ألمانيا الشرقية جمهورية ألمانيا الاتحادية.",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "Die westlichen Bundesländer sind der DDR beigetreten.",
         "text_english": "The western federal states joined the DDR",
+        "text_arabic": "انضمت الولايات الغربية إلى ألمانيا الشرقية.",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "Die Bundesrepublik Deutschland hat die DDR besetzt.",
         "text_english": "The Federal Republic of Germany occupied the DDR",
+        "text_arabic": "احتلت جمهورية ألمانيا الاتحادية ألمانيا الشرقية.",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "Die heutigen fünf östlichen Bundesländer sind der Bundesrepublik Deutschland beigetreten.",
         "text_english": "Today's five eastern federal states have joined the Federal Republic of Germany",
+        "text_arabic": "انضمت الولايات الخمس الشرقية الحالية إلى جمهورية ألمانيا الاتحادية.",
         "is_correct": true
       }
     ],
@@ -564,29 +649,34 @@
     "question_number": 53,
     "question_german": "Mit dem Beitritt der DDR zur Bundesrepublik Deutschland gehören die neuen Bundesländer nun auch …",
     "question_english": "With the accession of the DDR to the Federal Republic of Germany, the new federal states now also belong ...",
+    "question_arabic": "مع انضمام ألمانيا الشرقية إلى جمهورية ألمانيا الاتحادية، أصبحت الولايات الجديدة أيضًا ...",
     "answers": [
       {
         "letter": "A",
         "text_german": "zur Europäischen Verteidigungsgemeinschaft.",
         "text_english": "To the European Defense Community",
+        "text_arabic": "إلى الجماعة الأوروبية للدفاع.",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "zum Warschauer Pakt.",
         "text_english": "To the Warsaw Pact",
+        "text_arabic": "إلى حلف وارسو.",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "zur Europäischen Union.",
         "text_english": "To the European Union",
+        "text_arabic": "إلى الاتحاد الأوروبي.",
         "is_correct": true
       },
       {
         "letter": "D",
         "text_german": "zur OPEC.",
         "text_english": "To OPEC",
+        "text_arabic": "إلى أوبك.",
         "is_correct": false
       }
     ],
@@ -597,29 +687,34 @@
     "question_number": 54,
     "question_german": "In welchem Militärbündnis war die DDR Mitglied?",
     "question_english": "In which military alliance was the DDR a member?",
+    "question_arabic": "في أي تحالف عسكري كانت ألمانيا الشرقية عضوًا؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "im Warschauer Pakt",
         "text_english": "In the Warsaw Pact",
+        "text_arabic": "في حلف وارسو",
         "is_correct": true
       },
       {
         "letter": "B",
         "text_german": "in der NATO",
         "text_english": "In NATO",
+        "text_arabic": "في الناتو",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "im Rheinbund",
         "text_english": "In the Confederation of the Rhine",
+        "text_arabic": "في اتحاد الراين",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "im Europabündnis",
         "text_english": "In the European alliance",
+        "text_arabic": "في التحالف الأوروبي",
         "is_correct": false
       }
     ],
@@ -630,29 +725,34 @@
     "question_number": 55,
     "question_german": "Was war die \"Stasi\"?",
     "question_english": "What was the 'Stasi'?",
+    "question_arabic": "ما هي 'شتازي'؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "der Geheimdienst der DDR",
         "text_english": "The secret service of the DDR",
+        "text_arabic": "جهاز المخابرات في ألمانيا الشرقية",
         "is_correct": true
       },
       {
         "letter": "B",
         "text_german": "ein deutscher Sportverein während des Zweiten Weltkrieges",
         "text_english": "A German sports club during World War II",
+        "text_arabic": "نادي رياضي ألماني خلال الحرب العالمية الثانية",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "der Geheimdienst im \"Dritten Reich\"",
         "text_english": "The secret service in the “Third Reich”",
+        "text_arabic": "جهاز المخابرات في 'الرايخ الثالث'",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "eine berühmte deutsche Gedenkstätte",
         "text_english": "A famous German memorial",
+        "text_arabic": "نصب تذكاري ألماني شهير",
         "is_correct": false
       }
     ],
@@ -663,29 +763,34 @@
     "question_number": 56,
     "question_german": "Welches war das Wappen der Deutschen Demokratischen Republik?",
     "question_english": "What was the coat of arms of the German Democratic Republic?",
+    "question_arabic": "ما هو شعار جمهورية ألمانيا الديمقراطية؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "1",
         "text_english": "",
+        "text_arabic": "1",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "2",
         "text_english": "",
+        "text_arabic": "2",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "3",
         "text_english": "",
+        "text_arabic": "3",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "4",
         "text_english": "",
+        "text_arabic": "4",
         "is_correct": true
       }
     ],
@@ -696,29 +801,34 @@
     "question_number": 57,
     "question_german": "Was ereignete sich am 17. Juni 1953 in der DDR?",
     "question_english": "What happened in the DDR on June 17, 1953?",
+    "question_arabic": "ماذا حدث في ألمانيا الشرقية في 17 يونيو 1953؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "landesweite Streiks und ein Volksaufstand",
         "text_english": "Nationwide strikes and a popular uprising",
+        "text_arabic": "إضرابات عامة وانتفاضة شعبية",
         "is_correct": true
       },
       {
         "letter": "B",
         "text_german": "der erste Besuch Fidel Castros",
         "text_english": "The first visit of Fidel Castro",
+        "text_arabic": "أول زيارة لفيدل كاسترو",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "der feierliche Beitritt zum Warschauer Pakt",
         "text_english": "the solemn entry into the Warsaw Pact",
+        "text_arabic": "الانضمام الرسمي إلى حلف وارسو",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "der 1. SED-Parteitag",
         "text_english": "The 1st SED party congress",
+        "text_arabic": "المؤتمر الأول لحزب الوحدة الاشتراكي الألماني",
         "is_correct": false
       }
     ],
@@ -729,29 +839,34 @@
     "question_number": 58,
     "question_german": "Wie heißt Deutschland mit vollem Namen?",
     "question_english": "What is Germany's full name?",
+    "question_arabic": "ما هو الاسم الكامل لألمانيا؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "Bundesbezirk Deutschland",
         "text_english": "Federal District of Germany",
+        "text_arabic": "منطقة ألمانيا الفيدرالية",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "Bundesrepublik Deutschland",
         "text_english": "Federal Republic of Germany",
+        "text_arabic": "جمهورية ألمانيا الاتحادية",
         "is_correct": true
       },
       {
         "letter": "C",
         "text_german": "Bundesstaat Deutschland",
         "text_english": "State of Germany",
+        "text_arabic": "دولة ألمانيا",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "Bundesländer Deutschland",
         "text_english": "States of Germany",
+        "text_arabic": "ولايات ألمانيا",
         "is_correct": false
       }
     ],
@@ -762,29 +877,34 @@
     "question_number": 59,
     "question_german": "Wie viele Einwohner hat Deutschland?",
     "question_english": "How many residents does Germany have?",
+    "question_arabic": "كم عدد سكان ألمانيا؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "90 Millionen",
         "text_english": "90 million",
+        "text_arabic": "90 مليون",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "84 Millionen",
         "text_english": "84 million",
+        "text_arabic": "84 مليون",
         "is_correct": true
       },
       {
         "letter": "C",
         "text_german": "78 Millionen",
         "text_english": "78 million",
+        "text_arabic": "78 مليون",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "70 Millionen",
         "text_english": "70 million",
+        "text_arabic": "70 مليون",
         "is_correct": false
       }
     ],
@@ -795,29 +915,34 @@
     "question_number": 60,
     "question_german": "Welche Farben hat die deutsche Flagge?",
     "question_english": "What are the colors of the German flag?",
+    "question_arabic": "ما هي ألوان العلم الألماني؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "rot-weiß-schwarz",
         "text_english": "Red-White-Black",
+        "text_arabic": "أحمر-أبيض-أسود",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "schwarz-rot-grün",
         "text_english": "Black-Red-Green",
+        "text_arabic": "أسود-أحمر-أخضر",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "schwarz-rot-gold",
         "text_english": "Black-Red-Gold",
+        "text_arabic": "أسود-أحمر-ذهبي",
         "is_correct": true
       },
       {
         "letter": "D",
         "text_german": "schwarz-gelb-rot",
         "text_english": "Black-Yellow-Red",
+        "text_arabic": "أسود-أصفر-أحمر",
         "is_correct": false
       }
     ],
@@ -828,29 +953,34 @@
     "question_number": 61,
     "question_german": "Wer wird als \"Kanzler der Deutschen Einheit\" bezeichnet?",
     "question_english": "Who is called the 'Chancellor of German Unity'?",
+    "question_arabic": "من يُطلق عليه لقب 'مستشار الوحدة الألمانية'؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "Helmut Schmidt",
         "text_english": "",
+        "text_arabic": "هيلموت شميت",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "Konrad Adenauer",
         "text_english": "",
+        "text_arabic": "كونراد أديناور",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "Gerhard Schröder",
         "text_english": "",
+        "text_arabic": "غيرهارد شرودر",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "Helmut Kohl",
         "text_english": "",
+        "text_arabic": "هيلموت كول",
         "is_correct": true
       }
     ],
@@ -861,29 +991,34 @@
     "question_number": 62,
     "question_german": "Welches Symbol ist im Plenarsaal des Deutschen Bundestages zu sehen?",
     "question_english": "Which symbol can be seen in the plenary hall of the German Bundestag?",
+    "question_arabic": "أي رمز يمكن رؤيته في قاعة البرلمان الألماني؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "der Reichsadler",
         "text_english": "The imperial eagle",
+        "text_arabic": "النسر الإمبراطوري",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "die Reichskrone",
         "text_english": "The imperial crown",
+        "text_arabic": "التاج الإمبراطوري",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "der Bundesadler",
         "text_english": "The federal eagle",
+        "text_arabic": "النسر الفيدرالي",
         "is_correct": true
       },
       {
         "letter": "D",
         "text_german": "die Fahne der Stadt Berlin",
         "text_english": "The flag of the city of Berlin",
+        "text_arabic": "علم مدينة برلين",
         "is_correct": false
       }
     ],
@@ -894,29 +1029,34 @@
     "question_number": 63,
     "question_german": "In welchem Zeitraum gab es die Deutsche Demokratische Republik (DDR)?",
     "question_english": "During which period did the German Democratic Republic (DDR) exist?",
+    "question_arabic": "في أي فترة وجدت جمهورية ألمانيا الديمقراطية (DDR)؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "1949 bis 1990",
         "text_english": "1949 to 1990",
+        "text_arabic": "1949 إلى 1990",
         "is_correct": true
       },
       {
         "letter": "B",
         "text_german": "1945 bis 1961",
         "text_english": "1945 to 1961",
+        "text_arabic": "1945 إلى 1961",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "1933 bis 1945",
         "text_english": "1933 to 1945",
+        "text_arabic": "1933 إلى 1945",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "1919 bis 1927",
         "text_english": "1919 to 1927",
+        "text_arabic": "1919 إلى 1927",
         "is_correct": false
       }
     ],
@@ -927,29 +1067,34 @@
     "question_number": 64,
     "question_german": "Wie viele Bundesländer kamen bei der Wiedervereinigung 1990 zur Bundesrepublik Deutschland hinzu?",
     "question_english": "How many states were added to the Federal Republic of Germany at reunification in 1990?",
+    "question_arabic": "كم عدد الولايات التي أضيفت إلى جمهورية ألمانيا الاتحادية عند إعادة التوحيد عام 1990؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "4",
         "text_english": "",
+        "text_arabic": "4",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "5",
         "text_english": "",
+        "text_arabic": "5",
         "is_correct": true
       },
       {
         "letter": "C",
         "text_german": "6",
         "text_english": "",
+        "text_arabic": "6",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "7",
         "text_english": "",
+        "text_arabic": "7",
         "is_correct": false
       }
     ],
@@ -960,29 +1105,34 @@
     "question_number": 65,
     "question_german": "Die Bundesrepublik Deutschland hat die Grenzen von heute seit …",
     "question_english": "The Federal Republic of Germany has had the borders of today for ...",
+    "question_arabic": "جمهورية ألمانيا الاتحادية لديها حدودها الحالية منذ ...",
     "answers": [
       {
         "letter": "A",
         "text_german": "1933",
         "text_english": "",
+        "text_arabic": "1933",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "1949",
         "text_english": "",
+        "text_arabic": "1949",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "1971",
         "text_english": "",
+        "text_arabic": "1971",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "1990",
         "text_english": "",
+        "text_arabic": "1990",
         "is_correct": true
       }
     ],
@@ -993,29 +1143,34 @@
     "question_number": 66,
     "question_german": "Der 27. Januar ist in Deutschland ein offizieller Gedenktag. Woran erinnert dieser Tag?",
     "question_english": "January 27th is an official day of remembrance in Germany. What does this day remind you of?",
+    "question_arabic": "27 يناير هو يوم تذكاري رسمي في ألمانيا. ماذا يذكرك هذا اليوم؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "an die Verabschiedung des Grundgesetzes",
         "text_english": "To the adoption of the Basic Law",
+        "text_arabic": "اعتماد القانون الأساسي",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "an die Opfer des Nationalsozialismus",
         "text_english": "To the victims of National-Socialism",
+        "text_arabic": "ضحايا النازية",
         "is_correct": true
       },
       {
         "letter": "C",
         "text_german": "an das Ende des Zweiten Weltkrieges",
         "text_english": "To the end of the Second World War",
+        "text_arabic": "نهاية الحرب العالمية الثانية",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "an die Wiedervereinigung Deutschlands",
         "text_english": "To the reunification of Germany",
+        "text_arabic": "إعادة توحيد ألمانيا",
         "is_correct": false
       }
     ],
@@ -1026,29 +1181,34 @@
     "question_number": 67,
     "question_german": "Welcher Politiker steht für die \"Ostverträge\"?",
     "question_english": "Which politician stands for the “Eastern Treaties”?",
+    "question_arabic": "أي سياسي يمثل 'اتفاقيات الشرق'؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "Willy Brandt",
         "text_english": "",
+        "text_arabic": "فيلي برانت",
         "is_correct": true
       },
       {
         "letter": "B",
         "text_german": "Ludwig Erhard",
         "text_english": "",
+        "text_arabic": "لودفيغ إيرهارد",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "Helmut Kohl",
         "text_english": "",
+        "text_arabic": "هيلموت كول",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "Michail Gorbatschow",
         "text_english": "",
+        "text_arabic": "ميخائيل غورباتشوف",
         "is_correct": false
       }
     ],
@@ -1059,29 +1219,34 @@
     "question_number": 68,
     "question_german": "Wie wird der Beitritt der DDR zur Bundesrepublik Deutschland im Jahr 1990 allgemein genannt?",
     "question_english": "What is the general term for the accession of the DDR to the Federal Republic of Germany in 1990?",
+    "question_arabic": "ما هو المصطلح العام لانضمام ألمانيا الشرقية إلى جمهورية ألمانيا الاتحادية عام 1990؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "EU-Osterweiterung",
         "text_english": "EU eastward expansion",
+        "text_arabic": "توسيع الاتحاد الأوروبي شرقاً",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "Europäische Gemeinschaft",
         "text_english": "European Community",
+        "text_arabic": "الجماعة الأوروبية",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "NATO-Osterweiterung",
         "text_english": "NATO eastward expansion",
+        "text_arabic": "توسيع الناتو شرقاً",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "Deutsche Wiedervereinigung",
         "text_english": "German reunification",
+        "text_arabic": "إعادة توحيد ألمانيا",
         "is_correct": true
       }
     ],

@@ -3,29 +3,34 @@
     "question_number": 134,
     "question_german": "Wahlen in Deutschland sind frei. Was bedeutet das?",
     "question_english": "Elections in Germany are free. What does that mean?",
+      "question_arabic": "الانتخابات في ألمانيا حرة. ماذا يعني ذلك؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "Alle wahlberechtigten Personen müssen wählen.",
         "text_english": "All eligible voters must vote.",
+          "text_arabic": "يجب على جميع الأشخاص المؤهلين التصويت.",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "Man darf Geld annehmen, wenn man dafür einen bestimmten Kandidaten/eine bestimmte Kandidatin wählt.",
         "text_english": "One may accept money in exchange for voting for a particular candidate.",
+          "text_arabic": "يمكن قبول المال مقابل التصويت لمرشح معين.",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "Der Wähler darf bei der Wahl weder beeinflusst noch zu einer bestimmten Stimmabgabe gezwungen werden und keine Nachteile durch die Wahl haben.",
         "text_english": "The voter may not be influenced or coerced into voting in a particular way and may not suffer any disadvantages as a result of voting.",
+          "text_arabic": "لا يجوز التأثير على الناخب أو إجباره على التصويت بطريقة معينة ولا يجب أن يتعرض لأي ضرر نتيجة تصويته.",
         "is_correct": true
       },
       {
         "letter": "D",
         "text_german": "Nur Personen, die noch nie im Gefängnis waren, dürfen wählen.",
         "text_english": "Only persons who have never been in prison may vote.",
+          "text_arabic": "فقط الأشخاص الذين لم يدخلوا السجن من قبل يمكنهم التصويت.",
         "is_correct": false
       }
     ],
@@ -36,29 +41,34 @@
     "question_number": 135,
     "question_german": "Im Parlament steht der Begriff \"Opposition\" für …",
     "question_english": "In parliament, the term “opposition” stands for ...",
+      "question_arabic": "في البرلمان، مصطلح \"المعارضة\" يعني ...",
     "answers": [
       {
         "letter": "A",
         "text_german": "alle Abgeordneten, die nicht zu der Regierungspartei/den Regierungsparteien gehören.",
         "text_english": "all deputies who do not belong to the governing party/parties.",
+          "text_arabic": "جميع النواب الذين لا ينتمون إلى حزب/أحزاب الحكومة.",
         "is_correct": true
       },
       {
         "letter": "B",
         "text_german": "die regierenden Parteien.",
         "text_english": "The ruling parties.",
+          "text_arabic": "الأحزاب الحاكمة.",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "alle Parteien, die bei der letzten Wahl die 5 %-Hürde erreichen konnten.",
         "text_english": "all parties that were able to reach the 5% hurdle in the last election.",
+          "text_arabic": "جميع الأحزاب التي تمكنت من تجاوز عتبة 5% في الانتخابات الأخيرة.",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "die Fraktion mit den meisten Abgeordneten.",
         "text_english": "the parliamentary group with the most deputies.",
+          "text_arabic": "الكتلة البرلمانية التي تضم أكبر عدد من النواب.",
         "is_correct": false
       }
     ],
@@ -69,29 +79,34 @@
     "question_number": 136,
     "question_german": "Wer wählt in Deutschland die Abgeordneten zum Bundestag?",
     "question_english": "Who elects the members of the Bundestag in Germany?",
+      "question_arabic": "من ينتخب أعضاء البوندستاغ في ألمانيا؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "das wahlberechtigte Volk",
         "text_english": "the electorate",
+          "text_arabic": "الشعب المؤهل للتصويت",
         "is_correct": true
       },
       {
         "letter": "B",
         "text_german": "die Wirtschaft",
         "text_english": "the economy",
+          "text_arabic": "الاقتصاد",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "das Militär",
         "text_english": "the military",
+          "text_arabic": "الجيش",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "die Verwaltung",
         "text_english": "the administration",
+          "text_arabic": "الإدارة",
         "is_correct": false
       }
     ],
@@ -102,29 +117,34 @@
     "question_number": 137,
     "question_german": "Die Zusammenarbeit von Parteien zur Bildung einer Regierung nennt man in Deutschland …",
     "question_english": "The cooperation of parties to form a government is called in Germany ...",
+      "question_arabic": "تسمى التعاون بين الأحزاب لتشكيل حكومة في ألمانيا ...",
     "answers": [
       {
         "letter": "A",
         "text_german": "Ministerium.",
         "text_english": "Ministry.",
+          "text_arabic": "وزارة.",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "Koalition.",
         "text_english": "Coalition",
+          "text_arabic": "ائتلاف",
         "is_correct": true
       },
       {
         "letter": "C",
         "text_german": "Fraktion.",
         "text_english": "Faction.",
+          "text_arabic": "كتلة برلمانية.",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "Einheit.",
         "text_english": "Unit.",
+          "text_arabic": "وحدة.",
         "is_correct": false
       }
     ],
@@ -135,29 +155,34 @@
     "question_number": 138,
     "question_german": "Was ist keine staatliche Gewalt in Deutschland?",
     "question_english": "What is not state power in Germany?",
+      "question_arabic": "ما هي السلطة التي ليست سلطة حكومية في ألمانيا؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "Regierung",
         "text_english": "Government",
+          "text_arabic": "الحكومة",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "Rechtsprechung",
         "text_english": "Jurisdiction",
+          "text_arabic": "القضاء",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "Gesetzgebung",
         "text_english": "Legislation",
+          "text_arabic": "التشريع",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "Presse",
         "text_english": "Press",
+          "text_arabic": "الصحافة",
         "is_correct": true
       }
     ],
@@ -168,29 +193,34 @@
     "question_number": 139,
     "question_german": "Wie werden die Regierungschefinnen/Regierungschefs der meisten Bundesländer in Deutschland genannt?",
     "question_english": "What are the heads of government of most federal states in Germany called?",
+      "question_arabic": "بماذا يُسمى رؤساء حكومات معظم الولايات الفيدرالية في ألمانيا؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "/in",
         "text_english": "Senator",
+          "text_arabic": "سيناتور",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "Erster Minister/Erste Ministerin",
         "text_english": "First Minister",
+          "text_arabic": "الوزير الأول/الوزيرة الأولى",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "Premierminister/Premierministerin",
         "text_english": "Prime Minister",
+          "text_arabic": "رئيس الوزراء/رئيسة الوزراء",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "Ministerpräsident/Ministerpräsidentin",
         "text_english": "Prime Minister",
+          "text_arabic": "رئيس الوزراء/رئيسة الوزراء (Ministerpräsident/Ministerpräsidentin)",
         "is_correct": true
       }
     ],
@@ -201,29 +231,34 @@
     "question_number": 140,
     "question_german": "Was hat jedes deutsche Bundesland?",
     "question_english": "What does each German state have?",
+      "question_arabic": "ماذا يوجد في كل ولاية ألمانية؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "eine eigene Regierung",
         "text_english": "its own government",
+          "text_arabic": "حكومة خاصة بها",
         "is_correct": true
       },
       {
         "letter": "B",
         "text_german": "einen eigenen Außenminister/eine eigene Außenministerin",
         "text_english": "its own foreign minister",
+          "text_arabic": "وزير خارجية خاص بها",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "eine eigene Armee",
         "text_english": "its own army",
+          "text_arabic": "جيش خاص بها",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "eine eigene Währung",
         "text_english": "an own currency",
+          "text_arabic": "عملة خاصة بها",
         "is_correct": false
       }
     ],
@@ -234,29 +269,34 @@
     "question_number": 141,
     "question_german": "Warum gibt es in einer Demokratie mehr als eine Partei?",
     "question_english": "Why is there more than one party in a democracy?",
+      "question_arabic": "لماذا يوجد أكثر من حزب واحد في الديمقراطية؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "damit Bestechung in der Politik begrenzt wird",
         "text_english": "to limit bribery in politics",
+          "text_arabic": "حتى يتم الحد من الرشوة في السياسة",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "um wirtschaftlichen Wettbewerb anzuregen",
         "text_english": "to stimulate economic competition",
+          "text_arabic": "لتشجيع المنافسة الاقتصادية",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "um politische Demonstrationen zu verhindern",
         "text_english": "to prevent political demonstrations",
+          "text_arabic": "لمنع المظاهرات السياسية",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "weil dadurch die unterschiedlichen Meinungen der Bürger und Bürgerinnen vertreten werden",
         "text_english": "because this represents the different opinions of the citizens",
+          "text_arabic": "لأن ذلك يمثل الآراء المختلفة للمواطنين والمواطنات",
         "is_correct": true
       }
     ],
@@ -267,29 +307,34 @@
     "question_number": 142,
     "question_german": "Wer beschließt in Deutschland ein neues Gesetz?",
     "question_english": "Who decides a new law in Germany?",
+      "question_arabic": "من يقرر قانونًا جديدًا في ألمانيا؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "die Gerichte",
         "text_english": "the courts",
+          "text_arabic": "المحاكم",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "die Polizei",
         "text_english": "the police",
+          "text_arabic": "الشرطة",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "die Regierung",
         "text_english": "the government",
+          "text_arabic": "الحكومة",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "das Parlament",
         "text_english": "the parliament",
+          "text_arabic": "البرلمان",
         "is_correct": true
       }
     ],
@@ -300,29 +345,34 @@
     "question_number": 143,
     "question_german": "Wann kann in Deutschland eine Partei verboten werden?",
     "question_english": "When can a party be banned in Germany?",
+      "question_arabic": "متى يمكن حظر حزب في ألمانيا؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "wenn sie gegen die Verfassung kämpft",
         "text_english": "when it fights against the constitution",
+          "text_arabic": "عندما تحارب ضد الدستور",
         "is_correct": true
       },
       {
         "letter": "B",
         "text_german": "wenn ihr Programm eine neue Richtung vorschlägt",
         "text_english": "when their program suggests a new direction",
+          "text_arabic": "عندما يقترح برنامجها اتجاهًا جديدًا",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "wenn ihr Wahlkampf zu teuer ist",
         "text_english": "if their election campaign is too expensive",
+          "text_arabic": "إذا كانت حملتها الانتخابية مكلفة للغاية",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "wenn sie Kritik am Staatsoberhaupt äußert",
         "text_english": "when she expresses criticism of the head of state",
+          "text_arabic": "عندما تعبر عن انتقاد لرئيس الدولة",
         "is_correct": false
       }
     ],
@@ -333,29 +383,34 @@
     "question_number": 144,
     "question_german": "Wen kann man als Bürgerin/Bürger in Deutschland nicht direkt wählen?",
     "question_english": "As a citizen in Germany, who cannot be elected directly?",
+      "question_arabic": "كمواطن/ة في ألمانيا، من لا يمكن انتخابه مباشرة؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "Landtagsabgeordnete",
         "text_english": "Members of Parliament",
+          "text_arabic": "أعضاء برلمان الولاية",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "Abgeordnete des EU-Parlaments",
         "text_english": "Members of the European Parliament",
+          "text_arabic": "أعضاء البرلمان الأوروبي",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "den Bundespräsidenten/die Bundespräsidentin",
         "text_english": "the Federal President",
+          "text_arabic": "رئيس/ة الجمهورية الفيدرالية",
         "is_correct": true
       },
       {
         "letter": "D",
         "text_german": "Bundestagsabgeordnete",
         "text_english": "Members of the Parliament",
+          "text_arabic": "أعضاء البرلمان (البوندستاغ)",
         "is_correct": false
       }
     ],
@@ -366,29 +421,34 @@
     "question_number": 145,
     "question_german": "Welches Organ gehört nicht zu den Verfassungsorganen Deutschlands?",
     "question_english": "Which organ does not belong to the constitutional organs of Germany?",
+      "question_arabic": "أي جهاز لا ينتمي إلى الأجهزة الدستورية في ألمانيا؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "die Regierung",
         "text_english": "the government",
+          "text_arabic": "الحكومة",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "die Bürgerversammlung",
         "text_english": "the citizens' assembly",
+          "text_arabic": "جمعية المواطنين",
         "is_correct": true
       },
       {
         "letter": "C",
         "text_german": "der Bundesrat",
         "text_english": "the Federal Council",
+          "text_arabic": "المجلس الفيدرالي",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "die Bundespraesidentin/der Bundespräsident",
         "text_english": "the Federal President",
+          "text_arabic": "رئيس/ة الجمهورية الفيدرالية",
         "is_correct": false
       }
     ],
@@ -399,29 +459,34 @@
     "question_number": 146,
     "question_german": "Wer bestimmt in Deutschland die Schulpolitik?",
     "question_english": "Who decides school policy in Germany?",
+      "question_arabic": "من يحدد سياسة التعليم في ألمانيا؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "das Familienministerium",
         "text_english": "the family ministry",
+          "text_arabic": "وزارة الأسرة",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "die Universitäten",
         "text_english": "the universities",
+          "text_arabic": "الجامعات",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "die Lehrer und Lehrerinnen",
         "text_english": "the teachers",
+          "text_arabic": "المعلمون والمعلمات",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "die Bundesländer",
         "text_english": "the federal states",
+          "text_arabic": "الولايات الفيدرالية",
         "is_correct": true
       }
     ],
@@ -432,29 +497,34 @@
     "question_number": 147,
     "question_german": "Was ist keine staatliche Gewalt in Deutschland?",
     "question_english": "What is not state power in Germany?",
+      "question_arabic": "ما هي السلطة التي ليست سلطة حكومية في ألمانيا؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "Judikative",
         "text_english": "judiciary",
+          "text_arabic": "القضائية",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "Direktive",
         "text_english": "Directive",
+          "text_arabic": "توجيهية",
         "is_correct": true
       },
       {
         "letter": "C",
         "text_german": "Legislative",
         "text_english": "legislative branch",
+          "text_arabic": "التشريعية",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "Exekutive",
         "text_english": "executive",
+          "text_arabic": "التنفيذية",
         "is_correct": false
       }
     ],
@@ -465,29 +535,34 @@
     "question_number": 148,
     "question_german": "Was zeigt dieses Bild?",
     "question_english": "What does this picture show?",
+      "question_arabic": "ماذا تظهر هذه الصورة؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "das Bundeskanzleramt in Berlin",
         "text_english": "the Federal Chancellery in Berlin",
+          "text_arabic": "مكتب المستشارية الفيدرالية في برلين",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "das Bundesratsgebäude in Berlin",
         "text_english": "the Bundesrat building in Berlin",
+          "text_arabic": "مبنى المجلس الفيدرالي في برلين",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "das Bundesverfassungsgericht in Karlsruhe",
         "text_english": "the Federal Constitutional Court in Karlsruhe",
+          "text_arabic": "المحكمة الدستورية الفيدرالية في كارلسروه",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "den Bundestagssitz in Berlin",
         "text_english": "the Bundestag seat in Berlin",
+          "text_arabic": "مقر البوندستاغ في برلين",
         "is_correct": true
       }
     ],
@@ -498,29 +573,34 @@
     "question_number": 149,
     "question_german": "Wer wird meistens zur Präsidentin/zum Präsidenten des Deutschen Bundestages gewählt?",
     "question_english": "Who is usually elected President of the German Bundestag?",
+      "question_arabic": "من يتم انتخابه عادةً رئيسًا للبوندستاغ الألماني؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "ein ehemaliger Bundeskanzler/eine ehemalige Bundeskanzlerin",
         "text_english": "a former chancellor",
+          "text_arabic": "مستشار/ة سابق/ة",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "eine Abgeordnete/ein Abgeordneter der stärksten Fraktion",
         "text_english": "a deputy from the strongest parliamentary group",
+          "text_arabic": "نائب/ة من أقوى كتلة برلمانية",
         "is_correct": true
       },
       {
         "letter": "C",
         "text_german": "der/die älteste Abgeordnete im Parlament",
         "text_english": "the oldest Member of Parliament",
+          "text_arabic": "أكبر نائب/ة سنًا في البرلمان",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "der Ministerpräsident/die Ministerpräsidentin des größten Bundeslandes",
         "text_english": "the prime minister of the largest federal state",
+          "text_arabic": "رئيس/ة وزراء أكبر ولاية فيدرالية",
         "is_correct": false
       }
     ],
@@ -531,29 +611,34 @@
     "question_number": 150,
     "question_german": "Wer ernennt in Deutschland die Ministerinnen/die Minister der Bundesregierung?",
     "question_english": "Who appoints the ministers of the federal government in Germany?",
+      "question_arabic": "من يعين وزراء الحكومة الفيدرالية في ألمانيا؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "die Bundestagspräsidentin/der Bundestagspräsident",
         "text_english": "the President of the Bundestag",
+          "text_arabic": "رئيس/ة البوندستاغ",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "der Präsident/die Präsidentin des Bundesverfassungsgerichtes",
         "text_english": "the President of the Federal Constitutional Court",
+          "text_arabic": "رئيس/ة المحكمة الدستورية الفيدرالية",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "der Bundesratspräsident/die Bundesratspräsidentin",
         "text_english": "the President of the Federal Council",
+          "text_arabic": "رئيس/ة المجلس الفيدرالي",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "der Bundespräsident/die Bundespräsidentin",
         "text_english": "the Federal President",
+          "text_arabic": "رئيس/ة الجمهورية الفيدرالية",
         "is_correct": true
       }
     ],
@@ -564,29 +649,34 @@
     "question_number": 151,
     "question_german": "Auf welcher rechtlichen Grundlage wurde der Staat Israel gegründet?",
     "question_english": "On what legal basis was the State of Israel founded?",
+      "question_arabic": "على أي أساس قانوني تم تأسيس دولة إسرائيل؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "eine Resolution der Vereinten Nationen",
         "text_english": "a resolution of the United Nations",
+          "text_arabic": "قرار من الأمم المتحدة",
         "is_correct": true
       },
       {
         "letter": "B",
         "text_german": "ein Vorschlag der Bundesregierung",
         "text_english": "a proposal of the Federal Government",
+          "text_arabic": "اقتراح من الحكومة الفيدرالية",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "ein Vorschlag der UdSSR",
         "text_english": "a proposal of the USSR",
+          "text_arabic": "اقتراح من الاتحاد السوفيتي",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "ein Beschluss des Zionistenkongresses",
         "text_english": "a decision of the Zionist Congress",
+          "text_arabic": "قرار من مؤتمر الصهيونية",
         "is_correct": false
       }
     ],
@@ -597,29 +687,34 @@
     "question_number": 152,
     "question_german": "In Deutschland gehören der Bundestag und der Bundesrat zur …",
     "question_english": "In Germany, the Bundestag and the Bundesrat are part of the...",
+      "question_arabic": "في ألمانيا، ينتمي البوندستاغ والمجلس الفيدرالي إلى ...",
     "answers": [
       {
         "letter": "A",
         "text_german": "Judikative.",
         "text_english": "judiciary",
+          "text_arabic": "القضائية.",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "Direktive.",
         "text_english": "Directive",
+          "text_arabic": "توجيهية.",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "Exekutive.",
         "text_english": "Executive",
+          "text_arabic": "التنفيذية.",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "Legislative.",
         "text_english": "Legislative branch",
+          "text_arabic": "التشريعية.",
         "is_correct": true
       }
     ],
@@ -630,29 +725,34 @@
     "question_number": 153,
     "question_german": "Wenn das Parlament eines deutschen Bundeslandes gewählt wird, nennt man das …",
     "question_english": "When the parliament of a German federal state is elected, it is called...",
+      "question_arabic": "عندما يتم انتخاب برلمان ولاية ألمانية، يسمى ذلك ...",
     "answers": [
       {
         "letter": "A",
         "text_german": "Europawahl.",
         "text_english": "European elections",
+          "text_arabic": "انتخابات أوروبية.",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "Landtagswahl.",
         "text_english": "Landtag election",
+          "text_arabic": "انتخابات برلمان الولاية (لاندتاغ)",
         "is_correct": true
       },
       {
         "letter": "C",
         "text_german": "Bundestagswahl.",
         "text_english": "Bundestag election",
+          "text_arabic": "انتخابات البوندستاغ.",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "Kommunalwahl.",
         "text_english": "Municipal election",
+          "text_arabic": "انتخابات بلدية.",
         "is_correct": false
       }
     ],
@@ -663,29 +763,34 @@
     "question_number": 154,
     "question_german": "Was gehört in Deutschland nicht zur Exekutive?",
     "question_english": "What does not belong to the executive branch in Germany?",
+      "question_arabic": "ما الذي لا ينتمي إلى السلطة التنفيذية في ألمانيا؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "das Finanzamt",
         "text_english": "the tax office",
+          "text_arabic": "مكتب الضرائب",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "die Polizei",
         "text_english": "the police",
+          "text_arabic": "الشرطة",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "die Ministerien",
         "text_english": "the ministries",
+          "text_arabic": "الوزارات",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "die Gerichte",
         "text_english": "the courts",
+          "text_arabic": "المحاكم",
         "is_correct": true
       }
     ],
@@ -696,29 +801,34 @@
     "question_number": 155,
     "question_german": "Die Bundesrepublik Deutschland ist heute gegliedert in …",
     "question_english": "Today, the Federal Republic of Germany is divided into ...",
+      "question_arabic": "جمهورية ألمانيا الاتحادية مقسمة اليوم إلى ...",
     "answers": [
       {
         "letter": "A",
         "text_german": "16 Kantone.",
         "text_english": "16 cantons",
+          "text_arabic": "16 كانتونًا.",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "vier Besatzungszonen.",
         "text_english": "four occupation zones",
+          "text_arabic": "أربع مناطق احتلال.",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "Bund, Länder und Kommunen.",
         "text_english": "Federal, state and local governments",
+          "text_arabic": "الاتحاد، الولايات والبلديات.",
         "is_correct": true
       },
       {
         "letter": "D",
         "text_german": "einen Oststaat und einen Weststaat.",
         "text_english": "an eastern state and a western state",
+          "text_arabic": "دولة شرقية ودولة غربية.",
         "is_correct": false
       }
     ],
@@ -729,29 +839,34 @@
     "question_number": 156,
     "question_german": "Es gehört nicht zu den Aufgaben des Deutschen Bundestages, …",
     "question_english": "It is not one of the tasks of the German Bundestag to ...",
+      "question_arabic": "ليس من مهام البوندستاغ الألماني أن ...",
     "answers": [
       {
         "letter": "A",
         "text_german": "die Bundesregierung zu kontrollieren.",
         "text_english": "control the federal government",
+          "text_arabic": "مراقبة الحكومة الفيدرالية",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "den Bundeskanzler/die Bundeskanzlerin zu wählen.",
         "text_english": "to elect the Federal Chancellor",
+          "text_arabic": "انتخاب المستشار/ة الفيدرالي/ة",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "Gesetze zu entwerfen.",
         "text_english": "to draft laws",
+          "text_arabic": "صياغة القوانين",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "das Bundeskabinett zu bilden.",
         "text_english": "to form the Cabinet",
+          "text_arabic": "تشكيل مجلس الوزراء",
         "is_correct": true
       }
     ],
@@ -762,29 +877,34 @@
     "question_number": 157,
     "question_german": "Was ist in Deutschland vor allem eine Aufgabe der Bundesländer?",
     "question_english": "In Germany, what is primarily a task of the federal states?",
+      "question_arabic": "ما هي المهمة الأساسية للولايات الفيدرالية في ألمانيا؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "Verteidigungspolitik",
         "text_english": "Defense Policy",
+          "text_arabic": "سياسة الدفاع",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "Schulpolitik",
         "text_english": "School policy",
+          "text_arabic": "سياسة التعليم",
         "is_correct": true
       },
       {
         "letter": "C",
         "text_german": "Außenpolitik",
         "text_english": "Foreign policy",
+          "text_arabic": "السياسة الخارجية",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "Wirtschaftspolitik",
         "text_english": "Economic policy",
+          "text_arabic": "السياسة الاقتصادية",
         "is_correct": false
       }
     ],
@@ -795,29 +915,34 @@
     "question_number": 158,
     "question_german": "Warum kontrolliert der Staat in Deutschland das Schulwesen?",
     "question_english": "Why does the state control the school system in Germany?",
+      "question_arabic": "لماذا تسيطر الدولة في ألمانيا على نظام المدارس؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "weil es in den Bundesländern verschiedene Schulen gibt",
         "text_english": "because there are different schools in the federal states",
+          "text_arabic": "لأنه توجد مدارس مختلفة في الولايات الفيدرالية",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "weil es in Deutschland nur staatliche Schulen gibt",
         "text_english": "because there are only state schools in Germany",
+          "text_arabic": "لأنه لا توجد إلا مدارس حكومية في ألمانيا",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "weil es nach dem Grundgesetz seine Aufgabe ist",
         "text_english": "because it is its duty according to the Basic Law",
+          "text_arabic": "لأن ذلك من مهامها حسب القانون الأساسي",
         "is_correct": true
       },
       {
         "letter": "D",
         "text_german": "weil alle Schüler und Schülerinnen einen Schulabschluss haben müssen",
         "text_english": "because all students must have a high school diploma",
+          "text_arabic": "لأن جميع الطلاب يجب أن يحصلوا على شهادة مدرسية",
         "is_correct": false
       }
     ],
@@ -828,29 +953,34 @@
     "question_number": 159,
     "question_german": "Die Bundesrepublik Deutschland hat einen dreistufigen Verwaltungsaufbau. Wie heißt die unterste politische Stufe?",
     "question_english": "The Federal Republic of Germany has a three-tier administrative structure. What is the name of the lowest political level?",
+      "question_arabic": "جمهورية ألمانيا الاتحادية لديها هيكل إداري من ثلاث مستويات. ما اسم المستوى السياسي الأدنى؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "Bezirksämter",
         "text_english": "District Offices",
+          "text_arabic": "مكاتب المناطق",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "Gemeinden",
         "text_english": "Municipalities",
+          "text_arabic": "البلديات",
         "is_correct": true
       },
       {
         "letter": "C",
         "text_german": "Stadträte",
         "text_english": "City councilors",
+          "text_arabic": "أعضاء مجلس المدينة",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "Landräte",
         "text_english": "Land councilors",
+          "text_arabic": "أعضاء مجلس المقاطعة",
         "is_correct": false
       }
     ],
@@ -861,29 +991,34 @@
     "question_number": 160,
     "question_german": "Der deutsche Bundespräsident Gustav Heinemann gibt Helmut Schmidt 1974 die Ernennungsurkunde zum deutschen Bundeskanzler. Was gehört zu den Aufgaben der deutschen Bundespräsidentin/des deutschen Bundespräsidenten?",
     "question_english": "The German Federal President Gustav Heinemann gives Helmut Schmidt the certificate of appointment as German Federal Chancellor in 1974. What are the duties of the German Federal President?",
+      "question_arabic": "الرئيس الفيدرالي الألماني غوستاف هاينمان يمنح هيلموت شميت شهادة التعيين كمستشار ألماني في عام 1974. ما هي مهام الرئيس الفيدرالي الألماني؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "Er/Sie kontrolliert die Regierungspartei.",
         "text_english": "He/She controls the ruling party",
+          "text_arabic": "هو/هي يراقب الحزب الحاكم",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "Er/Sie schlägt den Kanzler/die Kanzlerin zur Wahl vor.",
         "text_english": "He / She proposes the Chancellor for election",
+          "text_arabic": "هو/هي يقترح المستشار/ة للانتخاب",
         "is_correct": true
       },
       {
         "letter": "C",
         "text_german": "Er/Sie führt die Regierungsgeschäfte.",
         "text_english": "He/She runs the affairs of state",
+          "text_arabic": "هو/هي يدير شؤون الدولة",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "Er/Sie wählt die Minister/Ministerinnen aus.",
         "text_english": "He/She selects the ministers",
+          "text_arabic": "هو/هي يختار الوزراء",
         "is_correct": false
       }
     ],
@@ -894,29 +1029,34 @@
     "question_number": 161,
     "question_german": "Wo hält sich der deutsche Bundeskanzler/die deutsche Bundeskanzlerin am häufigsten auf? Am häufigsten ist er/sie …",
     "question_english": "Where does the German chancellor stay most often? Most often he/she is...",
+      "question_arabic": "أين يتواجد المستشار/ة الألماني/ة في أغلب الأحيان؟ غالبًا ما يكون/تكون ...",
     "answers": [
       {
         "letter": "A",
         "text_german": "auf Schloss Meseberg, dem Gästehaus der Bundesregierung, um Staatsgäste zu empfangen.",
         "text_english": "at Meseberg Palace, the guest house of the German government, to receive state guests.",
+          "text_arabic": "في قصر ميزيبيرغ، دار ضيافة الحكومة الفيدرالية، لاستقبال الضيوف الرسميين.",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "in Berlin, weil sich dort das Bundeskanzleramt und der Bundestag befinden.",
         "text_english": "in Berlin, because that is where the Federal Chancellery and the Bundestag are located",
+          "text_arabic": "في برلين، لأن هناك مقر المستشارية الفيدرالية والبوندستاغ",
         "is_correct": true
       },
       {
         "letter": "C",
         "text_german": "auf Schloss Bellevue, dem Amtssitz der Bundespräsidentin/des Bundespräsidenten, um Staatsgäste zu empfangen.",
         "text_english": "to receive state guests at Bellevue Palace, the official residence of the Federal President",
+          "text_arabic": "في قصر بلفيو، مقر إقامة الرئيس الفيدرالي، لاستقبال الضيوف الرسميين.",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "in Bonn, weil sich dort das Bundeskanzleramt und der Bundestag befinden.",
         "text_english": "in Bonn because the Federal Chancellery and the Bundestag are located there",
+          "text_arabic": "في بون، لأن هناك مقر المستشارية الفيدرالية والبوندستاغ",
         "is_correct": false
       }
     ],
@@ -927,29 +1067,34 @@
     "question_number": 162,
     "question_german": "Wie heißt die jetzige Bundeskanzlerin/der jetzige Bundeskanzler von Deutschland?",
     "question_english": "What is the name of the current Chancellor of Germany?",
+      "question_arabic": "ما اسم المستشار/ة الحالي/ة لألمانيا؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "Gerhard Schröder",
         "text_english": "",
+          "text_arabic": "غيرهارد شرودر",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "Angela Merkel",
         "text_english": "",
+          "text_arabic": "أنجيلا ميركل",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "Friedrich Merz",
         "text_english": "",
+          "text_arabic": "فريدريش ميرتس",
         "is_correct": true
       },
       {
         "letter": "D",
         "text_german": "Ursula von der Leyen",
         "text_english": "",
+          "text_arabic": "أورسولا فون دير لاين",
         "is_correct": false
       }
     ],
@@ -960,29 +1105,34 @@
     "question_number": 163,
     "question_german": "Die beiden größten Fraktionen im Deutschen Bundestag heißen zurzeit …",
     "question_english": "The two largest parliamentary groups in the German Bundestag are currently called...",
+      "question_arabic": "أكبر كتلتين برلمانيتين في البوندستاغ الألماني حاليًا هما ...",
     "answers": [
       {
         "letter": "A",
         "text_german": "CDU/CSU und AfD.",
         "text_english": "CDU/CSU und AfD",
+          "text_arabic": "CDU/CSU و AfD",
         "is_correct": true
       },
       {
         "letter": "B",
         "text_german": "Die Linke und Bündnis 90/Die Grünen.",
         "text_english": "The Left and Alliance 90/The Greens",
+          "text_arabic": "دي لينكه وتحالف 90/الخضر",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "Bündnis 90/Die Grünen und SPD.",
         "text_english": "Alliance 90/The Greens and SPD",
+          "text_arabic": "تحالف 90/الخضر و SPD",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "Die Linke und CDU/CSU.",
         "text_english": "The Left and CDU/CSU",
+          "text_arabic": "دي لينكه و CDU/CSU",
         "is_correct": false
       }
     ],
@@ -993,29 +1143,34 @@
     "question_number": 164,
     "question_german": "Wie heißt das Parlament für ganz Deutschland?",
     "question_english": "What is the name of the parliament for all of Germany?",
+      "question_arabic": "ما اسم البرلمان لكل ألمانيا؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "Bundestag",
         "text_english": "",
+          "text_arabic": "البوندستاغ",
         "is_correct": true
       },
       {
         "letter": "B",
         "text_german": "Bundesversammlung",
         "text_english": "",
+          "text_arabic": "الجمعية الفيدرالية",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "Bundesgerichtshof",
         "text_english": "",
+          "text_arabic": "المحكمة الفيدرالية العليا",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "Volkskammer",
         "text_english": "",
+          "text_arabic": "مجلس الشعب",
         "is_correct": false
       }
     ],
@@ -1026,29 +1181,34 @@
     "question_number": 165,
     "question_german": "Wie heißt Deutschlands heutiges Staatsoberhaupt?",
     "question_english": "What is the name of the present german head of state?",
+      "question_arabic": "ما اسم رئيس الدولة الحالي لألمانيا؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "Bärbel Bas",
         "text_english": "",
+          "text_arabic": "بيربل باس",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "Bodo Ramelow",
         "text_english": "",
+          "text_arabic": "بودو راميلوف",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "Frank-Walter Steinmeier",
         "text_english": "",
+          "text_arabic": "فرانك-فالتر شتاينماير",
         "is_correct": true
       },
       {
         "letter": "D",
         "text_german": "Joachim Gauck",
         "text_english": "",
+          "text_arabic": "يواخيم غاوك",
         "is_correct": false
       }
     ],
@@ -1059,29 +1219,34 @@
     "question_number": 166,
     "question_german": "Was bedeutet die Abkürzung CDU in Deutschland?",
     "question_english": "What does CDU abbreviation mean in Germany?",
+      "question_arabic": "ماذا تعني اختصار CDU في ألمانيا؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "Christlicher Deutscher Umweltschutz",
         "text_english": "",
+          "text_arabic": "الحماية البيئية الألمانية المسيحية",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "Christlich Demokratische Union",
         "text_english": "",
+          "text_arabic": "الاتحاد الديمقراطي المسيحي",
         "is_correct": true
       },
       {
         "letter": "C",
         "text_german": "Christliche Deutsche Union",
         "text_english": "",
+          "text_arabic": "الاتحاد الألماني المسيحي",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "Club Deutscher Unternehmer",
         "text_english": "",
+          "text_arabic": "نادي رجال الأعمال الألمان",
         "is_correct": false
       }
     ],
@@ -1092,29 +1257,34 @@
     "question_number": 167,
     "question_german": "Was ist die Bundeswehr?",
     "question_english": "What is the German Armed Forces?",
+      "question_arabic": "ما هي البوندسفير؟ (القوات المسلحة الألمانية)",
     "answers": [
       {
         "letter": "A",
         "text_german": "ein deutscher Hafen",
         "text_english": "a German port",
+          "text_arabic": "ميناء ألماني",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "die deutsche Polizei",
         "text_english": "the German police",
+          "text_arabic": "الشرطة الألمانية",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "die deutsche Armee",
         "text_english": "the German army",
+          "text_arabic": "الجيش الألماني",
         "is_correct": true
       },
       {
         "letter": "D",
         "text_german": "eine deutsche Bürgerinitiative",
         "text_english": "a German citizens' initiative",
+          "text_arabic": "مبادرة مواطنين ألمانية",
         "is_correct": false
       }
     ],
@@ -1125,29 +1295,34 @@
     "question_number": 168,
     "question_german": "Was bedeutet die Abkürzung SPD?",
     "question_english": "What does SPD abbreviation mean?",
+      "question_arabic": "ماذا تعني اختصار SPD؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "Sozialpolitische Partei Deutschlands",
         "text_english": "",
+          "text_arabic": "الحزب الاجتماعي السياسي لألمانيا",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "Sozialgerechte Partei Deutschlands",
         "text_english": "",
+          "text_arabic": "الحزب الاجتماعي العادل لألمانيا",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "Sozialistische Partei Deutschlands",
         "text_english": "",
+          "text_arabic": "الحزب الاشتراكي لألمانيا",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "Sozialdemokratische Partei Deutschlands",
         "text_english": "",
+          "text_arabic": "الحزب الديمقراطي الاجتماعي لألمانيا",
         "is_correct": true
       }
     ],
@@ -1158,29 +1333,34 @@
     "question_number": 169,
     "question_german": "Was bedeutet die Abkürzung FDP in Deutschland?",
     "question_english": "What does FDP abbreviation mean in Germany?",
+      "question_arabic": "ماذا تعني اختصار FDP في ألمانيا؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "Freie Demokratische Partei",
         "text_english": "",
+          "text_arabic": "الحزب الديمقراطي الحر",
         "is_correct": true
       },
       {
         "letter": "B",
         "text_german": "Führende Demokratische Partei",
         "text_english": "",
+          "text_arabic": "الحزب الديمقراطي الرائد",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "Friedliche Demonstrative Partei",
         "text_english": "",
+          "text_arabic": "الحزب التظاهري السلمي",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "Freie Deutschland Partei",
         "text_english": "",
+          "text_arabic": "حزب ألمانيا الحر",
         "is_correct": false
       }
     ],
@@ -1191,29 +1371,34 @@
     "question_number": 170,
     "question_german": "Welches Gericht in Deutschland ist zuständig für die Auslegung des Grundgesetzes?",
     "question_english": "Which court in Germany is responsible for the interpretation of the Basic Law?",
+      "question_arabic": "أي محكمة في ألمانيا مختصة بتفسير القانون الأساسي؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "Bundesverfassungsgericht",
         "text_english": "Federal Constitutional Court",
+          "text_arabic": "المحكمة الدستورية الفيدرالية",
         "is_correct": true
       },
       {
         "letter": "B",
         "text_german": "Verwaltungsgericht",
         "text_english": "administrative court",
+          "text_arabic": "محكمة إدارية",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "Oberlandesgericht",
         "text_english": "Higher Regional Court",
+          "text_arabic": "محكمة إقليمية عليا",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "Amtsgericht",
         "text_english": "District Court",
+          "text_arabic": "محكمة المقاطعة",
         "is_correct": false
       }
     ],
@@ -1224,29 +1409,34 @@
     "question_number": 171,
     "question_german": "Wer wählt die Bundeskanzlerin/den Bundeskanzler in Deutschland?",
     "question_english": "Who elects the Federal Chancellor / Chancelloress in Germany?",
+      "question_arabic": "من ينتخب المستشار/ة الفيدرالي/ة في ألمانيا؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "das Volk",
         "text_english": "the people",
+          "text_arabic": "الشعب",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "der Bundesrat",
         "text_english": "the Federal Council",
+          "text_arabic": "المجلس الفيدرالي",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "der Bundestag",
         "text_english": "the Bundestag",
+          "text_arabic": "البوندستاغ",
         "is_correct": true
       },
       {
         "letter": "D",
         "text_german": "die Bundesversammlung",
         "text_english": "the Federal Assembly",
+          "text_arabic": "الجمعية الفيدرالية",
         "is_correct": false
       }
     ],
@@ -1257,29 +1447,34 @@
     "question_number": 172,
     "question_german": "Wer leitet das deutsche Bundeskabinett?",
     "question_english": "Who heads the German federal cabinet?",
+      "question_arabic": "من يرأس مجلس الوزراء الفيدرالي الألماني؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "der Bundespräsident/die Bundespräsidentin",
         "text_english": "the Federal President",
+          "text_arabic": "رئيس/ة الجمهورية الفيدرالية",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "der Bundesratspräsident/die Bundesratspräsidentin",
         "text_english": "the President of the Federal Council",
+          "text_arabic": "رئيس/ة المجلس الفيدرالي",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "der Bundeskanzler/die Bundeskanzlerin",
         "text_english": "the Federal Chancellor",
+          "text_arabic": "المستشار/ة الفيدرالي/ة",
         "is_correct": true
       },
       {
         "letter": "D",
         "text_german": "der Bundestagspräsident/die Bundestagspräsidentin",
         "text_english": "the President of the Bundestag",
+          "text_arabic": "رئيس/ة البوندستاغ",
         "is_correct": false
       }
     ],
@@ -1290,29 +1485,34 @@
     "question_number": 173,
     "question_german": "Wer wählt die deutsche Bundeskanzlerin/den deutschen Bundeskanzler?",
     "question_english": "Who elects the German Chancellor?",
+      "question_arabic": "من ينتخب المستشار/ة الألماني/ة؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "die Bundesversammlung",
         "text_english": "The Federal Assembly",
+          "text_arabic": "الجمعية الفيدرالية",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "die Bundesregierung",
         "text_english": "The Federal government",
+          "text_arabic": "الحكومة الفيدرالية",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "das Volk",
         "text_english": "The people",
+          "text_arabic": "الشعب",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "der Bundestag",
         "text_english": "The Bundestag",
+          "text_arabic": "البوندستاغ",
         "is_correct": true
       }
     ],

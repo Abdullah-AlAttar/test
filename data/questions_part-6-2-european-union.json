@@ -3,29 +3,34 @@
     "question_number": 273,
     "question_german": "Die Bundesrepublik Deutschland ist ein Gründungsmitglied …",
     "question_english": "The Federal Republic of Germany is a founding member...",
+    "question_arabic": "جمهورية ألمانيا الاتحادية هي عضو مؤسس في...",
     "answers": [
       {
         "letter": "A",
         "text_german": "der Europäischen Union (EU)",
         "text_english": "The European Union (EU)",
+        "text_arabic": "الاتحاد الأوروبي (EU)",
         "is_correct": true
       },
       {
         "letter": "B",
         "text_german": "des Nordatlantikpakts (NATO)",
         "text_english": "of the North Atlantic Treaty Organization (NATO)",
+        "text_arabic": "حلف شمال الأطلسي (الناتو)",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "des Warschauer Pakts",
         "text_english": "of the Warsaw Pact",
+        "text_arabic": "حلف وارسو",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "der Vereinten Nationen (VN)",
         "text_english": "of the United Nations (UN)",
+        "text_arabic": "الأمم المتحدة (UN)",
         "is_correct": false
       }
     ],
@@ -36,29 +41,34 @@
     "question_number": 274,
     "question_german": "Deutschland ist Mitglied des Schengener Abkommens. Was bedeutet das?",
     "question_english": "Germany is a member of the Schengen Agreement. What does that mean?",
+    "question_arabic": "ألمانيا عضو في اتفاقية شنغن. ماذا يعني ذلك؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "Alle Menschen können ohne Personenkontrolle in Deutschland einreisen",
         "text_english": "All people can enter Germany without identity checks",
+        "text_arabic": "يمكن للجميع دخول ألمانيا دون فحص الهوية",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "Deutsche können in viele Länder Europas ohne Passkontrolle reisen",
         "text_english": "Germans can travel to many countries in Europe without passport control",
+        "text_arabic": "يمكن للألمان السفر إلى العديد من دول أوروبا دون مراقبة جواز السفر",
         "is_correct": true
       },
       {
         "letter": "C",
         "text_german": "Deutsche können in jedem Land mit dem Euro bezahlen",
         "text_english": "Germans can pay with the euro in every country",
+        "text_arabic": "يمكن للألمان الدفع باليورو في كل بلد",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "Deutsche können ohne Passkontrolle in jedes Land reisen",
         "text_english": "Germans can travel to any country without passport control",
+        "text_arabic": "يمكن للألمان السفر إلى أي بلد دون مراقبة جواز السفر",
         "is_correct": false
       }
     ],
@@ -69,29 +79,34 @@
     "question_number": 275,
     "question_german": "Welches Land ist ein Nachbarland von Deutschland?",
     "question_english": "Which country is a neighbor of Germany?",
+    "question_arabic": "أي دولة هي دولة مجاورة لألمانيا؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "Spanien",
         "text_english": "Spain",
+        "text_arabic": "إسبانيا",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "Portugal",
         "text_english": "Portugal",
+        "text_arabic": "البرتغال",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "Ungarn",
         "text_english": "Hungarian",
+        "text_arabic": "المجر",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "Schweiz",
         "text_english": "Switzerland",
+        "text_arabic": "سويسرا",
         "is_correct": true
       }
     ],
@@ -102,29 +117,34 @@
     "question_number": 276,
     "question_german": "Welches Land ist ein Nachbarland von Deutschland?",
     "question_english": "Which country is a neighbor of Germany?",
+    "question_arabic": "أي دولة هي دولة مجاورة لألمانيا؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "Griechenland",
         "text_english": "Greece",
+        "text_arabic": "اليونان",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "Bulgarien",
         "text_english": "Bulgaria",
+        "text_arabic": "بلغاريا",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "Rumänien",
         "text_english": "Romania",
+        "text_arabic": "رومانيا",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "Polen",
         "text_english": "Poland",
+        "text_arabic": "بولندا",
         "is_correct": true
       }
     ],
@@ -135,29 +155,34 @@
     "question_number": 277,
     "question_german": "Welche Lebensform ist in Deutschland nicht erlaubt?",
     "question_english": "Which way of life is not allowed in Germany?",
+    "question_arabic": "أي نمط حياة غير مسموح به في ألمانيا؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "Ein alleinerziehender Vater lebt mit seinen zwei Kindern zusammen.",
         "text_english": "A single father lives with his two children.",
+        "text_arabic": "أب أعزب يعيش مع طفليه.",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "Mann und Frau sind geschieden und leben mit neuen Partnern zusammen",
         "text_english": "Husband and wife are divorced and living together with new partners",
+        "text_arabic": "رجل وامرأة مطلقان ويعيشان مع شركاء جدد.",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "Ein Mann ist mit zwei Frauen zur selben Zeit verheiratet",
         "text_english": "A man is married to two women at the same time",
+        "text_arabic": "رجل متزوج من امرأتين في نفس الوقت.",
         "is_correct": true
       },
       {
         "letter": "D",
         "text_german": "Zwei Frauen leben zusammen",
         "text_english": "Two women live together",
+        "text_arabic": "امرأتان تعيشان معًا.",
         "is_correct": false
       }
     ],
@@ -168,29 +193,34 @@
     "question_number": 278,
     "question_german": "In welchem anderen Land gibt es eine große deutschsprachige Bevölkerung?",
     "question_english": "What other country has a large German-speaking population?",
+    "question_arabic": "أي دولة أخرى لديها عدد كبير من السكان الناطقين بالألمانية؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "Österreich",
         "text_english": "Austria",
+        "text_arabic": "النمسا",
         "is_correct": true
       },
       {
         "letter": "B",
         "text_german": "Spanien",
         "text_english": "Spain",
+        "text_arabic": "إسبانيا",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "Tschechien",
         "text_english": "Czech Republic",
+        "text_arabic": "جمهورية التشيك",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "Norwegen",
         "text_english": "Norway",
+        "text_arabic": "النرويج",
         "is_correct": false
       }
     ],
@@ -201,29 +231,34 @@
     "question_number": 279,
     "question_german": "Welche ist die Flagge der Europäischen Union?",
     "question_english": "Which is the flag of the European Union?",
+    "question_arabic": "أي علم هو علم الاتحاد الأوروبي؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "Bild 1",
         "text_english": "Image 1",
+        "text_arabic": "الصورة 1",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "Bild 2",
         "text_english": "Image 2",
+        "text_arabic": "الصورة 2",
         "is_correct": true
       },
       {
         "letter": "C",
         "text_german": "Bild 3",
         "text_english": "Image 3",
+        "text_arabic": "الصورة 3",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "Bild 4",
         "text_english": "Image 4",
+        "text_arabic": "الصورة 4",
         "is_correct": false
       }
     ],
@@ -234,29 +269,34 @@
     "question_number": 280,
     "question_german": "Welches Land ist ein Nachbarland von Deutschland?",
     "question_english": "Which country is a neighbor of Germany?",
+    "question_arabic": "أي دولة هي دولة مجاورة لألمانيا؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "Schweden",
         "text_english": "Sweden",
+        "text_arabic": "السويد",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "Norwegen",
         "text_english": "Norway",
+        "text_arabic": "النرويج",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "Finnland",
         "text_english": "Finland",
+        "text_arabic": "فنلندا",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "Dänemark",
         "text_english": "Denmark",
+        "text_arabic": "الدنمارك",
         "is_correct": true
       }
     ],
@@ -267,29 +307,34 @@
     "question_number": 281,
     "question_german": "Welches Land ist ein Nachbarland von Deutschland?",
     "question_english": "Which country is a neighbor of Germany?",
+    "question_arabic": "أي دولة هي دولة مجاورة لألمانيا؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "Norwegen",
         "text_english": "Norway",
+        "text_arabic": "النرويج",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "Luxemburg",
         "text_english": "Luxembourg",
+        "text_arabic": "لوكسمبورغ",
         "is_correct": true
       },
       {
         "letter": "C",
         "text_german": "Spanien",
         "text_english": "Spain",
+        "text_arabic": "إسبانيا",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "Bulgarien",
         "text_english": "Bulgaria",
+        "text_arabic": "بلغاريا",
         "is_correct": false
       }
     ],
@@ -300,29 +345,34 @@
     "question_number": 282,
     "question_german": "Das Europäische Parlament wird regelmäßig gewählt, nämlich alle …",
     "question_english": "The European Parliament is elected regularly, namely every...",
+    "question_arabic": "يتم انتخاب البرلمان الأوروبي بانتظام، أي كل...",
     "answers": [
       {
         "letter": "A",
         "text_german": "5 Jahre",
         "text_english": "5 years",
+        "text_arabic": "5 سنوات",
         "is_correct": true
       },
       {
         "letter": "B",
         "text_german": "6 Jahre",
         "text_english": "6 years",
+        "text_arabic": "6 سنوات",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "7 Jahre",
         "text_english": "7 years",
+        "text_arabic": "7 سنوات",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "8 Jahre",
         "text_english": "8 years",
+        "text_arabic": "8 سنوات",
         "is_correct": false
       }
     ],
@@ -333,29 +383,34 @@
     "question_number": 283,
     "question_german": "Was bedeutet der Begriff \"europäische Integration\"?",
     "question_english": "What does the term “European integration” mean?",
+    "question_arabic": "ماذا يعني مصطلح \"التكامل الأوروبي\"؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "Der Begriff meint den Zusammenschluss europäischer Staaten zur EU",
         "text_english": "The term means the merger of European states to form the EU",
+        "text_arabic": "المصطلح يعني اتحاد الدول الأوروبية لتشكيل الاتحاد الأوروبي",
         "is_correct": true
       },
       {
         "letter": "B",
         "text_german": "Damit sind amerikanische Einwanderer in Europa gemeint",
         "text_english": "This means American immigrants in Europe",
+        "text_arabic": "هذا يعني المهاجرين الأمريكيين في أوروبا",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "Damit sind europäische Auswanderer in den USA gemeint",
         "text_english": "This means European emigrants in the USA",
+        "text_arabic": "هذا يعني المهاجرين الأوروبيين في الولايات المتحدة الأمريكية",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "Der Begriff meint den Einwanderungsstopp nach Europa",
         "text_english": "The term means the immigration stop to Europe",
+        "text_arabic": "المصطلح يعني وقف الهجرة إلى أوروبا",
         "is_correct": false
       }
     ],
@@ -366,29 +421,34 @@
     "question_number": 284,
     "question_german": "Wer wird bei der Europawahl gewählt?",
     "question_english": "Who is elected in the European elections?",
+    "question_arabic": "من يتم انتخابه في الانتخابات الأوروبية؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "die europäische Verfassung",
         "text_english": "The European constitution",
+        "text_arabic": "الدستور الأوروبي",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "die Abgeordneten des Europäischen Parlaments",
         "text_english": "The members of the European Parliament",
+        "text_arabic": "أعضاء البرلمان الأوروبي",
         "is_correct": true
       },
       {
         "letter": "C",
         "text_german": "die Europäische Kommission",
         "text_english": "The European Commission",
+        "text_arabic": "المفوضية الأوروبية",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "die Länder, die in die EU eintreten dürfen",
         "text_english": "The countries that are allowed to join the EU",
+        "text_arabic": "الدول التي يُسمح لها بالانضمام إلى الاتحاد الأوروبي",
         "is_correct": false
       }
     ],
@@ -399,29 +459,34 @@
     "question_number": 285,
     "question_german": "Welches Land ist ein Nachbarland von Deutschland?",
     "question_english": "Which country is a neighbor of Germany?",
+    "question_arabic": "أي دولة هي دولة مجاورة لألمانيا؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "Griechenland",
         "text_english": "Greece",
+        "text_arabic": "اليونان",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "Bulgarien",
         "text_english": "Bulgaria",
+        "text_arabic": "بلغاريا",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "Portugal",
         "text_english": "Portugal",
+        "text_arabic": "البرتغال",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "Tschechien",
         "text_english": "Czech Republic",
+        "text_arabic": "جمهورية التشيك",
         "is_correct": true
       }
     ],
@@ -432,29 +497,34 @@
     "question_number": 286,
     "question_german": "Wo ist der Sitz des Europäischen Parlaments?",
     "question_english": "Where is the seat of the European Parliament?",
+    "question_arabic": "أين يقع مقر البرلمان الأوروبي؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "Berlin",
         "text_english": "",
+        "text_arabic": "برلين",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "Straßburg",
         "text_english": "",
+        "text_arabic": "ستراسبورغ",
         "is_correct": true
       },
       {
         "letter": "C",
         "text_german": "Paris",
         "text_english": "",
+        "text_arabic": "باريس",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "London",
         "text_english": "",
+        "text_arabic": "لندن",
         "is_correct": false
       }
     ],
@@ -465,29 +535,34 @@
     "question_number": 287,
     "question_german": "Der damalige französische Staatspräsident Francois Mitterrand und der damalige deutsche Bundeskanzler Helmut Kohl gedenken in Verdun gemeinsam der Toten beider Weltkriege. Welches Ziel der Europäischen Union wird bei diesem Treffen deutlich?",
     "question_english": "The then French President Francois Mitterrand and the then German Chancellor Helmut Kohl commemorate the dead of both world wars together in Verdun. What goal of the European Union becomes clear at this meeting?",
+    "question_arabic": "الرئيس الفرنسي آنذاك فرانسوا ميتران والمستشار الألماني آنذاك هيلموت كول يحييان ذكرى قتلى الحربين العالميتين معًا في فردان. ما الهدف من الاتحاد الأوروبي الذي يتضح في هذا الاجتماع؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "Frieden und Sicherheit in den Ländern der EU",
         "text_english": "Peace and security in the countries of the EU",
+        "text_arabic": "السلام والأمن في دول الاتحاد الأوروبي",
         "is_correct": true
       },
       {
         "letter": "B",
         "text_german": "einheitliche Feiertage in den Ländern der EU",
         "text_english": "Uniform public holidays in the countries of the EU",
+        "text_arabic": "عطلات رسمية موحدة في دول الاتحاد الأوروبي",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "Reisefreiheit in alle Länder der EU",
         "text_english": "Freedom of travel to all EU countries",
+        "text_arabic": "حرية السفر إلى جميع دول الاتحاد الأوروبي",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "Freundschaft zwischen England und Deutschland",
         "text_english": "Friendship between England and Germany",
+        "text_arabic": "الصداقة بين إنجلترا وألمانيا",
         "is_correct": false
       }
     ],
@@ -498,29 +573,34 @@
     "question_number": 288,
     "question_german": "Wie viele Mitgliedstaaten hat die EU heute?",
     "question_english": "How many member states does the EU have today?",
+    "question_arabic": "كم عدد الدول الأعضاء في الاتحاد الأوروبي اليوم؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "21",
         "text_english": "",
+        "text_arabic": "21",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "23",
         "text_english": "",
+        "text_arabic": "23",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "25",
         "text_english": "",
+        "text_arabic": "25",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "27",
         "text_english": "",
+        "text_arabic": "27",
         "is_correct": true
       }
     ],
@@ -531,29 +611,34 @@
     "question_number": 289,
     "question_german": "2007 wurde das 50-jährige Jubiläum der \"Römischen Verträge\" gefeiert. Was war der Inhalt der Verträge?",
     "question_english": "In 2007, the 50th anniversary of the “Treaties of Rome” was celebrated. What was the content of the treaties?",
+    "question_arabic": "في عام 2007، تم الاحتفال بالذكرى الخمسين لـ\"معاهدات روما\". ما هو محتوى هذه المعاهدات؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "Gründung der Europäischen Wirtschaftsgemeinschaft (EWG)",
         "text_english": "Foundation of the European Economic Community (EEC)",
+        "text_arabic": "تأسيس الجماعة الاقتصادية الأوروبية (EEC)",
         "is_correct": true
       },
       {
         "letter": "B",
         "text_german": "Festlegung der Oder-Neiße-Linie als Ostgrenze",
         "text_english": "Establishment of the Oder-Neisse line as the eastern border",
+        "text_arabic": "تحديد خط أودر-نيسه كحدود شرقية",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "Beitritt Deutschlands zur NATO",
         "text_english": "Germany joins NATO",
+        "text_arabic": "انضمام ألمانيا إلى الناتو",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "Verpflichtung Deutschlands zu Reparationsleistungen",
         "text_english": "Germany's obligation to pay reparations",
+        "text_arabic": "التزام ألمانيا بدفع تعويضات",
         "is_correct": false
       }
     ],
@@ -564,29 +649,34 @@
     "question_number": 290,
     "question_german": "An welchen Orten arbeitet das Europäische Parlament?",
     "question_english": "Where does the European Parliament work?",
+    "question_arabic": "في أي أماكن يعمل البرلمان الأوروبي؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "Straßburg, Luxemburg und Brüssel",
         "text_english": "Strasbourg, Luxembourg and Brussels",
+        "text_arabic": "ستراسبورغ، لوكسمبورغ وبروكسل",
         "is_correct": true
       },
       {
         "letter": "B",
         "text_german": "Rom, Bern und Wien",
         "text_english": "Rome, Bern and Vienna",
+        "text_arabic": "روما، برن وفيينا",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "Paris, London und Den Haag",
         "text_english": "Paris, London and The Hague",
+        "text_arabic": "باريس، لندن ولاهاي",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "Bonn, Zürich und Mailand",
         "text_english": "Bonn, Zurich and Milan",
+        "text_arabic": "بون، زيورخ وميلانو",
         "is_correct": false
       }
     ],
@@ -597,29 +687,34 @@
     "question_number": 291,
     "question_german": "Durch welche Verträge schloss sich die Bundesrepublik Deutschland mit anderen Staaten zur Europäischen Wirtschaftsgemeinschaft zusammen?",
     "question_english": "Through which treaties did the Federal Republic of Germany join forces with other states to form the European Economic Community?",
+    "question_arabic": "من خلال أي معاهدات انضمت جمهورية ألمانيا الاتحادية إلى دول أخرى لتشكيل الجماعة الاقتصادية الأوروبية؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "durch die \"Pariser Verträge\"",
         "text_english": "through the “Paris Treaties”",
+        "text_arabic": "من خلال \"معاهدات باريس\"",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "durch die \"Hamburger Verträge\"",
         "text_english": "through the “Hamburg Treaties”",
+        "text_arabic": "من خلال \"معاهدات هامبورغ\"",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "durch die \"Römischen Verträge\"",
         "text_english": "through the “Roman Treaties”",
+        "text_arabic": "من خلال \"معاهدات روما\"",
         "is_correct": true
       },
       {
         "letter": "D",
         "text_german": "durch die \"Londoner Verträge\"",
         "text_english": "through the “London Treaties”",
+        "text_arabic": "من خلال \"معاهدات لندن\"",
         "is_correct": false
       }
     ],
@@ -630,29 +725,34 @@
     "question_number": 292,
     "question_german": "Seit wann bezahlt man in Deutschland mit dem Euro in bar?",
     "question_english": "Since when do you pay with the euro in cash in Germany?",
+    "question_arabic": "منذ متى يتم الدفع باليورو نقدًا في ألمانيا؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "1995",
         "text_english": "",
+        "text_arabic": "1995",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "1998",
         "text_english": "",
+        "text_arabic": "1998",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "2002",
         "text_english": "",
+        "text_arabic": "2002",
         "is_correct": true
       },
       {
         "letter": "D",
         "text_german": "2005",
         "text_english": "",
+        "text_arabic": "2005",
         "is_correct": false
       }
     ],
@@ -663,29 +763,34 @@
     "question_number": 293,
     "question_german": "Aus welchem Land sind die meisten Migranten und Migrantinnen nach Deutschland gekommen?",
     "question_english": "From which country have most migrants come to Germany?",
+    "question_arabic": "من أي دولة جاء معظم المهاجرين إلى ألمانيا؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "Italien",
         "text_english": "Italy",
+        "text_arabic": "إيطاليا",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "Türkei",
         "text_english": "Türkiye",
+        "text_arabic": "تركيا",
         "is_correct": true
       },
       {
         "letter": "C",
         "text_german": "Polen",
         "text_english": "Poland",
+        "text_arabic": "بولندا",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "Marokko",
         "text_english": "Morocco",
+        "text_arabic": "المغرب",
         "is_correct": false
       }
     ],
@@ -696,29 +801,34 @@
     "question_number": 294,
     "question_german": "In der DDR lebten vor allem Migrantinnen/Migranten aus …",
     "question_english": "In the DDR lived mainly migrants from ...",
+    "question_arabic": "في جمهورية ألمانيا الديمقراطية عاش بشكل رئيسي مهاجرون من ...",
     "answers": [
       {
         "letter": "A",
         "text_german": "Chile, Ungarn, Simbabwe.",
         "text_english": "Chile, Hungary, Zimbabwe.",
+        "text_arabic": "تشيلي، المجر، زيمبابوي.",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "Nordkorea, Mexiko, Ägypten.",
         "text_english": "North Korea, Mexico, Egypt.",
+        "text_arabic": "كوريا الشمالية، المكسيك، مصر.",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "Frankreich, Rumänien, Somalia.",
         "text_english": "France, Romania, Somalia.",
+        "text_arabic": "فرنسا، رومانيا، الصومال.",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "Vietnam, Polen, Mosambik",
         "text_english": "Vietnam, Poland, Mozambique",
+        "text_arabic": "فيتنام، بولندا، موزمبيق",
         "is_correct": true
       }
     ],
@@ -729,29 +839,34 @@
     "question_number": 295,
     "question_german": "Ausländische Arbeitnehmer und Arbeitnehmerinnen, die in den 50er und 60er Jahren von der Bundesrepublik Deutschland angeworben wurden, nannte man …",
     "question_english": "Foreign workers who were recruited by the Federal Republic of Germany in the 1950s and 1960s were called ...",
+    "question_arabic": "العمال الأجانب الذين تم توظيفهم من قبل جمهورية ألمانيا الاتحادية في الخمسينيات والستينيات كانوا يُسمون ...",
     "answers": [
       {
         "letter": "A",
         "text_german": "Gastarbeiter/Gastarbeiterinnen",
         "text_english": "Guest workers",
+        "text_arabic": "العمال الضيوف",
         "is_correct": true
       },
       {
         "letter": "B",
         "text_german": "Zeitarbeiter/Zeitarbeiterinnen",
         "text_english": "Temporary workers",
+        "text_arabic": "العمال المؤقتون",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "Schwarzarbeiter/Schwarzarbeiterinnen",
         "text_english": "Black workers",
+        "text_arabic": "العمال غير الشرعيين",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "Schichtarbeiter/Schichtarbeiterinnen",
         "text_english": "Shift workers",
+        "text_arabic": "عمال الورديات",
         "is_correct": false
       }
     ],
@@ -762,29 +877,34 @@
     "question_number": 296,
     "question_german": "Aus welchem Land kamen die ersten Gastarbeiter und Gastarbeiterinnen nach Deutschland?",
     "question_english": "From which country did the first guest workers come to Germany?",
+    "question_arabic": "من أي دولة جاء أول العمال الضيوف إلى ألمانيا؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "Italien",
         "text_english": "Italy",
+        "text_arabic": "إيطاليا",
         "is_correct": true
       },
       {
         "letter": "B",
         "text_german": "Portugal",
         "text_english": "Portugal",
+        "text_arabic": "البرتغال",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "Türkei",
         "text_english": "Türkiye",
+        "text_arabic": "تركيا",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "Spanien",
         "text_english": "Spain",
+        "text_arabic": "إسبانيا",
         "is_correct": false
       }
     ],
@@ -795,29 +915,34 @@
     "question_number": 297,
     "question_german": "Was bedeutet die Abkürzung EU?",
     "question_english": "What does the EU abbreviation mean?",
+    "question_arabic": "ماذا تعني اختصار EU؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "Einheitliche Union",
         "text_english": "Unified Union",
+        "text_arabic": "الاتحاد الموحد",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "Europäische Union",
         "text_english": "European Union",
+        "text_arabic": "الاتحاد الأوروبي",
         "is_correct": true
       },
       {
         "letter": "C",
         "text_german": "Europäische Unternehmen",
         "text_english": "European companies",
+        "text_arabic": "الشركات الأوروبية",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "Euro Union",
         "text_english": "Euro union",
+        "text_arabic": "اتحاد اليورو",
         "is_correct": false
       }
     ],
@@ -828,29 +953,34 @@
     "question_number": 298,
     "question_german": "Warum muss man in Deutschland bei der Steuererklärung aufschreiben, ob man zu einer Kirche gehört oder nicht? Weil …",
     "question_english": "Why do you have to write down on your tax return in Germany whether you belong to a church or not? Because ...",
+    "question_arabic": "لماذا يجب عليك في ألمانيا أن تذكر في إقرارك الضريبي ما إذا كنت تنتمي إلى كنيسة أم لا؟ لأن ...",
     "answers": [
       {
         "letter": "A",
         "text_german": "die Kirche für die Steuererklärung verantwortlich ist.",
         "text_english": "the church is responsible for the tax return.",
+        "text_arabic": "الكنيسة مسؤولة عن الإقرار الضريبي.",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "das für die Statistik in Deutschland wichtig ist.",
         "text_english": "that is important for statistics in Germany",
+        "text_arabic": "هذا مهم للإحصاءات في ألمانيا",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "man mehr Steuern zahlen muss, wenn man nicht zu einer Kirche gehört.",
         "text_english": "you have to pay more taxes if you don't belong to a church.",
+        "text_arabic": "يجب عليك دفع المزيد من الضرائب إذا لم تكن تنتمي إلى كنيسة.",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "es eine Kirchensteuer gibt, die an die Einkommen- und Lohnsteuer geknüpft ist.",
         "text_english": "there is a church tax linked to income and wage tax.",
+        "text_arabic": "هناك ضريبة كنيسة مرتبطة بضريبة الدخل والأجور.",
         "is_correct": true
       }
     ],
@@ -861,29 +991,34 @@
     "question_number": 299,
     "question_german": "Die Menschen in Deutschland leben nach dem Grundsatz der religiösen Toleranz. Was bedeutet das?",
     "question_english": "The people in Germany live according to the principle of religious tolerance. What does that mean?",
+    "question_arabic": "يعيش الناس في ألمانيا وفقًا لمبدأ التسامح الديني. ماذا يعني ذلك؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "Jeder kann glauben, was er möchte.",
         "text_english": "Everyone can believe what they want.",
+        "text_arabic": "يمكن للجميع أن يعتقدوا ما يشاؤون.",
         "is_correct": true
       },
       {
         "letter": "B",
         "text_german": "Alle Menschen glauben an Gott.",
         "text_english": "All people believe in God.",
+        "text_arabic": "جميع الناس يؤمنون بالله.",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "Es dürfen keine Moscheen gebaut werden.",
         "text_english": "Mosques are not allowed to be built.",
+        "text_arabic": "لا يُسمح ببناء المساجد.",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "Der Staat entscheidet, an welchen Gott die Menschen glauben.",
         "text_english": "The state decides which god people believe in.",
+        "text_arabic": "الدولة تقرر أي إله يعبد الناس.",
         "is_correct": false
       }
     ],
@@ -894,29 +1029,34 @@
     "question_number": 300,
     "question_german": "Welche Religion hat die europäische und deutsche Kultur geprägt?",
     "question_english": "Which religion has shaped European and German culture?",
+    "question_arabic": "أي دين شكّل الثقافة الأوروبية والألمانية؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "das Christentum",
         "text_english": "Christianity",
+        "text_arabic": "المسيحية",
         "is_correct": true
       },
       {
         "letter": "B",
         "text_german": "der Hinduismus",
         "text_english": "The Hinduism",
+        "text_arabic": "الهندوسية",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "der Buddhismus",
         "text_english": "The Buddhism",
+        "text_arabic": "البوذية",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "der Islam",
         "text_english": "The islam",
+        "text_arabic": "الإسلام",
         "is_correct": false
       }
     ],

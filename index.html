@@ -23,7 +23,15 @@
           </template>
         </select>
         <div style="margin-top:.75rem;">
-          <input class="search-box" type="text" placeholder="Search (German/English)" x-model="search" @input="applySearch()" />
+          <input class="search-box" type="text" placeholder="Search (German/English/Arabic)" x-model="search" @input="applySearch()" />
+        </div>
+        <div style="margin-top:.75rem;">
+          <label style="font-size:.75rem; font-weight:600;">Translation Language</label>
+          <div class="filter-group" style="margin-top:.35rem;">
+            <button class="filter-btn" :class="{'active': translationLang === 'english'}" @click="changeTranslationLang('english')">English</button>
+            <button class="filter-btn" :class="{'active': translationLang === 'arabic'}" @click="changeTranslationLang('arabic')">العربية</button>
+            <button class="filter-btn" :class="{'active': translationLang === 'both'}" @click="changeTranslationLang('both')">Both</button>
+          </div>
         </div>
         <div style="margin-top:.75rem;">
           <label style="font-size:.75rem; font-weight:600;">Filter by Status</label>
@@ -86,7 +94,14 @@
             <button type="button" class="audio-btn" @click="speakGerman(q.question_german)" title="Play question">🔊</button>
           </div>
           <template x-if="q.showAll">
-            <div class="translation" x-text="q.question_english"></div>
+            <div class="translation">
+              <template x-if="translationLang === 'english' || translationLang === 'both'">
+                <div x-text="q.question_english" style="margin-bottom: 0.5rem;"></div>
+              </template>
+              <template x-if="translationLang === 'arabic' || translationLang === 'both'">
+                <div x-text="q.question_arabic" style="direction: rtl; text-align: right;"></div>
+              </template>
+            </div>
           </template>
           <div class="answers">
             <template x-for="a in q.answers" :key="a.letter">
@@ -98,7 +113,14 @@
                   <button type="button" class="audio-btn" @click.stop="speakGerman(a.text_german)" title="Play answer" style="padding:.3rem .55rem; font-size:.65rem; flex:0 0 auto;">🔊</button>
                 </div>
                 <template x-if="showAnswerTranslation(q,a)">
-                  <div class="translation" x-text="a.text_english"></div>
+                  <div class="translation">
+                    <template x-if="translationLang === 'english' || translationLang === 'both'">
+                      <div x-text="a.text_english" style="margin-bottom: 0.5rem;"></div>
+                    </template>
+                    <template x-if="translationLang === 'arabic' || translationLang === 'both'">
+                      <div x-text="a.text_arabic" style="direction: rtl; text-align: right;"></div>
+                    </template>
+                  </div>
                 </template>
               </div>
             </template>

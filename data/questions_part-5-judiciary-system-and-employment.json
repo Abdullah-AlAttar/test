@@ -3,29 +3,34 @@
     "question_number": 214,
     "question_german": "In Deutschland sind die meisten Erwerbstätigen …",
     "question_english": "In Germany, most working population …",
+    "question_arabic": "في ألمانيا، معظم السكان العاملين ...",
     "answers": [
       {
         "letter": "A",
         "text_german": "bei einer Firma oder Behörde beschäftigt.",
         "text_english": "employed by a company or organization.",
+        "text_arabic": "يعملون لدى شركة أو جهة حكومية.",
         "is_correct": true
       },
       {
         "letter": "B",
         "text_german": "selbständig mit einer eigenen Firma tätig.",
         "text_english": "self-employed with his own company.",
+        "text_arabic": "يعملون لحسابهم الخاص مع شركتهم الخاصة.",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "in kleinen Familienunternehmen beschäftigt.",
         "text_english": "employed in small family businesses.",
+        "text_arabic": "يعملون في شركات عائلية صغيرة.",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "ehrenamtlich für ein Bundesland tätig.",
         "text_english": "Volunteer for a state.",
+        "text_arabic": "يعملون بشكل تطوعي لصالح ولاية.",
         "is_correct": false
       }
     ],
@@ -36,29 +41,34 @@
     "question_number": 215,
     "question_german": "Die Wirtschaftsform in Deutschland nennt man …",
     "question_english": "The economic system in Germany is called …",
+    "question_arabic": "النظام الاقتصادي في ألمانيا يسمى ...",
     "answers": [
       {
         "letter": "A",
         "text_german": "Planwirtschaft.",
         "text_english": "Planned economy.",
+        "text_arabic": "اقتصاد مخطط.",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "gelenkte Zentralwirtschaft.",
         "text_english": "Controlled central economy.",
+        "text_arabic": "اقتصاد مركزي موجه.",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "freie Zentralwirtschaft.",
         "text_english": "Free central economy.",
+        "text_arabic": "اقتصاد مركزي حر.",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "soziale Marktwirtschaft.",
         "text_english": "social market economy.",
+        "text_arabic": "اقتصاد السوق الاجتماعي.",
         "is_correct": true
       }
     ],
@@ -69,29 +79,34 @@
     "question_number": 216,
     "question_german": "Was bezahlt man in Deutschland automatisch, wenn man fest angestellt ist?",
     "question_english": "What do you automatically pay in Germany if you are permanently employed?",
+    "question_arabic": "ما الذي تدفعه تلقائيًا في ألمانيا إذا كنت موظفًا دائمًا؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "Kindergeld",
         "text_english": "Child allowance",
+        "text_arabic": "إعانة الأطفال",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "Wohngeld",
         "text_english": "Housing allowance",
+        "text_arabic": "إعانة السكن",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "Sozialhilfe",
         "text_english": "Social care",
+        "text_arabic": "المساعدة الاجتماعية",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "Sozialversicherung",
         "text_english": "Social insurance",
+        "text_arabic": "التأمين الاجتماعي",
         "is_correct": true
       }
     ],
@@ -102,29 +117,34 @@
     "question_number": 217,
     "question_german": "Wer bezahlt in Deutschland die Sozialversicherungen?",
     "question_english": "Who pays for social security in Germany?",
+    "question_arabic": "من يدفع التأمينات الاجتماعية في ألمانيا؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "nur Arbeitgeberinnen/Arbeitgeber",
         "text_english": "Employers only",
+        "text_arabic": "فقط أصحاب العمل",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "alle Staatsangehörigen",
         "text_english": "All nationals",
+        "text_arabic": "جميع المواطنين",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "Arbeitgeberinnen/Arbeitgeber und Arbeitnehmerinnen/Arbeitnehmer",
         "text_english": "Employers and employees",
+        "text_arabic": "أصحاب العمل والموظفون",
         "is_correct": true
       },
       {
         "letter": "D",
         "text_german": "nur Arbeitnehmerinnen/Arbeitnehmer",
         "text_english": "Employees only",
+        "text_arabic": "فقط الموظفون",
         "is_correct": false
       }
     ],
@@ -135,29 +155,34 @@
     "question_number": 218,
     "question_german": "Was gehört nicht zur gesetzlichen Sozialversicherung?",
     "question_english": "What does not belong to statutory social insurance?",
+    "question_arabic": "ما الذي لا ينتمي إلى التأمين الاجتماعي القانوني؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "die Pflegeversicherung",
         "text_english": "The care insurance",
+        "text_arabic": "تأمين الرعاية",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "die Lebensversicherung",
         "text_english": "Life insurance",
+        "text_arabic": "تأمين الحياة",
         "is_correct": true
       },
       {
         "letter": "C",
         "text_german": "die gesetzliche Rentenversicherung",
         "text_english": "The statutory pension insurance",
+        "text_arabic": "تأمين التقاعد القانوني",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "die Arbeitslosenversicherung",
         "text_english": "The unemployment insurance",
+        "text_arabic": "تأمين البطالة",
         "is_correct": false
       }
     ],
@@ -168,29 +193,34 @@
     "question_number": 219,
     "question_german": "Gewerkschaften sind Interessenverbände der …",
     "question_english": "Trade unions are interest groups of the ...",
+    "question_arabic": "النقابات هي جمعيات مصالح لـ ...",
     "answers": [
       {
         "letter": "A",
         "text_german": "Renterinnen und Rentner.",
         "text_english": "Pensioners.",
+        "text_arabic": "المتقاعدين.",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "Arbeitgeberinnen und Arbeitgeber.",
         "text_english": "Employers.",
+        "text_arabic": "أصحاب العمل.",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "Arbeitnehmerinnen und Arbeitnehmer.",
         "text_english": "Employees.",
+        "text_arabic": "الموظفين.",
         "is_correct": true
       },
       {
         "letter": "D",
         "text_german": "Jugendlichen.",
         "text_english": "Teenagers.",
+        "text_arabic": "المراهقين.",
         "is_correct": false
       }
     ],
@@ -201,29 +231,34 @@
     "question_number": 220,
     "question_german": "Womit kann man in der Bundesrepublik Deutschland geehrt werden, wenn man auf politischem, wirtschaftlichem, kulturellem, geistigem oder sozialem Gebiet eine besondere Leistung erbracht hat? Mit dem …",
     "question_english": "How can you be honored in the Federal Republic of Germany if you have made a special contribution in a political, economic, cultural, intellectual or social area? With the …",
+    "question_arabic": "بماذا يمكن تكريمك في جمهورية ألمانيا الاتحادية إذا قدمت إنجازًا خاصًا في المجال السياسي أو الاقتصادي أو الثقافي أو الفكري أو الاجتماعي؟ بـ ...",
     "answers": [
       {
         "letter": "A",
         "text_german": "Bundesadler",
         "text_english": "Federal eagle",
+        "text_arabic": "النسر الفيدرالي",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "Ehrentitel \"Held der Deutschen Demokratischen Republik\"",
         "text_english": "Honorary title “Hero of the German Democratic Republic”",
+        "text_arabic": "لقب الشرف \"بطل جمهورية ألمانيا الديمقراطية\"",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "Bundesverdienstkreuz",
         "text_english": "Federal Cross of Merit",
+        "text_arabic": "وسام الاستحقاق الفيدرالي",
         "is_correct": true
       },
       {
         "letter": "D",
         "text_german": "Vaterländischen Verdienstorden",
         "text_english": "Patriotic Order of Merit",
+        "text_arabic": "وسام الاستحقاق الوطني",
         "is_correct": false
       }
     ],
@@ -234,29 +269,34 @@
     "question_number": 221,
     "question_german": "Eine Frau in Deutschland verliert ihre Arbeit. Was darf nicht der Grund für diese Entlassung sein?",
     "question_english": "A woman in Germany loses her job. What must not be the reason for this dismissal?",
+    "question_arabic": "امرأة في ألمانيا تفقد عملها. ما الذي لا يجب أن يكون سببًا لهذا الفصل؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "Die Frau kam oft zu spät zur Arbeit.",
         "text_english": "The woman was often late for work.",
+        "text_arabic": "كانت المرأة تتأخر كثيرًا عن العمل.",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "Die Frau bekommt ein Kind und ihr Chef weiß das.",
         "text_english": "The woman is having a child and her boss knows it.",
+        "text_arabic": "المرأة ستنجب طفلاً ورئيسها يعلم بذلك.",
         "is_correct": true
       },
       {
         "letter": "C",
         "text_german": "Die Frau ist lange krank und arbeitsunfähig.",
         "text_english": "The woman has been ill for a long time and unable to work.",
+        "text_arabic": "المرأة مريضة منذ فترة طويلة وغير قادرة على العمل.",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "Die Frau erledigt private Sachen während der Arbeitszeit.",
         "text_english": "The woman does private things during working hours.",
+        "text_arabic": "المرأة تقوم بأشياء خاصة أثناء ساعات العمل.",
         "is_correct": false
       }
     ],
@@ -267,29 +307,34 @@
     "question_number": 222,
     "question_german": "Viele Menschen in Deutschland arbeiten in ihrer Freizeit ehrenamtlich. Was bedeutet das?",
     "question_english": "Many people in Germany do volunteer work in their free time. What does that mean?",
+    "question_arabic": "العديد من الناس في ألمانيا يعملون تطوعًا في أوقات فراغهم. ماذا يعني ذلك؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "Sie arbeiten in der Bundesregierung.",
         "text_english": "You work in the federal government.",
+        "text_arabic": "يعملون في الحكومة الفيدرالية.",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "Sie arbeiten in einem Krankenhaus und verdienen dabei Geld.",
         "text_english": "You work in a hospital and earn money.",
+        "text_arabic": "يعملون في مستشفى ويكسبون المال.",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "Sie arbeiten freiwillig und unbezahlt in Vereinen und Verbänden.",
         "text_english": "They work voluntarily and unpaid in clubs and associations.",
+        "text_arabic": "يعملون بشكل تطوعي وبدون أجر في الجمعيات والنوادي.",
         "is_correct": true
       },
       {
         "letter": "D",
         "text_german": "Sie arbeiten als Soldatinnen/Soldaten.",
         "text_english": "They work as soldiers.",
+        "text_arabic": "يعملون كجنود.",
         "is_correct": false
       }
     ],
@@ -300,29 +345,34 @@
     "question_number": 223,
     "question_german": "Wen vertreten die Gewerkschaften in Deutschland?",
     "question_english": "Who do the unions represent in Germany?",
+    "question_arabic": "من تمثل النقابات في ألمانيا؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "kleine Unternehmen",
         "text_english": "Small companies",
+        "text_arabic": "الشركات الصغيرة",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "Arbeitnehmerinnen und Arbeitnehmer",
         "text_english": "Employees",
+        "text_arabic": "الموظفين",
         "is_correct": true
       },
       {
         "letter": "C",
         "text_german": "grosse Unternehmen",
         "text_english": "Large companies",
+        "text_arabic": "الشركات الكبيرة",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "Selbstständige",
         "text_english": "Self-employed",
+        "text_arabic": "العاملين لحسابهم الخاص",
         "is_correct": false
       }
     ],
@@ -333,29 +383,34 @@
     "question_number": 224,
     "question_german": "Sie gehen in Deutschland zum Arbeitsgericht bei …",
     "question_english": "You go to the labor court in Germany at …",
+    "question_arabic": "تذهب إلى محكمة العمل في ألمانيا في حالة ...",
     "answers": [
       {
         "letter": "A",
         "text_german": "ungerechtfertigter Kündigung durch Ihren Chef/Ihre Chefin.",
         "text_english": "Unfair dismissal by your boss.",
+        "text_arabic": "الفصل غير المبرر من قبل رئيسك.",
         "is_correct": true
       },
       {
         "letter": "B",
         "text_german": "Schwierigkeiten nach einem Verkehrsunfall.",
         "text_english": "Difficulties after a traffic accident.",
+        "text_arabic": "صعوبات بعد حادث مروري.",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "falscher Nebenkostenabrechnung.",
         "text_english": "Incorrect service charge settlement.",
+        "text_arabic": "تسوية رسوم خدمات غير صحيحة.",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "Problemen mit den Nachbarn/Nachbarinnen.",
         "text_english": "Problems with the neighbors.",
+        "text_arabic": "مشاكل مع الجيران.",
         "is_correct": false
       }
     ],
@@ -366,29 +421,34 @@
     "question_number": 225,
     "question_german": "Welches Gericht ist in Deutschland bei Konflikten in der Arbeitswelt zuständig?",
     "question_english": "Which court is competent in Germany for conflicts in the world of work?",
+    "question_arabic": "أي محكمة مختصة في ألمانيا بالنزاعات في عالم العمل؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "das Strafgericht",
         "text_english": "The criminal court",
+        "text_arabic": "محكمة الجنايات",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "das Arbeitsgericht",
         "text_english": "The labor court",
+        "text_arabic": "محكمة العمل",
         "is_correct": true
       },
       {
         "letter": "C",
         "text_german": "das Amtsgericht",
         "text_english": "The district court",
+        "text_arabic": "محكمة المقاطعة",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "das Familiengericht",
         "text_english": "The family court",
+        "text_arabic": "محكمة الأسرة",
         "is_correct": false
       }
     ],
@@ -399,29 +459,34 @@
     "question_number": 226,
     "question_german": "Soziale Marktwirtschaft bedeutet, die Wirtschaft …",
     "question_english": "Social market economy means that the economy...",
+    "question_arabic": "اقتصاد السوق الاجتماعي يعني أن الاقتصاد ...",
     "answers": [
       {
         "letter": "A",
         "text_german": "wird vom Staat geplant und gesteuert, Angebot und Nachfrage werden nicht berücksichtigt.",
         "text_english": "is planned and controlled by the state, supply and demand are not taken into account.",
+        "text_arabic": "يتم تخطيطه والتحكم فيه من قبل الدولة، ولا يتم أخذ العرض والطلب في الاعتبار.",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "richtet sich nach der Nachfrage im Ausland.",
         "text_english": "depends on the demand abroad.",
+        "text_arabic": "يعتمد على الطلب في الخارج.",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "richtet sich nach Angebot und Nachfrage, aber der Staat sorgt für einen sozialen Ausgleich.",
         "text_english": "depends on supply and demand, but the state ensures social balance.",
+        "text_arabic": "يعتمد على العرض والطلب، لكن الدولة تضمن التوازن الاجتماعي.",
         "is_correct": true
       },
       {
         "letter": "D",
         "text_german": "steuert sich allein nach Angebot und Nachfrage.",
         "text_english": "is controlled solely by supply and demand.",
+        "text_arabic": "يتم التحكم فيه فقط من خلال العرض والطلب.",
         "is_correct": false
       }
     ],
@@ -432,29 +497,34 @@
     "question_number": 227,
     "question_german": "Eine Frau ist schwanger. Sie ist kurz vor und nach der Geburt ihres Kindes vom Gesetz besonders beschützt. Wie heißt dieser Schutz?",
     "question_english": "A woman is pregnant. She is specially protected by the law shortly before and after the birth of her child. What is this protection called?",
+    "question_arabic": "امرأة حامل. هي محمية بشكل خاص بموجب القانون قبل وبعد ولادة طفلها. ماذا يسمى هذا الحماية؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "Geburtsvorbereitung",
         "text_english": "Childbirth preparation",
+        "text_arabic": "التحضير للولادة",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "Elternzeit",
         "text_english": "Maternity leave",
+        "text_arabic": "إجازة الأمومة",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "Wochenbett",
         "text_english": "Childbed",
+        "text_arabic": "فترة النفاس",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "Mutterschutz",
         "text_english": "Maternity Protection",
+        "text_arabic": "حماية الأمومة",
         "is_correct": true
       }
     ],
@@ -465,29 +535,34 @@
     "question_number": 228,
     "question_german": "Ein Ehepaar möchte in Deutschland ein Restaurant eröffnen. Was braucht es dazu unbedingt?",
     "question_english": "A couple would like to open a restaurant in Germany. What does it absolutely need?",
+    "question_arabic": "زوجان يرغبان في فتح مطعم في ألمانيا. ما الذي يحتاجانه بالضرورة؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "eine Genehmigung des Einwohnermeldeamts",
         "text_english": "a permit from the Residents' Registration Office",
+        "text_arabic": "تصريح من مكتب تسجيل السكان",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "eine Genehmigung einer Partei",
         "text_english": "an approval of a party",
+        "text_arabic": "موافقة من حزب",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "eine Erlaubnis der Polizei",
         "text_english": "permission from the police",
+        "text_arabic": "إذن من الشرطة",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "eine Gaststättenerlaubnis von der zuständigen Behörde",
         "text_english": "a restaurant permit from the competent authority",
+        "text_arabic": "تصريح مطعم من السلطة المختصة",
         "is_correct": true
       }
     ],
@@ -498,29 +573,34 @@
     "question_number": 229,
     "question_german": "Welches Ehrenamt müssen deutsche Staatsbürgerinnen und Staatsbürger übernehmen, wenn sie dazu aufgefordert werden?",
     "question_english": "Which voluntary work must German citizens take on if they are asked to do so?",
+    "question_arabic": "أي عمل تطوعي يجب على المواطنين الألمان القيام به إذا طُلب منهم ذلك؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "Bibliotheksaufsicht",
         "text_english": "Library supervision",
+        "text_arabic": "الإشراف على المكتبة",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "Vereinstrainerin/Vereinstrainer",
         "text_english": "Club trainer",
+        "text_arabic": "مدرب النادي",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "Lehrerin/Lehrer",
         "text_english": "Teacher",
+        "text_arabic": "معلم/معلمة",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "Wahlhelferin/Wahlhelfer",
         "text_english": "Election worker",
+        "text_arabic": "عامل انتخابي",
         "is_correct": true
       }
     ],
@@ -531,29 +611,34 @@
     "question_number": 230,
     "question_german": "Was man für die Arbeit können muss, ändert sich in Zukunft sehr schnell. Was kann man tun?",
     "question_english": "What you have to be able to do for work will change very quickly in the future. What can you do?",
+    "question_arabic": "ما يجب أن تكون قادرًا على فعله للعمل سيتغير بسرعة كبيرة في المستقبل. ماذا يمكنك أن تفعل؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "Kinder lernen in der Schule alles, was im Beruf wichtig ist. Nach der Schule muss man nicht weiter lernen.",
         "text_english": "At school, children learn everything that is important in their job. You don't have to keep studying after school.",
+        "text_arabic": "يتعلم الأطفال في المدرسة كل ما هو مهم في العمل. بعد المدرسة لا يجب أن تواصل التعلم.",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "Alle müssen früher aufhören zu arbeiten, weil sich alles ändert.",
         "text_english": "Everyone has to stop working earlier because everything is changing.",
+        "text_arabic": "يجب على الجميع التوقف عن العمل مبكرًا لأن كل شيء يتغير.",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "Es ist egal, was man lernt.",
         "text_english": "It doesn't matter what you learn.",
+        "text_arabic": "لا يهم ما تتعلمه.",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "Erwachsene müssen auch nach der Ausbildung immer weiter lernen.",
         "text_english": "Adults need to keep learning, even after they graduate.",
+        "text_arabic": "يجب على البالغين الاستمرار في التعلم حتى بعد التخرج.",
         "is_correct": true
       }
     ],
@@ -564,29 +649,34 @@
     "question_number": 231,
     "question_german": "Frau Frost arbeitet als fest angestellte Mitarbeiterin in einem Büro. Was muss sie nicht von ihrem Gehalt bezahlen?",
     "question_english": "Ms. Frost works as a permanent employee in an office. What does she not have to pay out of her salary?",
+    "question_arabic": "السيدة فروست تعمل كموظفة دائمة في مكتب. ما الذي لا يجب أن تدفعه من راتبها؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "Beiträge zur Arbeitslosenversicherung",
         "text_english": "Contributions to unemployment insurance",
+        "text_arabic": "مساهمات في تأمين البطالة",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "Beiträge zur Renten- und Krankenversicherung",
         "text_english": "Contributions to pension and health insurance",
+        "text_arabic": "مساهمات في تأمين التقاعد والتأمين الصحي",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "Umsatzsteuer",
         "text_english": "Value added tax",
+        "text_arabic": "ضريبة القيمة المضافة",
         "is_correct": true
       },
       {
         "letter": "D",
         "text_german": "Lohnsteuer",
         "text_english": "Income tax",
+        "text_arabic": "ضريبة الدخل",
         "is_correct": false
       }
     ],
@@ -597,29 +687,34 @@
     "question_number": 232,
     "question_german": "Welche Organisation in einer Firma hilft den Arbeitnehmern und Arbeitnehmerinnen bei Problemen mit der Arbeitgeberin/dem Arbeitgeber?",
     "question_english": "Which organization in a company helps employees with problems with their employer?",
+    "question_arabic": "أي منظمة في الشركة تساعد الموظفين في مشاكلهم مع صاحب العمل؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "der Betriebsprüfer/die Betriebsprüferin",
         "text_english": "The auditor",
+        "text_arabic": "المدقق",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "das Betriebsmanagement",
         "text_english": "The operational management",
+        "text_arabic": "الإدارة التشغيلية",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "der Betriebsrat",
         "text_english": "The works council",
+        "text_arabic": "مجلس العمل",
         "is_correct": true
       },
       {
         "letter": "D",
         "text_german": "die Betriebsgruppe",
         "text_english": "The operations group",
+        "text_arabic": "مجموعة العمليات",
         "is_correct": false
       }
     ],
@@ -630,29 +725,34 @@
     "question_number": 233,
     "question_german": "Sie möchten bei einer Firma in Deutschland Ihr Arbeitsverhältnis beenden. Was müssen Sie beachten?",
     "question_english": "You would like to terminate your employment with a company in Germany. What do you have to consider?",
+    "question_arabic": "تود إنهاء عملك في شركة في ألمانيا. ما الذي يجب أن تنتبه إليه؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "die Kündigungsfrist",
         "text_english": "The notice period",
+        "text_arabic": "فترة الإشعار",
         "is_correct": true
       },
       {
         "letter": "B",
         "text_german": "die Versicherungspflicht",
         "text_english": "The insurance obligation",
+        "text_arabic": "الالتزام بالتأمين",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "die Gehaltszahlungen",
         "text_english": "The salary payments",
+        "text_arabic": "مدفوعات الراتب",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "die Arbeitszeit",
         "text_english": "The working hours",
+        "text_arabic": "ساعات العمل",
         "is_correct": false
       }
     ],
@@ -663,29 +763,34 @@
     "question_number": 234,
     "question_german": "Was kann ich in Deutschland machen, wenn mir meine Arbeitgeberin/mein Arbeitgeber zu Unrecht gekündigt hat?",
     "question_english": "What can I do in Germany if my employer has wrongfully dismissed me?",
+    "question_arabic": "ماذا يمكنني أن أفعل في ألمانيا إذا قام صاحب العمل بفصلي ظلماً؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "Kündigungsschutzklage erheben",
         "text_english": "Impose unfair dismissal claim",
+        "text_arabic": "رفع دعوى حماية من الفصل",
         "is_correct": true
       },
       {
         "letter": "B",
         "text_german": "die Arbeitgeberin/den Arbeitgeber bei der Polizei anzeigen",
         "text_english": "Report the employer to the police",
+        "text_arabic": "الإبلاغ عن صاحب العمل للشرطة",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "weiterarbeiten und freundlich zur Chefin/zum Chef sein",
         "text_english": "Keep working and be friendly to the boss",
+        "text_arabic": "مواصلة العمل والتعامل بلطف مع المدير/ة",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "ein Mahnverfahren gegen den Arbeitgeber/die Arbeitgeberin führen",
         "text_english": "Conduct dunning proceedings against the employer",
+        "text_arabic": "إجراء إجراءات تحذيرية ضد صاحب العمل",
         "is_correct": false
       }
     ],
@@ -696,29 +801,34 @@
     "question_number": 235,
     "question_german": "Wann kommt es in Deutschland zu einem Prozess vor Gericht? Wenn jemand ...",
     "question_english": "When will there be a court case in Germany? When someone",
+    "question_arabic": "متى يحدث في ألمانيا قضية أمام المحكمة؟ عندما ...",
     "answers": [
       {
         "letter": "A",
         "text_german": "eine andere Meinung als die der Regierung vertritt",
         "text_english": "Has a different opinion than that of the government",
+        "text_arabic": "لديه رأي مختلف عن رأي الحكومة",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "sein Auto falsch geparkt hat und es abgeschleppt wird",
         "text_english": "Parked his car wrongly and it is towed away",
+        "text_arabic": "ركن سيارته بشكل خاطئ وتم سحبها",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "zu einer anderen Religion übertritt",
         "text_english": "Convert to another religion",
+        "text_arabic": "يعتنق ديانة أخرى",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "eine Straftat begangen hat und angeklagt wird",
         "text_english": "Has committed a crime and is charged",
+        "text_arabic": "ارتكب جريمة وتم اتهامه",
         "is_correct": true
       }
     ],
@@ -729,29 +839,34 @@
     "question_number": 236,
     "question_german": "Wer berät in Deutschland Personen bei Rechtsfragen und vertritt sie vor Gericht?",
     "question_english": "Who advises people in Germany on legal matters and represents them in court?",
+    "question_arabic": "من يقدم المشورة للأشخاص في ألمانيا في المسائل القانونية ويمثلهم أمام المحكمة؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "eine Schöffin/ein Schöffe",
         "text_english": "A lay judge",
+        "text_arabic": "قاضي شعبي",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "eine Staatsanwältin/ein Staatsanwalt",
         "text_english": "A public prosecutor",
+        "text_arabic": "مدعي عام",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "eine Rechtsanwältin/ein Rechtsanwalt",
         "text_english": "A lawyer",
+        "text_arabic": "محامٍ/محامية",
         "is_correct": true
       },
       {
         "letter": "D",
         "text_german": "eine Richterin/ein Richter",
         "text_english": "A Judge",
+        "text_arabic": "قاضي/قاضية",
         "is_correct": false
       }
     ],
@@ -762,29 +877,34 @@
     "question_number": 237,
     "question_german": "Was ist die Hauptaufgabe einer Richterin/eines Richters in Deutschland? Eine Richterin/ein Richter …",
     "question_english": "What is the main task of a judge in Germany? A judge...",
+    "question_arabic": "ما هي المهمة الرئيسية للقاضي/القاضية في ألمانيا؟ القاضي/القاضية ...",
     "answers": [
       {
         "letter": "A",
         "text_german": "ändert Gesetze",
         "text_english": "Changes Laws",
+        "text_arabic": "يغير القوانين",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "betreut Jugendliche vor Gericht",
         "text_english": "Looks after young people in court",
+        "text_arabic": "يرعى الشباب في المحكمة",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "vertritt Bürger und Bürgerinnen vor einem Gericht",
         "text_english": "Represents citizens before a court",
+        "text_arabic": "يمثل المواطنين أمام المحكمة",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "arbeitet an einem Gericht und spricht Urteile",
         "text_english": "Works in a court and passes judgements",
+        "text_arabic": "يعمل في المحكمة ويصدر الأحكام",
         "is_correct": true
       }
     ],
@@ -795,29 +915,34 @@
     "question_number": 238,
     "question_german": "Was macht ein Schöffe/eine Schöffin in Deutschland? Er/Sie …",
     "question_english": "What does a lay judge do in Germany? He / she …",
+    "question_arabic": "ماذا يفعل القاضي الشعبي في ألمانيا؟ هو/هي ...",
     "answers": [
       {
         "letter": "A",
         "text_german": "verteidigt den Angeklagten/die Angeklagte",
         "text_english": "Defends the accused",
+        "text_arabic": "يدافع عن المتهم",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "stellt Urkunden aus",
         "text_english": "Issues certificates",
+        "text_arabic": "يصدر الشهادات",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "gibt Bürgern/Bürgerinnen rechtlichen Rat",
         "text_english": "Gives legal advice to citizens",
+        "text_arabic": "يقدم المشورة القانونية للمواطنين",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "entscheidet mit Richtern/Richterinnen über Schuld und Strafe",
         "text_english": "Decides with judges on guilt and punishment",
+        "text_arabic": "يقرر مع القضاة بشأن الذنب والعقوبة",
         "is_correct": true
       }
     ],
@@ -828,29 +953,34 @@
     "question_number": 239,
     "question_german": "Ein Richter/eine Richterin in Deutschland gehört zur …",
     "question_english": "A judge in Germany belongs to the …",
+    "question_arabic": "القاضي/القاضية في ألمانيا ينتمي إلى ...",
     "answers": [
       {
         "letter": "A",
         "text_german": "Operative",
         "text_english": "Operational",
+        "text_arabic": "العملياتية",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "Exekutive.",
         "text_english": "Executive",
+        "text_arabic": "التنفيذية.",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "Judikative",
         "text_english": "Judiciary",
+        "text_arabic": "القضائية",
         "is_correct": true
       },
       {
         "letter": "D",
         "text_german": "Legislative",
         "text_english": "Legislative branch",
+        "text_arabic": "التشريعية",
         "is_correct": false
       }
     ],
@@ -861,29 +991,34 @@
     "question_number": 240,
     "question_german": "Ein Richter/eine Richterin gehört in Deutschland zur …",
     "question_english": "A judge belongs in Germany to the ...",
+    "question_arabic": "القاضي/القاضية في ألمانيا ينتمي إلى ...",
     "answers": [
       {
         "letter": "A",
         "text_german": "rechtsprechenden Gewalt.",
         "text_english": "Judicial power",
+        "text_arabic": "السلطة القضائية.",
         "is_correct": true
       },
       {
         "letter": "B",
         "text_german": "vollziehenden Gewalt.",
         "text_english": "Executive power",
+        "text_arabic": "السلطة التنفيذية.",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "gesetzgebenden Gewalt.",
         "text_english": "Legislative power.",
+        "text_arabic": "السلطة التشريعية.",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "planenden Gewalt.",
         "text_english": "Planning violence",
+        "text_arabic": "السلطة التخطيطية.",
         "is_correct": false
       }
     ],
@@ -894,29 +1029,34 @@
     "question_number": 241,
     "question_german": "In Deutschland wird die Staatsgewalt geteilt. Für welche Staatsgewalt arbeitet ein Richter/eine Richterin? Für die …",
     "question_english": "In Germany, the power of the state is divided. For which state authority does a judge work? For the ...",
+    "question_arabic": "في ألمانيا، يتم تقسيم سلطة الدولة. لأي سلطة يعمل القاضي/القاضية؟ للـ ...",
     "answers": [
       {
         "letter": "A",
         "text_german": "Legislative",
         "text_english": "Legislative",
+        "text_arabic": "التشريعية",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "Judikative",
         "text_english": "Judiciary",
+        "text_arabic": "القضائية",
         "is_correct": true
       },
       {
         "letter": "C",
         "text_german": "Exekutive",
         "text_english": "Executive",
+        "text_arabic": "التنفيذية",
         "is_correct": false
       },
       {
         "letter": "D",
-        "text_german": "e",
+        "text_german": "Presse",
         "text_english": "Press",
+        "text_arabic": "الصحافة",
         "is_correct": false
       }
     ],
@@ -927,29 +1067,34 @@
     "question_number": 242,
     "question_german": "Wie nennt man in Deutschland ein Verfahren vor einem Gericht?",
     "question_english": "What is a procedure before a court called in Germany?",
+    "question_arabic": "ماذا يسمى الإجراء أمام المحكمة في ألمانيا؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "Protokoll",
         "text_english": "Protocol",
+        "text_arabic": "بروتوكول",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "Prozess",
         "text_english": "Process",
+        "text_arabic": "محاكمة",
         "is_correct": true
       },
       {
         "letter": "C",
         "text_german": "m",
         "text_english": "Program",
+        "text_arabic": "برنامج",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "Prozedur",
         "text_english": "Procedure",
+        "text_arabic": "إجراء",
         "is_correct": false
       }
     ],
@@ -960,29 +1105,34 @@
     "question_number": 243,
     "question_german": "Was ist die Arbeit eines Richters/einer Richterin in Deutschland?",
     "question_english": "What is the work of a judge in Germany?",
+    "question_arabic": "ما هو عمل القاضي/القاضية في ألمانيا؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "Recht sprechen",
         "text_english": "Dispense justice",
+        "text_arabic": "إصدار الأحكام",
         "is_correct": true
       },
       {
         "letter": "B",
         "text_german": "Pläne erstellen",
         "text_english": "Create plans",
+        "text_arabic": "وضع الخطط",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "Gesetze erlasse",
         "text_english": "Make laws",
+        "text_arabic": "سن القوانين",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "Deutschland regieren",
         "text_english": "Rule Germany",
+        "text_arabic": "حكم ألمانيا",
         "is_correct": false
       }
     ],
@@ -993,29 +1143,34 @@
     "question_number": 244,
     "question_german": "Was ist eine Aufgabe der Polizei in Deutschland?",
     "question_english": "What is the task of the police in Germany?",
+    "question_arabic": "ما هي مهمة الشرطة في ألمانيا؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "die Bürgerinnen und Bürger abzuhören",
         "text_english": "Listen to the citizens",
+        "text_arabic": "التنصت على المواطنين",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "das Land zu verteidigen",
         "text_english": "To defend the country",
+        "text_arabic": "الدفاع عن البلاد",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "die Einhaltung von Gesetzen zu überwachen",
         "text_english": "To monitor compliance with laws",
+        "text_arabic": "مراقبة الالتزام بالقوانين",
         "is_correct": true
       },
       {
         "letter": "D",
         "text_german": "die Gesetze zu beschließen",
         "text_english": "To pass the laws",
+        "text_arabic": "إصدار القوانين",
         "is_correct": false
       }
     ],
@@ -1026,29 +1181,34 @@
     "question_number": 245,
     "question_german": "Wie kann jemand, der den Holocaust leugnet, bestraft werden?",
     "question_english": "How can someone who denies the Holocaust be punished?",
+    "question_arabic": "كيف يمكن معاقبة من ينكر الهولوكوست؟",
     "answers": [
       {
         "letter": "A",
         "text_german": "gar nicht, Holocaustleugnung ist erlaubt",
         "text_english": "Not at all, Holocaust denial is permitted",
+        "text_arabic": "لا يمكن، إنكار الهولوكوست مسموح",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "Kürzung sozialer Leistungen",
         "text_english": "Reduction in social benefits",
+        "text_arabic": "تخفيض المساعدات الاجتماعية",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "mit Freiheitsstrafe bis zu fünf Jahren oder mit Geldstrafe",
         "text_english": "With imprisonment of up to five years or a fine",
+        "text_arabic": "بالسجن حتى خمس سنوات أو بغرامة مالية",
         "is_correct": true
       },
       {
         "letter": "D",
         "text_german": "bis zu 100 Sozialstunden",
         "text_english": "Up to 100 hours of community service",
+        "text_arabic": "حتى 100 ساعة خدمة اجتماعية",
         "is_correct": false
       }
     ],
@@ -1059,29 +1219,34 @@
     "question_number": 246,
     "question_german": "Ein Gerichtsschöffe/eine Gerichtsschöffin in Deutschland ist …",
     "question_english": "A judge in Germany is …",
+    "question_arabic": "القاضي الشعبي في ألمانيا هو ...",
     "answers": [
       {
         "letter": "A",
         "text_german": "ein Mitglied eines Gemeinderats.",
         "text_english": "A member of a local council.",
+        "text_arabic": "عضو في مجلس محلي.",
         "is_correct": false
       },
       {
         "letter": "B",
         "text_german": "eine Person, die Jura studiert hat",
         "text_english": "A person who studied law",
+        "text_arabic": "شخص درس القانون",
         "is_correct": false
       },
       {
         "letter": "C",
         "text_german": "der Stellvertreter/die Stellvertreterin des Stadtoberhaupts",
         "text_english": "The deputy mayor",
+        "text_arabic": "نائب رئيس البلدية",
         "is_correct": false
       },
       {
         "letter": "D",
         "text_german": "ein ehrenamtlicher Richter/eine ehrenamtliche Richterin",
         "text_english": "An honorary judge",
+        "text_arabic": "قاضي/قاضية شرفي/ة",
         "is_correct": true
       }
     ],
